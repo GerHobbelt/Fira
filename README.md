@@ -5,7 +5,8 @@ Telefonica S.A., bBox Type GmbH, and contributors
 
 SIL Open Font License, Version 1.1
 
-There is no Reserved Font Name: see below for details.
+There is no Reserved Font Name: see [below](#removal-of-reserved-font-name)
+for details.
 
 The `main` branch of this repository exists to explain the other branches.
 
@@ -83,3 +84,7 @@ For discussion, see <https://github.com/mozilla/Fira/pull/219>,
 <https://github.com/mozilla/Fira/issues/218>,
 <https://github.com/tonsky/FiraCode/issues/573>, and
 <https://github.com/tonsky/FiraCode/pull/731>.
+
+The version of [OFL.txt](OFL.txt) in the same directory as this file
+corresponds to
+<https://github.com/bBoxType/FiraSans/blob/f54eeb3124c63fe9b5bcd36d09d1cd46788cd15e/OFL.txt>.
