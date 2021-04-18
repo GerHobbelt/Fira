@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni049E" format="1">
-  <advance width="530"/>
+  <advance width="540"/>
   <unicode hex="049E"/>
   <outline>
     <contour>
-      <point x="168" y="574" type="line"/>
-      <point x="74" y="574" type="line"/>
-      <point x="74" y="572" type="line"/>
-      <point x="296" y="572" type="line"/>
-      <point x="296" y="574" type="line"/>
+      <point x="178" y="574" type="line"/>
+      <point x="84" y="574" type="line"/>
+      <point x="84" y="572" type="line"/>
+      <point x="306" y="572" type="line"/>
+      <point x="306" y="574" type="line"/>
     </contour>
-    <component base="uni041A" xOffset="-6"/>
+    <component base="uni041A" xOffset="4"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:28:49 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>Eth</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -41,7 +43,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>54</integer>
+                  <integer>64</integer>
                   <key>y</key>
                   <integer>574</integer>
                 </dict>
@@ -51,7 +53,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>54</integer>
+                  <integer>64</integer>
                   <key>y</key>
                   <integer>572</integer>
                 </dict>
@@ -61,7 +63,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>276</integer>
+                  <integer>286</integer>
                   <key>y</key>
                   <integer>572</integer>
                 </dict>
@@ -71,7 +73,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>276</integer>
+                  <integer>286</integer>
                   <key>y</key>
                   <integer>574</integer>
                 </dict>
@@ -82,12 +84,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Kastroke-cy</string>
+          <string>uni049E</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>530</integer>
+          <integer>540</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

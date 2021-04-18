@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni046E" format="1">
-  <advance width="505"/>
+  <advance width="502"/>
   <unicode hex="046E"/>
   <outline>
-    <component base="Ksi-cyHELPER"/>
-    <component base="uni030C.case" xOffset="35"/>
+    <component base="KsicyHELPER"/>
+    <component base="uni030C.case" xOffset="36"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:28:49 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>Ksi-cyHELPER</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -317,12 +319,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Ksi-cy</string>
+          <string>uni046E</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>505</integer>
+          <integer>502</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

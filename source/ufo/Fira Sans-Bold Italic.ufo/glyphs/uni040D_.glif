@@ -4,15 +4,17 @@
   <unicode hex="040D"/>
   <outline>
     <component base="uni0418"/>
-    <component base="gravecomb.case" xOffset="145"/>
+    <component base="gravecomb.case" xOffset="155"/>
     <contour>
-      <point x="326" y="696" type="move" name="top"/>
+      <point x="361" y="696" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:28:45 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>H</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

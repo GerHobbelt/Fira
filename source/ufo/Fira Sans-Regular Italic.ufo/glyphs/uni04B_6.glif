@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04B6" format="1">
-  <advance width="616"/>
+  <advance width="607"/>
   <unicode hex="04B6"/>
   <outline>
     <component base="uni0427"/>
-    <component base="descStraight-cy.case" xOffset="431"/>
+    <component base="descStraightcy.case" xOffset="432"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>==Che-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:28:50 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>Che</string>
+      <string>Che-cy</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>Endescender-cy</string>
       <key>public.markColor</key>
@@ -21,12 +21,20 @@
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>uni0427</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>descStraight-cy.case</string>
+          <string>descStraightcy.case</string>
         </dict>
       </array>
     </dict>

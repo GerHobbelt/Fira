@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aring" format="1">
-  <advance width="551"/>
+  <advance width="552"/>
   <unicode hex="00E5"/>
   <outline>
     <component base="a"/>
@@ -10,6 +10,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:27:27 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -34,7 +36,7 @@
             </dict>
             <dict>
               <key>baseGlyph</key>
-              <string>ringcomb</string>
+              <string>uni030A</string>
               <key>transformation</key>
               <array>
                 <integer>1</integer>
@@ -58,7 +60,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>551</integer>
+          <integer>552</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

@@ -6,7 +6,7 @@
     <contour>
       <point x="380" y="0"/>
       <point x="485" y="66"/>
-      <point x="485" y="211" type="curve" smooth="yes"/>
+      <point x="485" y="205" type="curve" smooth="yes"/>
       <point x="485" y="297"/>
       <point x="433" y="341"/>
       <point x="334" y="362" type="curve"/>
@@ -36,6 +36,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>n</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -291,7 +293,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Rsmallinverted</string>
+          <string>uni0281</string>
           <key>unicodes</key>
           <array>
           </array>

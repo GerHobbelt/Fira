@@ -4,26 +4,31 @@
   <unicode hex="04FE"/>
   <outline>
     <contour>
+      <point x="463" y="689" type="line"/>
+      <point x="285" y="420" type="line"/>
+      <point x="225" y="367" type="line"/>
+      <point x="-33" y="0" type="line"/>
+      <point x="72" y="0" type="line"/>
+      <point x="275" y="314" type="line"/>
+      <point x="335" y="371" type="line"/>
+      <point x="567" y="689" type="line"/>
+    </contour>
+    <contour>
       <point x="83" y="689" type="line"/>
-      <point x="226" y="367" type="line"/>
-      <point x="276" y="317" type="line"/>
+      <point x="225" y="367" type="line"/>
+      <point x="275" y="314" type="line"/>
       <point x="389" y="0" type="line"/>
       <point x="492" y="0" type="line"/>
-      <point x="335" y="372" type="line"/>
-      <point x="285" y="419" type="line"/>
+      <point x="335" y="371" type="line"/>
+      <point x="285" y="420" type="line"/>
       <point x="186" y="689" type="line"/>
     </contour>
     <contour>
-      <point x="463" y="689" type="line"/>
-      <point x="285" y="419" type="line"/>
-      <point x="223" y="367" type="line"/>
-      <point x="-33" y="0" type="line"/>
-      <point x="72" y="0" type="line"/>
-      <point x="276" y="317" type="line"/>
-      <point x="338" y="372" type="line"/>
-      <point x="567" y="689" type="line"/>
+      <point x="483" y="333" type="line"/>
+      <point x="494" y="403" type="line"/>
+      <point x="73" y="403" type="line"/>
+      <point x="62" y="333" type="line"/>
     </contour>
-    <component base="hyphen" xOffset="-32" yOffset="86" xScale="1.5" yScale="0.9"/>
     <contour>
       <point x="327" y="689" type="move" name="top"/>
     </contour>
@@ -38,6 +43,12 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>X</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>X</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

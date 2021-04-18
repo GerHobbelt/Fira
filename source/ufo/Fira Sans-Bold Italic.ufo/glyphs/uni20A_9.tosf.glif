@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni20A9.tosf" format="1">
+  <advance width="900"/>
+  <outline>
+    <contour>
+      <point x="47" y="315" type="line"/>
+      <point x="36" y="234" type="line"/>
+      <point x="855" y="234" type="line"/>
+      <point x="866" y="315" type="line"/>
+    </contour>
+    <contour>
+      <point x="64" y="432" type="line"/>
+      <point x="52" y="351" type="line"/>
+      <point x="871" y="351" type="line"/>
+      <point x="883" y="432" type="line"/>
+    </contour>
+    <contour>
+      <point x="727" y="680" type="line"/>
+      <point x="596" y="145" type="line"/>
+      <point x="611" y="680" type="line"/>
+      <point x="406" y="680" type="line"/>
+      <point x="261" y="145" type="line"/>
+      <point x="293" y="680" type="line"/>
+      <point x="99" y="680" type="line"/>
+      <point x="98" y="0" type="line"/>
+      <point x="346" y="0" type="line"/>
+      <point x="480" y="490" type="line"/>
+      <point x="472" y="0" type="line"/>
+      <point x="727" y="0" type="line"/>
+      <point x="917" y="680" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>W</string>
+              <key>transformation</key>
+              <array>
+                <real>0.97</real>
+                <integer>0</integer>
+                <integer>0</integer>
+                <real>0.97</real>
+                <integer>33</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni20A9.tosf</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>900</integer>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

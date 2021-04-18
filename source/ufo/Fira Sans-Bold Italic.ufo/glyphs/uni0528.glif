@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0528" format="1">
-  <advance width="632"/>
+  <advance width="645"/>
   <unicode hex="0528"/>
   <outline>
-    <component base="H" xScale="0.98"/>
-    <component base="hookHELPER.case" xOffset="-166" xScale="0.98"/>
+    <component base="H"/>
+    <component base="hookHELPER.case" xOffset="-170"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:28:44 +0000</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>H</string>
       <key>public.markColor</key>

@@ -3,12 +3,6 @@
   <advance width="1200"/>
   <outline>
     <contour>
-      <point x="176" y="-9" type="line"/>
-      <point x="178" y="-9" type="line"/>
-      <point x="734" y="710" type="line"/>
-      <point x="732" y="710" type="line"/>
-    </contour>
-    <contour>
       <point x="386" y="687"/>
       <point x="424" y="647"/>
       <point x="424" y="573" type="curve" smooth="yes"/>
@@ -92,11 +86,19 @@
       <point x="1010" y="295"/>
       <point x="943" y="295" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="737" y="710" type="line"/>
+      <point x="174" y="-9" type="line"/>
+      <point x="172" y="-9" type="line"/>
+      <point x="735" y="710" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>

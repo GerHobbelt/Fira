@@ -3,10 +3,12 @@
   <advance width="490"/>
   <outline>
     <contour>
-      <point x="430" y="349" type="line"/>
+      <point x="420" y="349" type="line"/>
+      <point x="344" y="349" type="line"/>
       <point x="70" y="349" type="line"/>
       <point x="70" y="245" type="line"/>
-      <point x="430" y="245" type="line"/>
+      <point x="146" y="245" type="line"/>
+      <point x="420" y="245" type="line"/>
     </contour>
     <component base="t.sc"/>
   </outline>
@@ -14,6 +16,12 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:10:41 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>t.sc</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>t.sc</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>

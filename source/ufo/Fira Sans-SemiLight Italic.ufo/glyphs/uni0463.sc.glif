@@ -1,47 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0463.sc" format="1">
-  <advance width="513"/>
+  <advance width="528"/>
   <outline>
     <contour>
-      <point x="232" y="0" type="line" smooth="yes"/>
-      <point x="403" y="0"/>
-      <point x="458" y="97"/>
-      <point x="458" y="195" type="curve" smooth="yes"/>
-      <point x="458" y="289"/>
-      <point x="390" y="340"/>
-      <point x="277" y="340" type="curve" smooth="yes"/>
-      <point x="165" y="340" type="line"/>
-      <point x="162" y="312" type="line"/>
-      <point x="279" y="312" type="line" smooth="yes"/>
-      <point x="373" y="312"/>
-      <point x="428" y="272"/>
-      <point x="428" y="194" type="curve" smooth="yes"/>
-      <point x="428" y="117"/>
-      <point x="387" y="28"/>
-      <point x="242" y="28" type="curve" smooth="yes"/>
-      <point x="129" y="28" type="line"/>
-      <point x="203" y="560" type="line"/>
-      <point x="173" y="560" type="line"/>
-      <point x="95" y="0" type="line"/>
+      <point x="247" y="0" type="line" smooth="yes"/>
+      <point x="418" y="0"/>
+      <point x="473" y="97"/>
+      <point x="473" y="195" type="curve" smooth="yes"/>
+      <point x="473" y="289"/>
+      <point x="405" y="340"/>
+      <point x="292" y="340" type="curve" smooth="yes"/>
+      <point x="180" y="340" type="line"/>
+      <point x="177" y="312" type="line"/>
+      <point x="294" y="312" type="line" smooth="yes"/>
+      <point x="388" y="312"/>
+      <point x="443" y="272"/>
+      <point x="443" y="194" type="curve" smooth="yes"/>
+      <point x="443" y="117"/>
+      <point x="402" y="28"/>
+      <point x="257" y="28" type="curve" smooth="yes"/>
+      <point x="144" y="28" type="line"/>
+      <point x="218" y="560" type="line"/>
+      <point x="188" y="560" type="line"/>
+      <point x="110" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="331" y="453" type="line"/>
-      <point x="335" y="480" type="line"/>
-      <point x="162" y="480" type="line"/>
-      <point x="31" y="480" type="line"/>
-      <point x="27" y="453" type="line"/>
+      <point x="346" y="453" type="line"/>
+      <point x="350" y="480" type="line"/>
+      <point x="177" y="480" type="line"/>
+      <point x="46" y="480" type="line"/>
+      <point x="42" y="453" type="line"/>
     </contour>
     <contour>
-      <point x="299" y="560" type="move" name="top"/>
+      <point x="314" y="560" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="220" y="0" type="move" name="bottom"/>
+      <point x="235" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>hardsign-cy.sc</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -67,7 +69,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>68</integer>
+                  <integer>83</integer>
                   <key>y</key>
                   <integer>560</integer>
                 </dict>
@@ -77,7 +79,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>64</integer>
+                  <integer>79</integer>
                   <key>y</key>
                   <integer>531</integer>
                 </dict>
@@ -87,7 +89,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>432</integer>
+                  <integer>447</integer>
                   <key>y</key>
                   <integer>531</integer>
                 </dict>
@@ -97,7 +99,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>441</integer>
+                  <integer>456</integer>
                   <key>y</key>
                   <integer>560</integer>
                 </dict>
@@ -108,12 +110,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>yat-cy.sc</string>
+          <string>uni0463.sc</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>513</integer>
+          <integer>528</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

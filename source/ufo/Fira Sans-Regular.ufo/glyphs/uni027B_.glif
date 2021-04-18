@@ -23,8 +23,6 @@
       <point x="291" y="0" type="line"/>
       <point x="291" y="527" type="line"/>
       <point x="199" y="527" type="line"/>
-      <point x="199" y="212" type="line"/>
-      <point x="199" y="117" type="line"/>
       <point x="199" y="0" type="line"/>
     </contour>
     <component base="hookHELPER" xOffset="495" xScale="-1"/>
@@ -39,6 +37,10 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:07:14 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=|r</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -250,7 +252,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>rhookturned</string>
+          <string>uni027B</string>
           <key>unicodes</key>
           <array>
           </array>

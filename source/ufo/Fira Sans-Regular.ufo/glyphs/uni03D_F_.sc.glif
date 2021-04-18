@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni03DF.sc" format="1">
-  <advance width="406"/>
+  <advance width="416"/>
   <outline>
     <contour>
       <point x="231" y="0" type="line"/>
@@ -18,7 +18,7 @@
       <point x="283" y="564" type="line"/>
       <point x="184" y="564" type="line"/>
       <point x="20" y="324" type="line"/>
-      <point x="105" y="300" type="line"/>
+      <point x="104" y="302" type="line"/>
     </contour>
     <contour>
       <point x="203" y="564" type="move" name="top"/>
@@ -31,6 +31,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:35:10 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>Koppa</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -187,12 +189,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>koppa.sc</string>
+          <string>uni03DF.sc</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>406</integer>
+          <integer>416</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

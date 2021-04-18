@@ -3,20 +3,18 @@
   <advance width="470"/>
   <outline>
     <component base="l.sc"/>
-    <component base="uni0307" xOffset="223" yOffset="-251" xScale="0.8" yScale="0.8"/>
+    <component base="uni0307" xOffset="220" yOffset="-251" xScale="0.8" yScale="0.8"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>==l.sc</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>==l.sc</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:28:30 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>l.sc</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>Ldotaccent</string>
+      <string>l.sc</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -41,7 +39,7 @@
             </dict>
             <dict>
               <key>baseGlyph</key>
-              <string>dotaccentcomb</string>
+              <string>uni0307</string>
               <key>transformation</key>
               <array>
                 <integer>1</integer>

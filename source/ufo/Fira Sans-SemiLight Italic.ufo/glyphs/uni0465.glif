@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0465" format="1">
-  <advance width="678"/>
+  <advance width="674"/>
   <unicode hex="0465"/>
   <outline>
     <contour>
@@ -9,8 +9,8 @@
       <point x="108" y="0" type="line"/>
       <point x="145" y="255" type="line"/>
       <point x="303" y="255" type="line"/>
-      <point x="304" y="283" type="line"/>
-      <point x="149" y="283" type="line"/>
+      <point x="303" y="282" type="line"/>
+      <point x="148" y="282" type="line"/>
       <point x="182" y="520" type="line"/>
     </contour>
     <component base="uni0454" xOffset="206"/>
@@ -25,6 +25,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:23:21 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>n</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -334,12 +336,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>eiotified-cy</string>
+          <string>uni0465</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>678</integer>
+          <integer>674</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

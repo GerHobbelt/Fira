@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04A4" format="1">
-  <advance width="688"/>
+  <advance width="765"/>
   <unicode hex="04A4"/>
   <outline>
     <contour>
-      <point x="582" y="654" type="line"/>
-      <point x="743" y="654" type="line"/>
-      <point x="746" y="682" type="line"/>
+      <point x="597" y="652" type="line"/>
+      <point x="805" y="652" type="line"/>
+      <point x="814" y="682" type="line"/>
       <point x="570" y="682" type="line"/>
     </contour>
     <component base="H"/>
@@ -15,10 +15,12 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:23:21 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>H</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>=|Hardsign-cy</string>
+      <string>T</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -81,12 +83,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Enghe-cy</string>
+          <string>uni04A4</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>688</integer>
+          <integer>765</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

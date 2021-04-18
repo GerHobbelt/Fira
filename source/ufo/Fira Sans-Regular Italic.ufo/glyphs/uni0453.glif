@@ -4,12 +4,14 @@
   <unicode hex="0453"/>
   <outline>
     <component base="uni0433"/>
-    <component base="acutecomb" xOffset="97"/>
+    <component base="acutecomb" xOffset="96"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:23:30 +0000</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>auto</string>
       <key>com.typemytype.robofont.layerData</key>
@@ -23,7 +25,7 @@
           <array>
             <dict>
               <key>baseGlyph</key>
-              <string>ge-cy</string>
+              <string>uni0433</string>
               <key>transformation</key>
               <array>
                 <integer>1</integer>
@@ -55,7 +57,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>gje-cy</string>
+          <string>uni0453</string>
           <key>unicodes</key>
           <array>
           </array>

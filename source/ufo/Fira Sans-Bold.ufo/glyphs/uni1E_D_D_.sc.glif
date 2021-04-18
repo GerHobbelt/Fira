@@ -3,13 +3,15 @@
   <advance width="671"/>
   <outline>
     <component base="o.sc"/>
-    <component base="uni031B" xOffset="497" yOffset="37"/>
+    <component base="uni031B" xOffset="487" yOffset="37"/>
     <component base="gravecomb.sc" xOffset="135"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:10:01 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>Ohorn</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -19,8 +21,8 @@
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>0</integer>
           <key>name</key>

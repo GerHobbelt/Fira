@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni20A9" format="1">
+  <advance width="863"/>
+  <unicode hex="20A9"/>
+  <outline>
+    <contour>
+      <point x="15" y="315" type="line"/>
+      <point x="15" y="234" type="line"/>
+      <point x="848" y="234" type="line"/>
+      <point x="848" y="315" type="line"/>
+    </contour>
+    <contour>
+      <point x="15" y="432" type="line"/>
+      <point x="15" y="351" type="line"/>
+      <point x="848" y="351" type="line"/>
+      <point x="848" y="432" type="line"/>
+    </contour>
+    <contour>
+      <point x="656" y="680" type="line"/>
+      <point x="598" y="145" type="line"/>
+      <point x="538" y="680" type="line"/>
+      <point x="329" y="680" type="line"/>
+      <point x="258" y="145" type="line"/>
+      <point x="215" y="680" type="line"/>
+      <point x="15" y="680" type="line"/>
+      <point x="109" y="0" type="line"/>
+      <point x="363" y="0" type="line"/>
+      <point x="430" y="490" type="line"/>
+      <point x="490" y="0" type="line"/>
+      <point x="750" y="0" type="line"/>
+      <point x="848" y="680" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:35:10 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>W</string>
+              <key>transformation</key>
+              <array>
+                <real>0.97</real>
+                <integer>0</integer>
+                <integer>0</integer>
+                <real>0.97</real>
+                <integer>15</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni20A9</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>863</integer>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

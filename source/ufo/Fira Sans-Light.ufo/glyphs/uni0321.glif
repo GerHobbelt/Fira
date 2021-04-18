@@ -5,16 +5,18 @@
   <outline>
     <component base="hookHELPER" xOffset="-13"/>
     <contour>
-      <point x="192" y="0" type="move" name="_bottom"/>
+      <point x="179" y="0" type="move" name="_bottom"/>
     </contour>
     <contour>
-      <point x="114" y="-192" type="move" name="bottom"/>
+      <point x="101" y="-192" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:16:43 +0000</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

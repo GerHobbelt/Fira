@@ -3,12 +3,14 @@
   <advance width="620"/>
   <outline>
     <component base="n.sc"/>
-    <component base="uni0326.sc" xOffset="223"/>
+    <component base="uni0326.sc" xOffset="226"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:28:30 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -33,7 +35,7 @@
             </dict>
             <dict>
               <key>baseGlyph</key>
-              <string>commaaccentcomb.sc</string>
+              <string>uni0326.sc</string>
               <key>transformation</key>
               <array>
                 <integer>1</integer>

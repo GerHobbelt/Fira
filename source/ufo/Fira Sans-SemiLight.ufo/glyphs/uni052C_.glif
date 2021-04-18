@@ -20,7 +20,7 @@
       <point x="282" y="653" type="line"/>
       <point x="504" y="653" type="line"/>
       <point x="504" y="29" type="line"/>
-      <point x="131" y="29" type="line"/>
+      <point x="126" y="29" type="line"/>
     </contour>
     <contour>
       <point x="106" y="566" type="line" smooth="yes"/>
@@ -36,8 +36,8 @@
       <point x="137" y="682" type="line"/>
       <point x="106" y="682" type="line"/>
     </contour>
-    <component base="descStraight-cy.case" xOffset="144" xScale="-1"/>
-    <component base="descStraight-cy.case" xOffset="488"/>
+    <component base="descStraightcy.case" xOffset="144" xScale="-1"/>
+    <component base="descStraightcy.case" xOffset="488"/>
     <contour>
       <point x="328" y="682" type="move" name="top"/>
     </contour>
@@ -49,6 +49,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:10:54 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>Che-cy</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -339,7 +341,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Dche-cy</string>
+          <string>uni052C</string>
           <key>unicodes</key>
           <array>
           </array>

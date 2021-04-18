@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nine.osf" format="1">
-  <advance width="518"/>
+  <advance width="517"/>
   <outline>
     <contour>
+      <point x="424" y="-22"/>
+      <point x="480" y="172"/>
+      <point x="480" y="363" type="curve" smooth="yes"/>
+      <point x="480" y="486"/>
+      <point x="418" y="574"/>
+      <point x="288" y="574" type="curve" smooth="yes"/>
       <point x="124" y="574"/>
       <point x="53" y="431"/>
       <point x="53" y="317" type="curve" smooth="yes"/>
@@ -33,22 +39,14 @@
       <point x="226" y="0"/>
       <point x="49" y="-49" type="curve"/>
       <point x="64" y="-120" type="line"/>
-      <point x="424" y="-22"/>
-      <point x="480" y="172"/>
-      <point x="480" y="363" type="curve" smooth="yes"/>
-      <point x="480" y="486"/>
-      <point x="418" y="574"/>
-      <point x="288" y="574" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>==nine</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>==nine</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>nine</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -686,7 +684,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>518</integer>
+          <integer>517</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

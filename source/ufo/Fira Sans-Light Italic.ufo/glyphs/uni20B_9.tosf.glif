@@ -1,59 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni20B9.tosf" format="1">
-  <advance width="560"/>
+  <advance width="558"/>
   <outline>
     <contour>
-      <point x="251" y="324" type="line"/>
-      <point x="370" y="327"/>
-      <point x="448" y="412"/>
-      <point x="448" y="532" type="curve" smooth="yes"/>
-      <point x="448" y="623"/>
-      <point x="402" y="674"/>
-      <point x="281" y="679" type="curve"/>
-      <point x="256" y="680" type="line"/>
-      <point x="179" y="680" type="line"/>
-      <point x="181" y="678" type="line"/>
-      <point x="256" y="678" type="line" smooth="yes"/>
-      <point x="395" y="678"/>
-      <point x="446" y="627"/>
-      <point x="446" y="532" type="curve" smooth="yes"/>
-      <point x="446" y="413"/>
-      <point x="368" y="326"/>
-      <point x="245" y="326" type="curve" smooth="yes"/>
-      <point x="130" y="326" type="line"/>
-      <point x="130" y="324" type="line"/>
+      <point x="398" y="0" type="line"/>
+      <point x="248" y="305" type="line"/>
+      <point x="246" y="305" type="line"/>
+      <point x="395" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="400" y="0" type="line"/>
-      <point x="252" y="325" type="line"/>
-      <point x="250" y="325" type="line"/>
-      <point x="397" y="0" type="line"/>
+      <point x="529" y="524" type="line"/>
+      <point x="530" y="526" type="line"/>
+      <point x="159" y="526" type="line"/>
+      <point x="158" y="524" type="line"/>
     </contour>
     <contour>
-      <point x="534" y="544" type="line"/>
-      <point x="534" y="546" type="line"/>
-      <point x="162" y="546" type="line"/>
-      <point x="162" y="544" type="line"/>
-    </contour>
-    <contour>
-      <point x="280" y="678" type="line"/>
-      <point x="283" y="678" type="line"/>
-      <point x="553" y="678" type="line"/>
-      <point x="553" y="680" type="line"/>
-      <point x="181" y="680" type="line"/>
-      <point x="181" y="678" type="line"/>
+      <point x="177" y="660" type="line"/>
+      <point x="177" y="658" type="line"/>
+      <point x="251" y="658" type="line" smooth="yes"/>
+      <point x="390" y="658"/>
+      <point x="442" y="605"/>
+      <point x="442" y="516" type="curve" smooth="yes"/>
+      <point x="442" y="392"/>
+      <point x="365" y="306"/>
+      <point x="246" y="306" type="curve" smooth="yes"/>
+      <point x="127" y="306" type="line"/>
+      <point x="127" y="304" type="line"/>
+      <point x="246" y="304" type="line" smooth="yes"/>
+      <point x="366" y="304"/>
+      <point x="444" y="391"/>
+      <point x="444" y="516" type="curve" smooth="yes"/>
+      <point x="444" y="606"/>
+      <point x="393" y="649"/>
+      <point x="292" y="658" type="curve"/>
+      <point x="548" y="658" type="line"/>
+      <point x="548" y="660" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>rupeeIndian.tf</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>rupeeIndian.tf</string>
       <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

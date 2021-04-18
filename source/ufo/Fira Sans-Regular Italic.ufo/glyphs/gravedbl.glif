@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gravedbl" format="1">
-  <advance width="248"/>
+  <advance width="229"/>
   <outline>
     <contour>
-      <point x="115" y="749" type="line"/>
-      <point x="234" y="623" type="line"/>
-      <point x="272" y="656" type="line"/>
-      <point x="175" y="801" type="line"/>
+      <point x="98" y="750" type="line"/>
+      <point x="216" y="623" type="line"/>
+      <point x="254" y="654" type="line"/>
+      <point x="157" y="801" type="line"/>
     </contour>
     <contour>
-      <point x="242" y="527" type="move" name="_topleft"/>
+      <point x="224" y="527" type="move" name="_topleft"/>
     </contour>
     <contour>
-      <point x="223" y="527" type="move" name="_top"/>
+      <point x="205" y="527" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
@@ -21,6 +21,8 @@
       <integer>10</integer>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
     </dict>

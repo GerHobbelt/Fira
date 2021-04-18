@@ -4,12 +4,14 @@
   <unicode hex="04E3"/>
   <outline>
     <component base="uni0438"/>
-    <component base="uni0304" xOffset="157"/>
+    <component base="uni0304" xOffset="162"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:23:21 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -34,7 +36,7 @@
             </dict>
             <dict>
               <key>baseGlyph</key>
-              <string>macroncomb</string>
+              <string>uni0304</string>
               <key>transformation</key>
               <array>
                 <integer>1</integer>
@@ -53,7 +55,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>imacron-cy</string>
+          <string>uni04E3</string>
           <key>unicodes</key>
           <array>
           </array>

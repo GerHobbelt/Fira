@@ -9,7 +9,7 @@
       <point x="162" y="560" type="line"/>
       <point x="84" y="0" type="line"/>
       <point x="114" y="0" type="line"/>
-      <point x="152" y="270" type="line"/>
+      <point x="151" y="270" type="line"/>
       <point x="338" y="270" type="line"/>
     </contour>
     <component base="uni0467.sc" xOffset="187"/>
@@ -24,6 +24,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:23:21 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>H</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -33,8 +35,8 @@
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>0</integer>
           <key>name</key>

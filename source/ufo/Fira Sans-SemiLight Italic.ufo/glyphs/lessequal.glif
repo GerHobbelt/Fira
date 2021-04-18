@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lessequal" format="1">
-  <advance width="494"/>
+  <advance width="493"/>
   <unicode hex="2264"/>
   <outline>
     <component base="less"/>
@@ -10,10 +10,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>==less</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>==less</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:31:42 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>less</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -160,7 +158,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>494</integer>
+          <integer>493</integer>
         </dict>
       </dict>
       <key>public.markColor</key>
@@ -168,8 +166,8 @@
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>0</integer>
           <key>name</key>

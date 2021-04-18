@@ -1,23 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FDE" format="1">
-  <advance width="254"/>
+  <advance width="251"/>
   <unicode hex="1FDE"/>
   <outline>
     <contour>
-      <point x="181" y="598" type="line"/>
-      <point x="203" y="590" type="line"/>
-      <point x="289" y="751" type="line"/>
-      <point x="254" y="765" type="line"/>
+      <point x="182" y="598" type="line"/>
+      <point x="204" y="590" type="line"/>
+      <point x="290" y="751" type="line"/>
+      <point x="255" y="765" type="line"/>
     </contour>
-    <component base="uni1FFE" xOffset="-7"/>
+    <component base="uni1FFE"/>
     <contour>
-      <point x="157" y="520" type="move" name="_top"/>
+      <point x="164" y="520" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:34:49 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -39,7 +41,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>133</integer>
+                  <integer>140</integer>
                   <key>y</key>
                   <integer>601</integer>
                 </dict>
@@ -49,7 +51,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>156</integer>
+                  <integer>163</integer>
                   <key>y</key>
                   <integer>592</integer>
                 </dict>
@@ -59,7 +61,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>228</integer>
+                  <integer>235</integer>
                   <key>y</key>
                   <integer>749</integer>
                 </dict>
@@ -69,7 +71,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>191</integer>
+                  <integer>198</integer>
                   <key>y</key>
                   <integer>763</integer>
                 </dict>
@@ -80,12 +82,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>dasiaoxia</string>
+          <string>uni1FDE</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>254</integer>
+          <integer>251</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

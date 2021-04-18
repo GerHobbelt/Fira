@@ -4,12 +4,14 @@
   <unicode hex="0499"/>
   <outline>
     <component base="uni0437"/>
-    <component base="descRound-cy" xOffset="73"/>
+    <component base="descRoundcy" xOffset="73"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:06:44 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -590,7 +592,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>zedescender-cy</string>
+          <string>uni0499</string>
           <key>unicodes</key>
           <array>
           </array>

@@ -3,12 +3,14 @@
   <advance width="598"/>
   <outline>
     <component base="o.sc"/>
-    <component base="uni030B.sc" xOffset="110"/>
+    <component base="uni030B.sc" xOffset="113"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:28:34 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -33,7 +35,7 @@
             </dict>
             <dict>
               <key>baseGlyph</key>
-              <string>hungarumlautcomb.sc</string>
+              <string>uni030B.sc</string>
               <key>transformation</key>
               <array>
                 <integer>1</integer>

@@ -4,6 +4,12 @@
   <unicode hex="04E9"/>
   <outline>
     <contour>
+      <point x="81" y="262" type="line"/>
+      <point x="81" y="260" type="line"/>
+      <point x="478" y="260" type="line"/>
+      <point x="478" y="262" type="line"/>
+    </contour>
+    <contour>
       <point x="160" y="527"/>
       <point x="80" y="431"/>
       <point x="80" y="259" type="curve" smooth="yes"/>
@@ -32,12 +38,6 @@
       <point x="281" y="525" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="81" y="262" type="line"/>
-      <point x="81" y="260" type="line"/>
-      <point x="478" y="260" type="line"/>
-      <point x="478" y="262" type="line"/>
-    </contour>
-    <contour>
       <point x="281" y="517" type="move" name="top"/>
     </contour>
     <contour>
@@ -48,10 +48,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>==o</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>==o</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:35:10 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>o</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

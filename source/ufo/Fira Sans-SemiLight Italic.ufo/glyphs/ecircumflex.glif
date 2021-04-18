@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ecircumflex" format="1">
-  <advance width="516"/>
+  <advance width="510"/>
   <unicode hex="00EA"/>
   <outline>
     <component base="e"/>
-    <component base="uni0302" xOffset="109"/>
+    <component base="uni0302" xOffset="110"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:23:36 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -34,7 +36,7 @@
             </dict>
             <dict>
               <key>baseGlyph</key>
-              <string>circumflexcomb</string>
+              <string>uni0302</string>
               <key>transformation</key>
               <array>
                 <integer>1</integer>
@@ -58,7 +60,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>516</integer>
+          <integer>510</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

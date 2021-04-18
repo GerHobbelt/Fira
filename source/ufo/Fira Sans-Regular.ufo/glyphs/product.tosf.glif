@@ -1,13 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="product.tosf" format="1">
-  <advance width="560"/>
+  <advance width="460"/>
   <outline>
-    <component base="product" xOffset="-19"/>
+    <contour>
+      <point x="460" y="669" type="line"/>
+      <point x="0" y="669" type="line"/>
+      <point x="0" y="593" type="line"/>
+      <point x="72" y="593" type="line"/>
+      <point x="72" y="-213" type="line"/>
+      <point x="162" y="-202" type="line"/>
+      <point x="162" y="593" type="line"/>
+      <point x="303" y="593" type="line"/>
+      <point x="303" y="-213" type="line"/>
+      <point x="393" y="-202" type="line"/>
+      <point x="393" y="593" type="line"/>
+      <point x="460" y="593" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:35:10 +0000</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

@@ -4,14 +4,14 @@
   <unicode hex="027E"/>
   <outline>
     <contour>
-      <point x="129" y="328" type="line"/>
+      <point x="130" y="335" type="line"/>
       <point x="84" y="0" type="line"/>
       <point x="86" y="0" type="line"/>
-      <point x="131" y="328" type="line"/>
+      <point x="132" y="335" type="line"/>
     </contour>
-    <component base="hookHELPER" xOffset="299" yOffset="328" xScale="-1" yScale="-1"/>
+    <component base="hookHELPER" xOffset="300" yOffset="335" xScale="-1" yScale="-1"/>
     <contour>
-      <point x="240" y="518" type="move" name="top"/>
+      <point x="240" y="517" type="move" name="top"/>
     </contour>
     <contour>
       <point x="85" y="0" type="move" name="bottom"/>
@@ -21,6 +21,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:32:14 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>=|n</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

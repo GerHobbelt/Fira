@@ -3,32 +3,30 @@
   <advance width="429"/>
   <outline>
     <contour>
-      <point x="86" y="571" type="line" smooth="yes"/>
-      <point x="6" y="0" type="line" smooth="yes"/>
-      <point x="200" y="0" type="line" smooth="yes"/>
-      <point x="228" y="200" type="line" smooth="yes"/>
-      <point x="381" y="200" type="line" smooth="yes"/>
-      <point x="400" y="335" type="line" smooth="yes"/>
-      <point x="247" y="335" type="line" smooth="yes"/>
-      <point x="261" y="437" type="line" smooth="yes"/>
-      <point x="436" y="437" type="line" smooth="yes"/>
-      <point x="474" y="571" type="line" smooth="yes"/>
+      <point x="86" y="571" type="line"/>
+      <point x="6" y="0" type="line"/>
+      <point x="200" y="0" type="line"/>
+      <point x="228" y="200" type="line"/>
+      <point x="381" y="200" type="line"/>
+      <point x="400" y="335" type="line"/>
+      <point x="247" y="335" type="line"/>
+      <point x="261" y="437" type="line"/>
+      <point x="436" y="437" type="line"/>
+      <point x="474" y="571" type="line"/>
     </contour>
     <contour>
-      <point x="257" y="571" type="move" name="top"/>
+      <point x="280" y="571" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="177" y="0" type="move" name="bottom"/>
+      <point x="103" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>==F</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>==F</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>F</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

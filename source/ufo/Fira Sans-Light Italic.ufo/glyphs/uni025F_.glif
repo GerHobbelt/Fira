@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni025F" format="1">
-  <advance width="280"/>
+  <advance width="281"/>
   <unicode hex="025F"/>
   <outline>
     <contour>
@@ -10,12 +10,14 @@
       <point x="24" y="245" type="line"/>
       <point x="24" y="243" type="line"/>
     </contour>
-    <component base="dotlessj" xOffset="14"/>
+    <component base="uni0237" xOffset="14"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:23:36 +0000</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>istroke</string>
       <key>com.typemytype.robofont.layerData</key>
@@ -222,12 +224,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>jdotlessstroke</string>
+          <string>uni025F</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>280</integer>
+          <integer>281</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

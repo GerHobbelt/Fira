@@ -1,25 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="gravemacron" format="1">
-  <advance width="488"/>
+<glyph name="uni1DC5" format="1">
+  <advance width="487"/>
   <unicode hex="1DC5"/>
   <outline>
     <contour>
-      <point x="327" y="712" type="line"/>
-      <point x="205" y="842" type="line"/>
-      <point x="96" y="733" type="line"/>
-      <point x="245" y="593" type="line"/>
+      <point x="316" y="712" type="line"/>
+      <point x="198" y="842" type="line"/>
+      <point x="95" y="733" type="line"/>
+      <point x="244" y="593" type="line"/>
     </contour>
     <contour>
-      <point x="504" y="593" type="line"/>
-      <point x="523" y="727" type="line"/>
-      <point x="251" y="727" type="line"/>
+      <point x="503" y="593" type="line"/>
+      <point x="522" y="727" type="line"/>
+      <point x="250" y="727" type="line"/>
       <point x="244" y="593" type="line"/>
+    </contour>
+    <contour>
+      <point x="303" y="792" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="280" y="534" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

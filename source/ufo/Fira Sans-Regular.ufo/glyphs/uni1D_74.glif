@@ -11,17 +11,17 @@
       <point x="87" y="332"/>
       <point x="46" y="276"/>
       <point x="25" y="235" type="curve"/>
-      <point x="86" y="204" type="line"/>
+      <point x="83" y="204" type="line"/>
     </contour>
     <contour>
-      <point x="392" y="208"/>
-      <point x="432" y="258"/>
-      <point x="453" y="299" type="curve"/>
-      <point x="392" y="331" type="line"/>
-      <point x="376" y="303"/>
-      <point x="358" y="281"/>
-      <point x="315" y="281" type="curve"/>
-      <point x="309" y="218" type="line"/>
+      <point x="392" y="218"/>
+      <point x="432" y="268"/>
+      <point x="453" y="309" type="curve"/>
+      <point x="395" y="341" type="line"/>
+      <point x="376" y="313"/>
+      <point x="358" y="291"/>
+      <point x="315" y="291" type="curve"/>
+      <point x="309" y="228" type="line"/>
     </contour>
     <component base="s"/>
   </outline>
@@ -29,6 +29,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:16:52 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>

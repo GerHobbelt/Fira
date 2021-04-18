@@ -4,12 +4,14 @@
   <unicode hex="045E"/>
   <outline>
     <component base="y"/>
-    <component base="breve-cy" xOffset="73"/>
+    <component base="brevecy" xOffset="73"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:23:30 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -34,7 +36,7 @@
             </dict>
             <dict>
               <key>baseGlyph</key>
-              <string>brevecomb</string>
+              <string>uni0306</string>
               <key>transformation</key>
               <array>
                 <integer>1</integer>
@@ -53,7 +55,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>ushort-cy</string>
+          <string>uni045E</string>
           <key>unicodes</key>
           <array>
           </array>

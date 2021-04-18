@@ -10,7 +10,7 @@
       <point x="666" y="444"/>
       <point x="627" y="509"/>
       <point x="566" y="553" type="curve"/>
-      <point x="677" y="554" type="line"/>
+      <point x="677" y="553" type="line"/>
       <point x="697" y="696" type="line"/>
       <point x="446" y="696" type="line"/>
       <point x="428" y="565" type="line"/>
@@ -28,7 +28,7 @@
       <point x="334" y="563" type="curve"/>
       <point x="352" y="696" type="line"/>
       <point x="101" y="696" type="line"/>
-      <point x="81" y="554" type="line"/>
+      <point x="81" y="555" type="line"/>
       <point x="196" y="555" type="line"/>
       <point x="79" y="489"/>
       <point x="20" y="377"/>
@@ -48,6 +48,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>Omega</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -362,7 +364,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Upsilonafrican</string>
+          <string>uni01B1</string>
           <key>unicodes</key>
           <array>
           </array>

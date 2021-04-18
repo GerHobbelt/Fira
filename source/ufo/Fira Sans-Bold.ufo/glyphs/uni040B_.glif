@@ -6,6 +6,7 @@
     <contour>
       <point x="5" y="696" type="line"/>
       <point x="5" y="546" type="line"/>
+      <point x="174" y="546" type="line"/>
       <point x="538" y="546" type="line"/>
       <point x="559" y="696" type="line"/>
     </contour>
@@ -14,20 +15,20 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>==Shha-cy</string>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:11:05 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>T</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>=Shha-cy</string>
+      <string>Shha-cy</string>
       <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <string>0.67,0.95,0.38,1</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>0</integer>
           <key>name</key>

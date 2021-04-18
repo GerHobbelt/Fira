@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0281" format="1">
-  <advance width="542"/>
+  <advance width="532"/>
   <unicode hex="0281"/>
   <outline>
     <contour>
       <point x="416" y="0"/>
       <point x="504" y="56"/>
       <point x="504" y="187" type="curve" smooth="yes"/>
-      <point x="504" y="294"/>
-      <point x="425" y="346"/>
-      <point x="339" y="362" type="curve"/>
+      <point x="504" y="284"/>
+      <point x="445" y="362"/>
+      <point x="299" y="362" type="curve" smooth="yes"/>
       <point x="226" y="362" type="line"/>
-      <point x="226" y="236" type="line"/>
-      <point x="255" y="236" type="line" smooth="yes"/>
-      <point x="293" y="236"/>
-      <point x="312" y="221"/>
-      <point x="312" y="181" type="curve" smooth="yes"/>
-      <point x="312" y="143"/>
-      <point x="292" y="132"/>
-      <point x="257" y="132" type="curve" smooth="yes"/>
-      <point x="230" y="132" type="line"/>
+      <point x="226" y="251" type="line"/>
+      <point x="255" y="251" type="line" smooth="yes"/>
+      <point x="296" y="251"/>
+      <point x="315" y="236"/>
+      <point x="315" y="186" type="curve" smooth="yes"/>
+      <point x="315" y="131"/>
+      <point x="295" y="120"/>
+      <point x="257" y="120" type="curve" smooth="yes"/>
+      <point x="230" y="120" type="line"/>
       <point x="230" y="534" type="line"/>
       <point x="42" y="534" type="line"/>
       <point x="42" y="0" type="line"/>
       <point x="262" y="0" type="line" smooth="yes"/>
     </contour>
     <contour>
-      <point x="542" y="534" type="line"/>
-      <point x="349" y="534" type="line"/>
-      <point x="255" y="350" type="line"/>
-      <point x="407" y="312" type="line"/>
+      <point x="547" y="534" type="line"/>
+      <point x="343" y="534" type="line"/>
+      <point x="249" y="350" type="line"/>
+      <point x="412" y="312" type="line"/>
     </contour>
     <contour>
       <point x="274" y="534" type="move" name="top"/>
@@ -41,7 +41,9 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:35:10 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>n</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -531,16 +533,16 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Rsmallinverted</string>
+          <string>uni0281</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>542</integer>
+          <integer>532</integer>
         </dict>
       </dict>
       <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

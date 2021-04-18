@@ -32,13 +32,16 @@
       <point x="384" y="570" type="curve"/>
     </contour>
     <contour>
+      <point x="436" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
       <point x="399" y="696" type="move" name="top"/>
     </contour>
     <contour>
       <point x="644" y="696" type="move" name="topright"/>
     </contour>
     <contour>
-      <point x="106" y="696" type="move" name="topleft"/>
+      <point x="156" y="696" type="move" name="topleft"/>
     </contour>
     <contour>
       <point x="303" y="0" type="move" name="bottom"/>
@@ -48,6 +51,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>

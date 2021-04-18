@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brevegrave.case" format="1">
-  <advance width="286"/>
+  <advance width="287"/>
   <outline>
     <component base="uni0306.case" xOffset="-4" yOffset="-33"/>
-    <component base="gravedbl" xOffset="22" yOffset="185"/>
+    <component base="gravedbl" xOffset="27" yOffset="185"/>
     <contour>
       <point x="202" y="682" type="move" name="_top"/>
     </contour>
@@ -11,16 +11,16 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>10</integer>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:31:55 +0000</string>
       <key>public.markColor</key>
-      <string>0.75,0.75,0.75,1</string>
+      <string>0.18,0.16,0.78,1</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>1</integer>
           <key>name</key>

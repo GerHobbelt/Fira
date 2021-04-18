@@ -4,6 +4,9 @@
   <unicode hex="0048"/>
   <outline>
     <contour>
+      <point x="163" y="345" type="line"/>
+      <point x="523" y="345" type="line"/>
+      <point x="474" y="0" type="line"/>
       <point x="505" y="0" type="line"/>
       <point x="601" y="682" type="line"/>
       <point x="570" y="682" type="line"/>
@@ -13,9 +16,6 @@
       <point x="179" y="682" type="line"/>
       <point x="83" y="0" type="line"/>
       <point x="114" y="0" type="line"/>
-      <point x="163" y="345" type="line"/>
-      <point x="523" y="345" type="line"/>
-      <point x="474" y="0" type="line"/>
     </contour>
     <contour>
       <point x="289" y="0" type="move" name="bottom"/>
@@ -37,6 +37,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>

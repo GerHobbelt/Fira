@@ -1,36 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FCF.case" format="1">
-  <advance width="112"/>
+  <advance width="303"/>
   <outline>
     <contour>
-      <point x="54" y="530" type="line"/>
-      <point x="69" y="600" type="line" smooth="yes"/>
-      <point x="70" y="605"/>
-      <point x="70" y="606"/>
-      <point x="70" y="608" type="curve"/>
-      <point x="70" y="611"/>
-      <point x="68" y="613"/>
-      <point x="65" y="613" type="curve" smooth="yes"/>
-      <point x="62" y="613"/>
-      <point x="60" y="611"/>
-      <point x="60" y="608" type="curve" smooth="yes"/>
-      <point x="60" y="605"/>
-      <point x="62" y="603"/>
-      <point x="66" y="603" type="curve"/>
-      <point x="52" y="530" type="line"/>
+      <point x="145" y="530" type="line"/>
+      <point x="160" y="600" type="line" smooth="yes"/>
+      <point x="161" y="605"/>
+      <point x="161" y="606"/>
+      <point x="161" y="608" type="curve"/>
+      <point x="161" y="611"/>
+      <point x="159" y="613"/>
+      <point x="156" y="613" type="curve" smooth="yes"/>
+      <point x="153" y="613"/>
+      <point x="151" y="611"/>
+      <point x="151" y="608" type="curve" smooth="yes"/>
+      <point x="151" y="605"/>
+      <point x="153" y="603"/>
+      <point x="157" y="603" type="curve"/>
+      <point x="143" y="530" type="line"/>
     </contour>
-    <component base="uni1FC0" xOffset="-91" yOffset="-47"/>
+    <component base="uni1FC0" yOffset="-47"/>
     <contour>
-      <point x="153" y="680" type="move" name="_topleft"/>
+      <point x="244" y="680" type="move" name="_topleft"/>
     </contour>
     <contour>
-      <point x="63" y="685" type="move" name="top"/>
+      <point x="154" y="685" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:22:31 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -50,7 +52,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>40</integer>
+                  <integer>131</integer>
                   <key>y</key>
                   <integer>699</integer>
                 </dict>
@@ -58,7 +60,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>38</integer>
+                  <integer>129</integer>
                   <key>y</key>
                   <integer>697</integer>
                 </dict>
@@ -68,7 +70,7 @@
                   <key>smooth</key>
                   <true/>
                   <key>x</key>
-                  <integer>38</integer>
+                  <integer>129</integer>
                   <key>y</key>
                   <integer>694</integer>
                 </dict>
@@ -76,7 +78,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>38</integer>
+                  <integer>129</integer>
                   <key>y</key>
                   <integer>691</integer>
                 </dict>
@@ -84,7 +86,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>40</integer>
+                  <integer>131</integer>
                   <key>y</key>
                   <integer>689</integer>
                 </dict>
@@ -94,7 +96,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>44</integer>
+                  <integer>135</integer>
                   <key>y</key>
                   <integer>689</integer>
                 </dict>
@@ -104,7 +106,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>21</integer>
+                  <integer>112</integer>
                   <key>y</key>
                   <integer>567</integer>
                 </dict>
@@ -114,7 +116,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>22</integer>
+                  <integer>113</integer>
                   <key>y</key>
                   <integer>567</integer>
                 </dict>
@@ -124,7 +126,7 @@
                   <key>smooth</key>
                   <true/>
                   <key>x</key>
-                  <integer>47</integer>
+                  <integer>138</integer>
                   <key>y</key>
                   <integer>686</integer>
                 </dict>
@@ -132,7 +134,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>48</integer>
+                  <integer>139</integer>
                   <key>y</key>
                   <integer>691</integer>
                 </dict>
@@ -140,7 +142,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>48</integer>
+                  <integer>139</integer>
                   <key>y</key>
                   <integer>692</integer>
                 </dict>
@@ -150,7 +152,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>48</integer>
+                  <integer>139</integer>
                   <key>y</key>
                   <integer>694</integer>
                 </dict>
@@ -158,7 +160,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>48</integer>
+                  <integer>139</integer>
                   <key>y</key>
                   <integer>697</integer>
                 </dict>
@@ -166,7 +168,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>46</integer>
+                  <integer>137</integer>
                   <key>y</key>
                   <integer>699</integer>
                 </dict>
@@ -176,7 +178,7 @@
                   <key>smooth</key>
                   <true/>
                   <key>x</key>
-                  <integer>43</integer>
+                  <integer>134</integer>
                   <key>y</key>
                   <integer>699</integer>
                 </dict>
@@ -187,12 +189,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>psiliperispomeni.case</string>
+          <string>uni1FCF.case</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>112</integer>
+          <integer>303</integer>
         </dict>
       </dict>
       <key>public.markColor</key>
@@ -200,8 +202,8 @@
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>0</integer>
           <key>name</key>

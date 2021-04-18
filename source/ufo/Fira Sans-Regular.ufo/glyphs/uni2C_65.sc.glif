@@ -3,12 +3,6 @@
   <advance width="505"/>
   <outline>
     <contour>
-      <point x="150" y="-52" type="line"/>
-      <point x="193" y="-62" type="line"/>
-      <point x="378" y="608" type="line"/>
-      <point x="336" y="618" type="line"/>
-    </contour>
-    <contour>
       <point x="196" y="564" type="line"/>
       <point x="6" y="0" type="line"/>
       <point x="96" y="0" type="line"/>
@@ -24,6 +18,12 @@
       <point x="353" y="206" type="line"/>
     </contour>
     <contour>
+      <point x="150" y="-52" type="line"/>
+      <point x="193" y="-62" type="line"/>
+      <point x="378" y="608" type="line"/>
+      <point x="336" y="618" type="line"/>
+    </contour>
+    <contour>
       <point x="253" y="564" type="move" name="top"/>
     </contour>
     <contour>
@@ -34,6 +34,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:35:10 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>A</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -175,7 +177,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>astroke.sc</string>
+          <string>uni2C65.sc</string>
           <key>unicodes</key>
           <array>
           </array>

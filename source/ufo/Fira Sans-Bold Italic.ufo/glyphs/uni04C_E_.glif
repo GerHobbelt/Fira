@@ -4,12 +4,14 @@
   <unicode hex="04CE"/>
   <outline>
     <component base="uni043C"/>
-    <component base="descTail-cy" xOffset="489"/>
+    <component base="descTailcy" xOffset="489"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:23:21 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>em-cy</string>
       <key>public.markColor</key>
@@ -17,8 +19,8 @@
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>0</integer>
           <key>name</key>

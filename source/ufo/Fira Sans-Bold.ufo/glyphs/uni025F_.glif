@@ -9,12 +9,14 @@
       <point x="2" y="329" type="line"/>
       <point x="2" y="194" type="line"/>
     </contour>
-    <component base="dotlessj" xOffset="33"/>
+    <component base="uni0237" xOffset="33"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:07:14 +0000</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>istroke</string>
       <key>com.typemytype.robofont.layerData</key>
@@ -137,7 +139,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>jdotlessstroke</string>
+          <string>uni025F</string>
           <key>unicodes</key>
           <array>
           </array>
@@ -150,12 +152,12 @@
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
-          <string>dotlessj</string>
+          <string>uni0237</string>
         </dict>
       </array>
     </dict>

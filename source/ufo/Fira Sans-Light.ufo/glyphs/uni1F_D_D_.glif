@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FDD" format="1">
-  <advance width="163"/>
+  <advance width="170"/>
   <unicode hex="1FDD"/>
   <outline>
     <contour>
@@ -11,13 +11,15 @@
     </contour>
     <component base="uni1FFE"/>
     <contour>
-      <point x="87" y="517" type="move" name="_top"/>
+      <point x="97" y="517" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:22:31 +0000</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

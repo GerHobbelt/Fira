@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni052F.sc" format="1">
-  <advance width="573"/>
+  <advance width="583"/>
   <outline>
     <component base="uni043B.sc"/>
-    <component base="descStraight-cy" xOffset="414"/>
+    <component base="descStraightcy" xOffset="414"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:29:38 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>El-cy</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>Eldescender-cy</string>
+      <string>endescender-cy.sc</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>0</integer>
           <key>name</key>

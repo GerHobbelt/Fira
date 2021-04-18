@@ -3,7 +3,7 @@
   <advance width="275"/>
   <outline>
     <component base="uni0304" xOffset="12" yOffset="82"/>
-    <component base="acutecomb.case" xOffset="23" yOffset="82"/>
+    <component base="acutecomb.case" xOffset="20" yOffset="82"/>
     <contour>
       <point x="196" y="682" type="move" name="_top"/>
     </contour>
@@ -11,16 +11,16 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>10</integer>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:31:55 +0000</string>
       <key>public.markColor</key>
-      <string>0.75,0.75,0.75,1</string>
+      <string>0.18,0.16,0.78,1</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>1</integer>
           <key>name</key>

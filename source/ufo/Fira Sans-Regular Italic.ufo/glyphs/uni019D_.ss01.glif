@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni019D.ss01" format="1">
-  <advance width="664"/>
+  <advance width="665"/>
   <outline>
     <contour>
+      <point x="538" y="0" type="line"/>
+      <point x="608" y="504" type="line" smooth="yes"/>
+      <point x="624" y="614"/>
+      <point x="574" y="701"/>
+      <point x="444" y="701" type="curve" smooth="yes"/>
       <point x="356" y="701"/>
       <point x="279" y="659"/>
       <point x="213" y="583" type="curve"/>
@@ -14,18 +19,13 @@
       <point x="525" y="580"/>
       <point x="513" y="491" type="curve" smooth="yes"/>
       <point x="444" y="0" type="line"/>
-      <point x="538" y="0" type="line"/>
-      <point x="608" y="504" type="line" smooth="yes"/>
-      <point x="624" y="614"/>
-      <point x="574" y="701"/>
-      <point x="444" y="701" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="160" y="689" type="line"/>
-      <point x="63" y="0" type="line"/>
       <point x="157" y="0" type="line"/>
       <point x="236" y="560" type="line"/>
       <point x="241" y="689" type="line"/>
+      <point x="160" y="689" type="line"/>
+      <point x="63" y="0" type="line"/>
     </contour>
     <component base="hookHELPER.case" xOffset="-101"/>
     <contour>
@@ -36,6 +36,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>9</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:27:21 +0000</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>Eng.ss01</string>
       <key>public.markColor</key>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FDE.case" format="1">
-  <advance width="236"/>
+  <advance width="326"/>
   <outline>
     <contour>
       <point x="166" y="484" type="line"/>
@@ -26,7 +26,7 @@
       <point x="87" y="693" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="331" y="689" type="move" name="_topleft"/>
+      <point x="321" y="689" type="move" name="_topleft"/>
     </contour>
     <contour>
       <point x="166" y="693" type="move" name="top"/>
@@ -36,10 +36,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>dasia.case</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>psilioxia.case</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:35:11 +0000</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

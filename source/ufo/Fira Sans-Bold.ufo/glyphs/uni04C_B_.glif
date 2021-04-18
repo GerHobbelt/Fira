@@ -12,6 +12,12 @@
       <point x="305" y="144" type="line"/>
     </contour>
     <contour>
+      <point x="374" y="696" type="line"/>
+      <point x="374" y="0" type="line"/>
+      <point x="580" y="0" type="line"/>
+      <point x="580" y="696" type="line"/>
+    </contour>
+    <contour>
       <point x="10" y="696" type="line"/>
       <point x="10" y="461" type="line" smooth="yes"/>
       <point x="10" y="303"/>
@@ -30,12 +36,6 @@
       <point x="212" y="696" type="line"/>
     </contour>
     <contour>
-      <point x="374" y="696" type="line"/>
-      <point x="374" y="0" type="line"/>
-      <point x="580" y="0" type="line"/>
-      <point x="580" y="696" type="line"/>
-    </contour>
-    <contour>
       <point x="293" y="696" type="move" name="top"/>
     </contour>
     <contour>
@@ -52,12 +52,10 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>==Che-cy</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>==H</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:35:10 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>Che</string>
+      <string>Che-cy</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>H</string>
       <key>com.typemytype.robofont.layerData</key>
@@ -336,7 +334,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Chekhakassian-cy</string>
+          <string>uni04CB</string>
           <key>unicodes</key>
           <array>
           </array>

@@ -4,18 +4,18 @@
   <unicode hex="004B"/>
   <outline>
     <contour>
-      <point x="499" y="696" type="line"/>
-      <point x="266" y="371" type="line"/>
-      <point x="402" y="0" type="line"/>
       <point x="630" y="0" type="line"/>
       <point x="471" y="377" type="line"/>
       <point x="709" y="696" type="line"/>
+      <point x="499" y="696" type="line"/>
+      <point x="266" y="371" type="line"/>
+      <point x="402" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="103" y="696" type="line"/>
-      <point x="6" y="0" type="line"/>
       <point x="208" y="0" type="line"/>
       <point x="305" y="696" type="line"/>
+      <point x="103" y="696" type="line"/>
+      <point x="6" y="0" type="line"/>
     </contour>
     <contour>
       <point x="385" y="696" type="move" name="top"/>
@@ -28,6 +28,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>H</string>
       <key>com.typemytype.robofont.layerData</key>

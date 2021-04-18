@@ -1,69 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni052B" format="1">
-  <advance width="850"/>
+  <advance width="842"/>
   <unicode hex="052B"/>
   <outline>
     <contour>
-      <point x="380" y="0" type="line"/>
-      <point x="454" y="520" type="line"/>
-      <point x="258" y="520" type="line"/>
-      <point x="215" y="315" type="line" smooth="yes"/>
-      <point x="169" y="95"/>
-      <point x="134" y="64"/>
-      <point x="80" y="28" type="curve"/>
-      <point x="109" y="25" type="line"/>
-      <point x="164" y="53"/>
-      <point x="200" y="91"/>
-      <point x="247" y="316" type="curve" smooth="yes"/>
-      <point x="284" y="492" type="line"/>
-      <point x="418" y="492" type="line"/>
-      <point x="352" y="28" type="line"/>
-      <point x="81" y="28" type="line"/>
-      <point x="77" y="0" type="line"/>
+      <point x="377" y="0" type="line"/>
+      <point x="451" y="520" type="line"/>
+      <point x="255" y="520" type="line"/>
+      <point x="204" y="275" type="line" smooth="yes"/>
+      <point x="166" y="95"/>
+      <point x="131" y="64"/>
+      <point x="77" y="28" type="curve"/>
+      <point x="106" y="25" type="line"/>
+      <point x="161" y="53"/>
+      <point x="197" y="91"/>
+      <point x="235" y="274" type="curve" smooth="yes"/>
+      <point x="281" y="492" type="line"/>
+      <point x="415" y="492" type="line"/>
+      <point x="349" y="28" type="line"/>
+      <point x="78" y="28" type="line"/>
+      <point x="74" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="495" y="0" type="line"/>
-      <point x="499" y="28" type="line"/>
-      <point x="369" y="28" type="line"/>
-      <point x="365" y="0" type="line"/>
+      <point x="492" y="0" type="line"/>
+      <point x="496" y="28" type="line"/>
+      <point x="366" y="28" type="line"/>
+      <point x="362" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="523" y="264" type="line"/>
-      <point x="526" y="290" type="line"/>
-      <point x="401" y="290" type="line"/>
-      <point x="398" y="264" type="line"/>
+      <point x="520" y="264" type="line"/>
+      <point x="523" y="290" type="line"/>
+      <point x="398" y="290" type="line"/>
+      <point x="395" y="264" type="line"/>
     </contour>
     <contour>
-      <point x="604" y="279" type="line"/>
-      <point x="706" y="401" type="line" smooth="yes"/>
-      <point x="749" y="453"/>
-      <point x="770" y="489"/>
-      <point x="821" y="505" type="curve"/>
-      <point x="811" y="530" type="line"/>
-      <point x="759" y="513"/>
-      <point x="736" y="479"/>
-      <point x="691" y="425" type="curve" smooth="yes"/>
-      <point x="580" y="290" type="line"/>
-      <point x="542" y="290" type="line"/>
-      <point x="575" y="520" type="line"/>
-      <point x="545" y="520" type="line"/>
-      <point x="471" y="0" type="line"/>
-      <point x="501" y="0" type="line"/>
-      <point x="539" y="264" type="line"/>
-      <point x="577" y="264" type="line"/>
-      <point x="728" y="0" type="line"/>
-      <point x="763" y="0" type="line"/>
+      <point x="737" y="513"/>
+      <point x="715" y="494"/>
+      <point x="681" y="441" type="curve" smooth="yes"/>
+      <point x="586" y="290" type="line"/>
+      <point x="539" y="290" type="line"/>
+      <point x="572" y="520" type="line"/>
+      <point x="542" y="520" type="line"/>
+      <point x="468" y="0" type="line"/>
+      <point x="498" y="0" type="line"/>
+      <point x="536" y="264" type="line"/>
+      <point x="584" y="264" type="line"/>
+      <point x="725" y="0" type="line"/>
+      <point x="755" y="0" type="line"/>
+      <point x="610" y="277" type="line"/>
+      <point x="698" y="420" type="line" smooth="yes"/>
+      <point x="733" y="478"/>
+      <point x="749" y="488"/>
+      <point x="794" y="505" type="curve"/>
+      <point x="786" y="530" type="line"/>
     </contour>
-    <component base="descStraightleft-cy" xOffset="16"/>
-    <component base="descStraight-cy" xOffset="388"/>
+    <component base="descStraightleftcy" xOffset="13"/>
+    <component base="descStraightcy" xOffset="381"/>
     <contour>
-      <point x="462" y="520" type="move" name="top"/>
+      <point x="459" y="520" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:23:21 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>de-cy</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -89,7 +91,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>611</integer>
+                  <integer>608</integer>
                   <key>y</key>
                   <integer>269</integer>
                 </dict>
@@ -99,7 +101,7 @@
                   <key>smooth</key>
                   <true/>
                   <key>x</key>
-                  <integer>732</integer>
+                  <integer>729</integer>
                   <key>y</key>
                   <integer>430</integer>
                 </dict>
@@ -107,7 +109,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>768</integer>
+                  <integer>765</integer>
                   <key>y</key>
                   <integer>478</integer>
                 </dict>
@@ -115,7 +117,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>782</integer>
+                  <integer>779</integer>
                   <key>y</key>
                   <integer>490</integer>
                 </dict>
@@ -125,7 +127,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>821</integer>
+                  <integer>818</integer>
                   <key>y</key>
                   <integer>505</integer>
                 </dict>
@@ -135,7 +137,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>811</integer>
+                  <integer>808</integer>
                   <key>y</key>
                   <integer>530</integer>
                 </dict>
@@ -143,7 +145,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>770</integer>
+                  <integer>767</integer>
                   <key>y</key>
                   <integer>517</integer>
                 </dict>
@@ -151,7 +153,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>747</integer>
+                  <integer>744</integer>
                   <key>y</key>
                   <integer>495</integer>
                 </dict>
@@ -161,7 +163,7 @@
                   <key>smooth</key>
                   <true/>
                   <key>x</key>
-                  <integer>718</integer>
+                  <integer>715</integer>
                   <key>y</key>
                   <integer>456</integer>
                 </dict>
@@ -171,7 +173,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>587</integer>
+                  <integer>584</integer>
                   <key>y</key>
                   <integer>279</integer>
                 </dict>
@@ -181,7 +183,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>583</integer>
+                  <integer>580</integer>
                   <key>y</key>
                   <integer>255</integer>
                 </dict>
@@ -191,7 +193,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>740</integer>
+                  <integer>737</integer>
                   <key>y</key>
                   <integer>0</integer>
                 </dict>
@@ -201,7 +203,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>775</integer>
+                  <integer>772</integer>
                   <key>y</key>
                   <integer>0</integer>
                 </dict>
@@ -212,12 +214,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>dzzhe-cy</string>
+          <string>uni052B</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>850</integer>
+          <integer>842</integer>
         </dict>
       </dict>
       <key>public.markColor</key>
@@ -225,12 +227,12 @@
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>descStraight-cy</string>
+          <string>descStraightcy</string>
         </dict>
       </array>
     </dict>

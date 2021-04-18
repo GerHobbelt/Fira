@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04B5" format="1">
-  <advance width="717"/>
+  <advance width="722"/>
   <unicode hex="04B5"/>
   <outline>
     <contour>
@@ -8,21 +8,36 @@
       <point x="0" y="395" type="line"/>
       <point x="144" y="395" type="line"/>
       <point x="342" y="395" type="line"/>
-      <point x="380" y="395" type="line"/>
-      <point x="405" y="534" type="line"/>
+      <point x="410" y="395" type="line"/>
+      <point x="425" y="534" type="line"/>
     </contour>
-    <component base="uni0446" xOffset="102"/>
+    <contour>
+      <point x="454" y="142" type="line"/>
+      <point x="342" y="142" type="line"/>
+      <point x="342" y="534" type="line"/>
+      <point x="144" y="534" type="line"/>
+      <point x="144" y="0" type="line"/>
+      <point x="652" y="0" type="line"/>
+      <point x="652" y="534" type="line"/>
+      <point x="454" y="534" type="line"/>
+    </contour>
+    <component base="descStraightcy" xOffset="490"/>
     <contour>
       <point x="359" y="534" type="move" name="top"/>
     </contour>
     <contour>
       <point x="359" y="-215" type="move" name="bottom"/>
     </contour>
+    <contour>
+      <point x="642" y="0" type="move" name="bottomright"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:06:44 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>te-cy</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -129,12 +144,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>tetse-cy</string>
+          <string>uni04B5</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>717</integer>
+          <integer>722</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

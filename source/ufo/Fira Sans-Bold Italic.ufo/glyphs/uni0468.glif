@@ -1,30 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0468" format="1">
-  <advance width="937"/>
+  <advance width="935"/>
   <unicode hex="0468"/>
   <outline>
     <contour>
-      <point x="483" y="382" type="line"/>
-      <point x="262" y="382" type="line"/>
-      <point x="306" y="696" type="line"/>
-      <point x="104" y="696" type="line"/>
-      <point x="7" y="0" type="line"/>
-      <point x="209" y="0" type="line"/>
-      <point x="242" y="239" type="line"/>
-      <point x="463" y="239" type="line"/>
+      <point x="481" y="382" type="line"/>
+      <point x="261" y="382" type="line"/>
+      <point x="305" y="696" type="line"/>
+      <point x="103" y="696" type="line"/>
+      <point x="5" y="0" type="line"/>
+      <point x="207" y="0" type="line"/>
+      <point x="241" y="243" type="line"/>
+      <point x="461" y="243" type="line"/>
     </contour>
-    <component base="uni0466" xOffset="286" xScale="0.98"/>
+    <component base="uni0466" xOffset="284" xScale="0.98"/>
     <contour>
-      <point x="529" y="696" type="move" name="top"/>
+      <point x="527" y="696" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="431" y="0" type="move" name="bottom"/>
+      <point x="429" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:28:48 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>H</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -50,7 +52,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>525</integer>
+                  <integer>523</integer>
                   <key>y</key>
                   <integer>382</integer>
                 </dict>
@@ -60,7 +62,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>304</integer>
+                  <integer>302</integer>
                   <key>y</key>
                   <integer>382</integer>
                 </dict>
@@ -70,7 +72,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>348</integer>
+                  <integer>346</integer>
                   <key>y</key>
                   <integer>694</integer>
                 </dict>
@@ -80,7 +82,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>146</integer>
+                  <integer>144</integer>
                   <key>y</key>
                   <integer>694</integer>
                 </dict>
@@ -90,7 +92,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>49</integer>
+                  <integer>47</integer>
                   <key>y</key>
                   <integer>-2</integer>
                 </dict>
@@ -100,7 +102,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>251</integer>
+                  <integer>249</integer>
                   <key>y</key>
                   <integer>-2</integer>
                 </dict>
@@ -110,7 +112,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>284</integer>
+                  <integer>282</integer>
                   <key>y</key>
                   <integer>239</integer>
                 </dict>
@@ -120,7 +122,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>505</integer>
+                  <integer>503</integer>
                   <key>y</key>
                   <integer>239</integer>
                 </dict>
@@ -131,12 +133,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Yuslittleiotified-cy</string>
+          <string>uni0468</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>937</integer>
+          <integer>935</integer>
         </dict>
       </dict>
       <key>public.markColor</key>
@@ -144,8 +146,8 @@
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>0</integer>
           <key>name</key>

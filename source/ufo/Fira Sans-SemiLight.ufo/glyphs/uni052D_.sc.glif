@@ -34,8 +34,8 @@
       <point x="114" y="295"/>
       <point x="218" y="295" type="curve" smooth="yes"/>
     </contour>
-    <component base="descStraight-cy" xOffset="423"/>
-    <component base="descStraight-cy" xOffset="144" xScale="-1"/>
+    <component base="descStraightcy" xOffset="423"/>
+    <component base="descStraightcy" xOffset="144" xScale="-1"/>
     <contour>
       <point x="295" y="560" type="move" name="top"/>
     </contour>
@@ -47,6 +47,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:14:13 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>Dche-cy</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -62,7 +64,7 @@
           <array>
             <dict>
               <key>baseGlyph</key>
-              <string>descStraight-cy</string>
+              <string>descStraightcy</string>
               <key>transformation</key>
               <array>
                 <integer>1</integer>
@@ -75,7 +77,7 @@
             </dict>
             <dict>
               <key>baseGlyph</key>
-              <string>descStraight-cy</string>
+              <string>descStraightcy</string>
               <key>transformation</key>
               <array>
                 <integer>-1</integer>
@@ -251,7 +253,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>dche-cy.sc</string>
+          <string>uni052D.sc</string>
           <key>unicodes</key>
           <array>
           </array>

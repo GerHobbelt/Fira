@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni03DF" format="1">
-  <advance width="400"/>
+  <advance width="399"/>
   <unicode hex="03DF"/>
   <outline>
     <contour>
@@ -38,6 +38,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -264,12 +266,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>koppa</string>
+          <string>uni03DF</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>400</integer>
+          <integer>399</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

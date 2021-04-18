@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni024A" format="1">
-  <advance width="638"/>
+  <advance width="645"/>
   <unicode hex="024A"/>
   <outline>
     <contour>
@@ -36,7 +36,6 @@
       <point x="568" y="680" type="line"/>
       <point x="566" y="680" type="line"/>
       <point x="556" y="600" type="line"/>
-      <point x="485" y="98" type="line"/>
       <point x="472" y="0" type="line"/>
     </contour>
     <component base="hookHELPERright.case" xOffset="465"/>
@@ -48,6 +47,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:27:08 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>O</string>
       <key>com.typemytype.robofont.layerData</key>
@@ -365,12 +366,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Qhooktail</string>
+          <string>uni024A</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>638</integer>
+          <integer>645</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

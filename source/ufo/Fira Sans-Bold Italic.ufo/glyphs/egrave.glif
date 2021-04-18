@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="egrave" format="1">
-  <advance width="543"/>
+  <advance width="542"/>
   <unicode hex="00E8"/>
   <outline>
     <component base="e"/>
-    <component base="gravecomb" xOffset="116"/>
+    <component base="gravecomb" xOffset="113"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:23:36 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -58,7 +60,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>543</integer>
+          <integer>542</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

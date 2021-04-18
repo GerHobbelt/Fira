@@ -1,38 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0515" format="1">
-  <advance width="661"/>
+  <advance width="656"/>
   <unicode hex="0515"/>
   <outline>
     <contour>
-      <point x="160" y="493" type="line"/>
-      <point x="281" y="493" type="line"/>
-      <point x="281" y="520" type="line"/>
-      <point x="141" y="520" type="line"/>
+      <point x="173" y="493" type="line"/>
+      <point x="294" y="493" type="line"/>
+      <point x="294" y="520" type="line"/>
+      <point x="154" y="520" type="line"/>
     </contour>
     <contour>
-      <point x="141" y="520" type="line"/>
+      <point x="154" y="520" type="line"/>
       <point x="136" y="286" type="line" smooth="yes"/>
-      <point x="132" y="80"/>
+      <point x="120" y="80"/>
       <point x="115" y="41"/>
       <point x="52" y="19" type="curve"/>
       <point x="61" y="-6" type="line"/>
       <point x="146" y="23"/>
-      <point x="162" y="67"/>
+      <point x="150" y="68"/>
       <point x="166" y="284" type="curve" smooth="yes"/>
-      <point x="170" y="493" type="line"/>
+      <point x="182" y="495" type="line"/>
     </contour>
-    <component base="x" xOffset="224"/>
+    <component base="x" xOffset="219"/>
     <contour>
-      <point x="331" y="520" type="move" name="top"/>
+      <point x="366" y="520" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="331" y="0" type="move" name="bottom"/>
+      <point x="366" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:06:44 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>el-cy</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -42,8 +44,8 @@
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>0</integer>
           <key>name</key>

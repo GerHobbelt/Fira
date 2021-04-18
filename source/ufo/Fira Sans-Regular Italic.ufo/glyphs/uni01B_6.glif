@@ -4,18 +4,23 @@
   <unicode hex="01B6"/>
   <outline>
     <contour>
-      <point x="84" y="527" type="line"/>
-      <point x="73" y="449" type="line"/>
-      <point x="318" y="449" type="line"/>
-      <point x="-4" y="69" type="line"/>
-      <point x="-13" y="0" type="line"/>
       <point x="355" y="0" type="line"/>
       <point x="376" y="77" type="line"/>
       <point x="104" y="77" type="line"/>
       <point x="427" y="457" type="line"/>
       <point x="436" y="527" type="line"/>
+      <point x="84" y="527" type="line"/>
+      <point x="73" y="449" type="line"/>
+      <point x="318" y="449" type="line"/>
+      <point x="-4" y="69" type="line"/>
+      <point x="-13" y="0" type="line"/>
     </contour>
-    <component base="hyphen" xOffset="-13" yOffset="-18" xScale="1.1" yScale="0.9"/>
+    <contour>
+      <point x="361" y="228" type="line"/>
+      <point x="372" y="299" type="line"/>
+      <point x="63" y="299" type="line"/>
+      <point x="52" y="228" type="line"/>
+    </contour>
     <contour>
       <point x="253" y="527" type="move" name="top"/>
     </contour>
@@ -27,6 +32,12 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>z</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>z</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -36,6 +47,19 @@
           </array>
           <key>components</key>
           <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>hyphen</string>
+              <key>transformation</key>
+              <array>
+                <real>1.1</real>
+                <integer>0</integer>
+                <integer>0</integer>
+                <real>0.9</real>
+                <integer>-13</integer>
+                <integer>-18</integer>
+              </array>
+            </dict>
           </array>
           <key>contours</key>
           <array>
@@ -254,7 +278,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>zstroke</string>
+          <string>uni01B6</string>
           <key>unicodes</key>
           <array>
           </array>
@@ -264,17 +288,6 @@
       </dict>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>disableAlignment</key>
-          <true/>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>hyphen</string>
-        </dict>
-      </array>
     </dict>
   </lib>
 </glyph>

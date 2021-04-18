@@ -4,12 +4,14 @@
   <unicode hex="1FD3"/>
   <outline>
     <component base="iota"/>
-    <component base="dieresisacutecomb" xOffset="-16"/>
+    <component base="dieresisacutecomb" xOffset="-21"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:30:58 +0000</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01B1" format="1">
-  <advance width="689"/>
+  <advance width="691"/>
   <unicode hex="01B1"/>
   <outline>
     <contour>
@@ -28,7 +28,7 @@
       <point x="325" y="654" type="curve"/>
       <point x="328" y="682" type="line"/>
       <point x="158" y="682" type="line"/>
-      <point x="154" y="653" type="line"/>
+      <point x="154" y="654" type="line"/>
       <point x="278" y="654" type="line"/>
       <point x="153" y="571"/>
       <point x="80" y="421"/>
@@ -48,6 +48,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>Omega</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -362,12 +364,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Upsilonafrican</string>
+          <string>uni01B1</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>689</integer>
+          <integer>691</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

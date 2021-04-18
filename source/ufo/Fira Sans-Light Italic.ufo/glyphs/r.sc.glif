@@ -12,17 +12,17 @@
       <point x="419" y="0" type="line"/>
       <point x="285" y="274" type="line"/>
       <point x="367" y="277"/>
-      <point x="459" y="321"/>
-      <point x="459" y="439" type="curve" smooth="yes"/>
-      <point x="459" y="513"/>
+      <point x="459" y="319"/>
+      <point x="459" y="438" type="curve" smooth="yes"/>
+      <point x="459" y="511"/>
       <point x="414" y="557"/>
       <point x="290" y="557" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="413" y="555"/>
-      <point x="457" y="512"/>
-      <point x="457" y="439" type="curve" smooth="yes"/>
-      <point x="457" y="322"/>
+      <point x="457" y="510"/>
+      <point x="457" y="438" type="curve" smooth="yes"/>
+      <point x="457" y="320"/>
       <point x="365" y="276"/>
       <point x="278" y="276" type="curve" smooth="yes"/>
       <point x="135" y="276" type="line"/>
@@ -30,7 +30,7 @@
       <point x="290" y="555" type="line" smooth="yes"/>
     </contour>
     <contour>
-      <point x="303" y="557" type="move" name="top"/>
+      <point x="293" y="557" type="move" name="top"/>
     </contour>
     <contour>
       <point x="242" y="0" type="move" name="bottom"/>
@@ -40,6 +40,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>R</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

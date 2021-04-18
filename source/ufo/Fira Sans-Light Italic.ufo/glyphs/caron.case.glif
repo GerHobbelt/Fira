@@ -2,22 +2,16 @@
 <glyph name="caron.case" format="1">
   <advance width="278"/>
   <outline>
-    <contour>
-      <point x="209" y="767" type="line"/>
-      <point x="114" y="845" type="line"/>
-      <point x="112" y="844" type="line"/>
-      <point x="208" y="765" type="line"/>
-      <point x="210" y="765" type="line"/>
-      <point x="330" y="844" type="line"/>
-      <point x="328" y="845" type="line"/>
-    </contour>
+    <component base="uni030C.case"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:31:52 +0000</string>
       <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <string>0.18,0.16,0.78,1</string>
     </dict>
   </lib>
 </glyph>

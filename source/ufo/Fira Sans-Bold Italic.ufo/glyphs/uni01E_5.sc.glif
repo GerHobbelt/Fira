@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01E5.sc" format="1">
-  <advance width="599"/>
+  <advance width="604"/>
   <outline>
     <contour>
       <point x="365" y="-18"/>
@@ -41,7 +41,7 @@
       <point x="289" y="155" type="line"/>
     </contour>
     <contour>
-      <point x="342" y="571" type="move" name="top"/>
+      <point x="352" y="571" type="move" name="top"/>
     </contour>
     <contour>
       <point x="262" y="0" type="move" name="bottom"/>
@@ -51,6 +51,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>G</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -618,12 +620,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>gstroke.sc</string>
+          <string>uni01E5.sc</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>599</integer>
+          <integer>604</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

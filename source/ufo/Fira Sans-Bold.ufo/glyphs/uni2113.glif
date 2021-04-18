@@ -25,15 +25,15 @@
       <point x="319" y="427"/>
       <point x="138" y="307" type="curve"/>
       <point x="10" y="229" type="line"/>
-      <point x="36" y="175" type="line"/>
+      <point x="42" y="174" type="line"/>
       <point x="138" y="229" type="line"/>
       <point x="177" y="252" type="line"/>
       <point x="366" y="370"/>
       <point x="501" y="493"/>
       <point x="501" y="623" type="curve" smooth="yes"/>
       <point x="501" y="715"/>
-      <point x="442" y="764"/>
-      <point x="339" y="764" type="curve" smooth="yes"/>
+      <point x="439" y="764"/>
+      <point x="334" y="764" type="curve" smooth="yes"/>
       <point x="207" y="764"/>
       <point x="112" y="703"/>
       <point x="112" y="542" type="curve" smooth="yes"/>
@@ -47,6 +47,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:35:10 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -389,7 +391,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>literSign</string>
+          <string>uni2113</string>
           <key>unicodes</key>
           <array>
           </array>

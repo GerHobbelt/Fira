@@ -2,20 +2,22 @@
 <glyph name="uni0304.case" format="1">
   <advance width="332"/>
   <outline>
-    <component base="macron" xOffset="20" yOffset="126"/>
+    <component base="macron" xOffset="18" yOffset="126"/>
     <contour>
-      <point x="247" y="862" type="move" name="top"/>
+      <point x="245" y="862" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="226" y="689" type="move" name="_top"/>
+      <point x="224" y="689" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:34:47 +0000</string>
       <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
+      <string>0.18,0.16,0.78,1</string>
     </dict>
   </lib>
 </glyph>

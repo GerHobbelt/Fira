@@ -31,27 +31,28 @@
       <point x="328" y="450" type="curve" smooth="yes"/>
     </contour>
     <contour>
+      <point x="386" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
       <point x="342" y="571" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="263" y="0" type="move" name="bottom"/>
+      <point x="570" y="571" type="move" name="topright"/>
     </contour>
     <contour>
-      <point x="570" y="571" type="move" name="topright"/>
+      <point x="263" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>==O</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>==O</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>O</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>O+</string>
+      <string>O</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>

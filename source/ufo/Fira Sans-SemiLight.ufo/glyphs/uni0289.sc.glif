@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0289.sc" format="1">
-  <advance width="599"/>
+  <advance width="609"/>
   <outline>
     <contour>
-      <point x="484" y="437" type="line"/>
-      <point x="57" y="437" type="line"/>
-      <point x="57" y="413" type="line"/>
-      <point x="115" y="413" type="line"/>
-      <point x="542" y="413" type="line"/>
-      <point x="542" y="437" type="line"/>
+      <point x="489" y="437" type="line"/>
+      <point x="62" y="437" type="line"/>
+      <point x="62" y="413" type="line"/>
+      <point x="120" y="413" type="line"/>
+      <point x="547" y="413" type="line"/>
+      <point x="547" y="437" type="line"/>
     </contour>
-    <component base="u.sc" xOffset="5"/>
+    <component base="u.sc" xOffset="10"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:10:46 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>Hbar</string>
+      <string>hbar.sc</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>Hbar</string>
+      <string>hbar.sc</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

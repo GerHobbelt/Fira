@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>Use Extension Kerning</key>
+	<true/>
 	<key>Use Typo Metrics</key>
 	<true/>
 	<key>ascender</key>
@@ -9,18 +11,15 @@
 	<key>capHeight</key>
 	<integer>689</integer>
 	<key>copyright</key>
-	<string>Digitized data copyright © 2012-2015, The Mozilla Foundation and Telefonica S.A.</string>
+	<string>Digitized data copyright 2012-2016, The Mozilla Foundation and Telefonica S.A.</string>
 	<key>descender</key>
 	<integer>-202</integer>
 	<key>familyName</key>
 	<string>Fira Sans</string>
-	<key>fsType</key>
-	<array>
-	</array>
 	<key>italicAngle</key>
 	<real>-8</real>
 	<key>openTypeHeadCreated</key>
-	<string>2015/09/08 10:44:43</string>
+	<string>2016/10/14 11:12:46</string>
 	<key>openTypeNameDesigner</key>
 	<string>Carrois Corporate &amp; Edenspiekermann AG</string>
 	<key>openTypeNameDesignerURL</key>
@@ -36,15 +35,20 @@
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>Fira Sans</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Two Italic</string>
+	<string>Italic</string>
+	<key>openTypeOS2Type</key>
+	<array>
+	</array>
 	<key>openTypeOS2TypoAscender</key>
 	<integer>935</integer>
 	<key>openTypeOS2TypoDescender</key>
 	<integer>-265</integer>
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>0</integer>
+	<key>openTypeOS2VendorID</key>
+	<string>CTDB</string>
 	<key>openTypeOS2WeightClass</key>
-	<integer>100</integer>
+	<integer>400</integer>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>openTypeOS2WinAscent</key>
@@ -80,6 +84,8 @@
 		<integer>-216</integer>
 		<integer>-202</integer>
 	</array>
+	<key>postscriptFontName</key>
+	<string>FiraSans-Italic</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 		<integer>-216</integer>
@@ -91,24 +97,20 @@
 	</array>
 	<key>postscriptStemSnapV</key>
 	<array>
-		<integer>92</integer>
+		<integer>91</integer>
 	</array>
-	<key>styleMapFamilyName</key>
-	<string>Fira Sans Two</string>
 	<key>styleMapStyleName</key>
 	<string>italic</string>
 	<key>styleName</key>
-	<string>Two Italic</string>
+	<string>Italic</string>
 	<key>trademark</key>
 	<string>Fira Sans is a trademark of The Mozilla Corporation.</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
-	<key>vendorID</key>
-	<string>CTDB</string>
 	<key>versionMajor</key>
 	<integer>4</integer>
 	<key>versionMinor</key>
-	<integer>106</integer>
+	<integer>202</integer>
 	<key>xHeight</key>
 	<integer>527</integer>
 </dict>

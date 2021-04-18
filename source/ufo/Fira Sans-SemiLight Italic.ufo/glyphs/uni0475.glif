@@ -5,18 +5,18 @@
   <outline>
     <component base="uni2C71"/>
     <contour>
-      <point x="263" y="520" type="move" name="top"/>
+      <point x="258" y="520" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="196" y="0" type="move" name="bottom"/>
+      <point x="191" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>==v</string>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:23:21 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>v</string>
       <key>com.typemytype.robofont.layerData</key>
@@ -173,7 +173,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>izhitsa-cy</string>
+          <string>uni0475</string>
           <key>unicodes</key>
           <array>
           </array>
@@ -182,7 +182,7 @@
         </dict>
       </dict>
       <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
+      <string>0.18,0.16,0.78,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni024F.sc" format="1">
-  <advance width="555"/>
+  <advance width="552"/>
   <outline>
     <contour>
-      <point x="543" y="516" type="line"/>
-      <point x="10" y="516" type="line"/>
-      <point x="-12" y="516" type="line"/>
-      <point x="-12" y="423" type="line"/>
-      <point x="570" y="423" type="line"/>
-      <point x="570" y="516" type="line"/>
+      <point x="538" y="516" type="line"/>
+      <point x="14" y="516" type="line"/>
+      <point x="-8" y="516" type="line"/>
+      <point x="-8" y="423" type="line"/>
+      <point x="565" y="423" type="line"/>
+      <point x="565" y="516" type="line"/>
     </contour>
     <contour>
       <point x="378" y="571" type="line"/>
@@ -32,6 +32,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:35:10 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>Y</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -213,12 +215,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>ystroke.sc</string>
+          <string>uni024F.sc</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>555</integer>
+          <integer>552</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

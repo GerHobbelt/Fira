@@ -1,23 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acute.case.loclPLK" format="1">
-  <advance width="374"/>
+  <advance width="296"/>
   <outline>
     <contour>
-      <point x="100" y="794" type="line"/>
-      <point x="187" y="746" type="line"/>
-      <point x="336" y="910" type="line"/>
-      <point x="192" y="988" type="line"/>
+      <point x="30" y="794" type="line"/>
+      <point x="117" y="746" type="line"/>
+      <point x="266" y="910" type="line"/>
+      <point x="122" y="988" type="line"/>
     </contour>
     <contour>
-      <point x="184" y="696" type="move" name="_top"/>
+      <point x="114" y="696" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:35:11 +0000</string>
       <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
+      <string>0.18,0.16,0.78,1</string>
     </dict>
   </lib>
 </glyph>

@@ -64,10 +64,10 @@
       <point x="411" y="-49" type="line"/>
     </contour>
     <contour>
-      <point x="447" y="730" type="line"/>
       <point x="445" y="730" type="line"/>
       <point x="445" y="94" type="line"/>
       <point x="447" y="94" type="line"/>
+      <point x="447" y="730" type="line"/>
     </contour>
     <contour>
       <point x="325" y="727" type="move" name="top"/>
@@ -80,6 +80,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:35:10 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>d</string>
       <key>com.typemytype.robofont.layerData</key>
@@ -670,7 +672,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>dcurl</string>
+          <string>uni0221</string>
           <key>unicodes</key>
           <array>
           </array>

@@ -9,14 +9,14 @@
       <point x="131" y="453" type="line"/>
       <point x="184" y="485"/>
       <point x="226" y="500"/>
-      <point x="282" y="500" type="curve" smooth="yes"/>
+      <point x="280" y="500" type="curve" smooth="yes"/>
       <point x="328" y="500"/>
       <point x="358" y="481"/>
-      <point x="358" y="443" type="curve" smooth="yes"/>
-      <point x="358" y="380"/>
-      <point x="315" y="363"/>
+      <point x="358" y="442" type="curve" smooth="yes"/>
+      <point x="358" y="379"/>
+      <point x="315" y="362"/>
       <point x="216" y="332" type="curve" smooth="yes"/>
-      <point x="103" y="296"/>
+      <point x="98" y="296"/>
       <point x="21" y="243"/>
       <point x="21" y="139" type="curve" smooth="yes"/>
       <point x="21" y="49"/>
@@ -26,7 +26,7 @@
       <point x="360" y="17"/>
       <point x="417" y="63" type="curve"/>
       <point x="373" y="119" type="line"/>
-      <point x="325" y="88"/>
+      <point x="326" y="88"/>
       <point x="272" y="63"/>
       <point x="212" y="63" type="curve" smooth="yes"/>
       <point x="156" y="63"/>
@@ -35,12 +35,12 @@
       <point x="117" y="199"/>
       <point x="153" y="230"/>
       <point x="258" y="260" type="curve" smooth="yes"/>
-      <point x="382" y="296"/>
-      <point x="453" y="338"/>
+      <point x="384" y="296"/>
+      <point x="454" y="338"/>
       <point x="454" y="443" type="curve" smooth="yes"/>
       <point x="454" y="522"/>
       <point x="392" y="574"/>
-      <point x="288" y="574" type="curve" smooth="yes"/>
+      <point x="286" y="574" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="277" y="564" type="move" name="top"/>
@@ -53,6 +53,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>Tonetwo</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -411,7 +413,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>tonetwo.sc</string>
+          <string>uni01A8.sc</string>
           <key>unicodes</key>
           <array>
           </array>

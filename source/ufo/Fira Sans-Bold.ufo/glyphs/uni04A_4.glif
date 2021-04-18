@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04A4" format="1">
-  <advance width="793"/>
+  <advance width="788"/>
   <unicode hex="04A4"/>
   <outline>
     <contour>
-      <point x="594" y="546" type="line"/>
-      <point x="773" y="546" type="line"/>
+      <point x="614" y="542" type="line"/>
+      <point x="772" y="542" type="line"/>
       <point x="793" y="696" type="line"/>
-      <point x="428" y="696" type="line"/>
+      <point x="408" y="696" type="line"/>
     </contour>
     <component base="H"/>
   </outline>
@@ -15,10 +15,12 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:06:44 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>H</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>=|Hardsign-cy</string>
+      <string>T</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -56,17 +58,62 @@
                 </dict>
               </array>
             </dict>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>614</integer>
+                  <key>y</key>
+                  <integer>546</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>773</integer>
+                  <key>y</key>
+                  <integer>546</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>793</integer>
+                  <key>y</key>
+                  <integer>696</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>408</integer>
+                  <key>y</key>
+                  <integer>696</integer>
+                </dict>
+              </array>
+            </dict>
           </array>
           <key>lib</key>
           <dict>
           </dict>
           <key>name</key>
-          <string>Enghe-cy</string>
+          <string>uni04A4</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>793</integer>
+          <integer>788</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

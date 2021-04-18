@@ -23,25 +23,21 @@
       <point x="91" y="29" type="line"/>
     </contour>
     <contour>
-      <point x="140" y="547"/>
-      <point x="138" y="539"/>
-      <point x="138" y="517" type="curve" smooth="yes"/>
-      <point x="138" y="430"/>
-      <point x="180" y="379"/>
+      <point x="519" y="407" type="line"/>
+      <point x="298" y="407" type="line" smooth="yes"/>
+      <point x="191" y="407"/>
+      <point x="157" y="446"/>
+      <point x="171" y="551" type="curve" smooth="yes"/>
+      <point x="189" y="682" type="line"/>
+      <point x="158" y="682" type="line"/>
+      <point x="140" y="551" type="line" smooth="yes"/>
+      <point x="124" y="434"/>
+      <point x="172" y="379"/>
       <point x="296" y="379" type="curve" smooth="yes"/>
       <point x="515" y="379" type="line"/>
-      <point x="519" y="407" type="line"/>
-      <point x="302" y="407" type="line" smooth="yes"/>
-      <point x="200" y="407"/>
-      <point x="169" y="446"/>
-      <point x="169" y="516" type="curve" smooth="yes"/>
-      <point x="169" y="540"/>
-      <point x="173" y="569"/>
-      <point x="189" y="682" type="curve"/>
-      <point x="158" y="682" type="line"/>
     </contour>
-    <component base="descStraight-cy.case" xOffset="473"/>
-    <component base="descStraightleft-cy.case" xOffset="-7"/>
+    <component base="descStraightcy.case" xOffset="473"/>
+    <component base="descStraightleftcy.case" xOffset="-7"/>
     <contour>
       <point x="383" y="682" type="move" name="top"/>
     </contour>
@@ -50,6 +46,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:28:44 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>Che-cy</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -340,7 +338,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Dche-cy</string>
+          <string>uni052C</string>
           <key>unicodes</key>
           <array>
           </array>

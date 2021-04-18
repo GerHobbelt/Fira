@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="imacron.sc" format="1">
-  <advance width="292"/>
+  <advance width="290"/>
   <outline>
     <component base="i.sc"/>
     <component base="uni0304.sc" xOffset="-19"/>
@@ -9,6 +9,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:28:29 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -33,7 +35,7 @@
             </dict>
             <dict>
               <key>baseGlyph</key>
-              <string>macroncomb.sc</string>
+              <string>uni0304.sc</string>
               <key>transformation</key>
               <array>
                 <integer>1</integer>
@@ -57,7 +59,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>292</integer>
+          <integer>290</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

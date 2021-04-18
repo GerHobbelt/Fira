@@ -2,25 +2,29 @@
 <glyph name="lozenge.tosf" format="1">
   <advance width="560"/>
   <outline>
-    <component base="lozenge" xOffset="35"/>
+    <contour>
+      <point x="264" y="662" type="line"/>
+      <point x="80" y="333" type="line"/>
+      <point x="264" y="0" type="line"/>
+      <point x="296" y="0" type="line"/>
+      <point x="480" y="333" type="line"/>
+      <point x="296" y="662" type="line"/>
+    </contour>
+    <contour>
+      <point x="447" y="333" type="line"/>
+      <point x="280" y="26" type="line"/>
+      <point x="113" y="333" type="line"/>
+      <point x="280" y="635" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:35:10 +0000</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>disableAlignment</key>
-          <true/>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>lozenge</string>
-        </dict>
-      </array>
     </dict>
   </lib>
 </glyph>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0250" format="1">
-  <advance width="540"/>
+  <advance width="534"/>
   <unicode hex="0250"/>
   <outline>
     <contour>
       <point x="291" y="-12"/>
       <point x="351" y="-1"/>
       <point x="418" y="23" type="curve"/>
-      <point x="401" y="92" type="line"/>
+      <point x="397" y="92" type="line"/>
       <point x="345" y="74"/>
       <point x="295" y="63"/>
       <point x="255" y="63" type="curve" smooth="yes"/>
@@ -15,16 +15,16 @@
       <point x="157" y="90"/>
       <point x="164" y="164" type="curve" smooth="yes"/>
       <point x="198" y="404" type="line"/>
-      <point x="195" y="438" type="line"/>
-      <point x="192" y="504"/>
-      <point x="158" y="532"/>
-      <point x="101" y="539" type="curve"/>
-      <point x="75" y="476" type="line"/>
-      <point x="108" y="463"/>
-      <point x="112" y="444"/>
-      <point x="107" y="407" type="curve" smooth="yes"/>
+      <point x="194" y="452" type="line"/>
+      <point x="187" y="509"/>
+      <point x="154" y="533"/>
+      <point x="101" y="540" type="curve"/>
+      <point x="75" y="477" type="line"/>
+      <point x="108" y="464"/>
+      <point x="112" y="445"/>
+      <point x="107" y="408" type="curve" smooth="yes"/>
       <point x="73" y="166" type="line" smooth="yes"/>
-      <point x="56" y="53"/>
+      <point x="57" y="53"/>
       <point x="114" y="-12"/>
       <point x="235" y="-12" type="curve" smooth="yes"/>
     </contour>
@@ -32,10 +32,10 @@
       <point x="252" y="206" type="line" smooth="yes"/>
       <point x="398" y="206"/>
       <point x="506" y="270"/>
-      <point x="506" y="402" type="curve" smooth="yes"/>
+      <point x="506" y="400" type="curve" smooth="yes"/>
       <point x="506" y="484"/>
-      <point x="452" y="539"/>
-      <point x="356" y="539" type="curve" smooth="yes"/>
+      <point x="449" y="539"/>
+      <point x="355" y="539" type="curve" smooth="yes"/>
       <point x="289" y="539"/>
       <point x="227" y="513"/>
       <point x="182" y="447" type="curve"/>
@@ -63,8 +63,10 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>ascriptturned</string>
+      <string>alphaturned-latin</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>e</string>
       <key>com.typemytype.robofont.layerData</key>
@@ -496,12 +498,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>aturned</string>
+          <string>uni0250</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>540</integer>
+          <integer>534</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

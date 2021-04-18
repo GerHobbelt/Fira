@@ -15,7 +15,12 @@
       <point x="7" y="28" type="line"/>
       <point x="3" y="0" type="line"/>
     </contour>
-    <component base="hyphen" xOffset="33" yOffset="30" xScale="1.1"/>
+    <contour>
+      <point x="395" y="329" type="line"/>
+      <point x="399" y="357" type="line"/>
+      <point x="125" y="357" type="line"/>
+      <point x="121" y="329" type="line"/>
+    </contour>
     <contour>
       <point x="315" y="682" type="move" name="top"/>
     </contour>
@@ -27,6 +32,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>Z</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -153,7 +160,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Zstroke</string>
+          <string>uni01B5</string>
           <key>unicodes</key>
           <array>
           </array>

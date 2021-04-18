@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0312" format="1">
-  <advance width="179"/>
+  <advance width="176"/>
   <unicode hex="0312"/>
   <outline>
     <component base="uni0326" xOffset="173" yOffset="506" xScale="-1" yScale="-1"/>
@@ -12,6 +12,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:31:50 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -168,12 +170,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>commaturnedabovecomb</string>
+          <string>uni0312</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>179</integer>
+          <integer>176</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

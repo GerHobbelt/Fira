@@ -3,6 +3,7 @@
   <advance width="739"/>
   <outline>
     <contour>
+      <point x="506" y="0" type="line"/>
       <point x="506" y="571" type="line"/>
       <point x="278" y="571" type="line" smooth="yes"/>
       <point x="103" y="571"/>
@@ -22,6 +23,7 @@
       <point x="243" y="439"/>
       <point x="285" y="439" type="curve" smooth="yes"/>
       <point x="309" y="439" type="line"/>
+      <point x="309" y="0" type="line"/>
     </contour>
     <contour>
       <point x="198" y="0" type="line"/>
@@ -54,6 +56,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:35:10 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>Ia-cy</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -444,7 +448,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>yae-cy.sc</string>
+          <string>uni0519.sc</string>
           <key>unicodes</key>
           <array>
           </array>

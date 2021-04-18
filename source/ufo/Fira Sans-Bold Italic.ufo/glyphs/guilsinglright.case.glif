@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guilsinglright.case" format="1">
-  <advance width="316"/>
+  <advance width="360"/>
   <outline>
-    <component base="guilsinglright" xOffset="-37" yOffset="45"/>
+    <component base="guilsinglright" xOffset="7" yOffset="45"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:31:32 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>guilsinglright</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>guilsinglright</string>
       <key>com.typemytype.robofont.layerData</key>
@@ -28,7 +32,7 @@
                 <integer>0</integer>
                 <integer>0</integer>
                 <integer>1</integer>
-                <integer>0</integer>
+                <integer>44</integer>
                 <integer>45</integer>
               </array>
             </dict>
@@ -45,7 +49,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>316</integer>
+          <integer>360</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

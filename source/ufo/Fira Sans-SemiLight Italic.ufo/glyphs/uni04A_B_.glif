@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04AB" format="1">
-  <advance width="461"/>
+  <advance width="462"/>
   <unicode hex="04AB"/>
   <outline>
     <component base="c"/>
-    <component base="descRound-cy" xOffset="156"/>
+    <component base="descRoundcy" xOffset="157"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:23:21 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -426,12 +428,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>esdescender-cy</string>
+          <string>uni04AB</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>461</integer>
+          <integer>462</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

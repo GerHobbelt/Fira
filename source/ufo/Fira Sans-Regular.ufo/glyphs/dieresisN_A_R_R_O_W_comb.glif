@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresisNARROWcomb" format="1">
+  <advance width="365"/>
+  <outline>
+    <contour>
+      <point x="245" y="768"/>
+      <point x="220" y="743"/>
+      <point x="220" y="711" type="curve" smooth="yes"/>
+      <point x="220" y="679"/>
+      <point x="245" y="654"/>
+      <point x="277" y="654" type="curve" smooth="yes"/>
+      <point x="310" y="654"/>
+      <point x="335" y="679"/>
+      <point x="335" y="711" type="curve" smooth="yes"/>
+      <point x="335" y="743"/>
+      <point x="310" y="768"/>
+      <point x="277" y="768" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="55" y="768"/>
+      <point x="30" y="743"/>
+      <point x="30" y="711" type="curve" smooth="yes"/>
+      <point x="30" y="679"/>
+      <point x="55" y="654"/>
+      <point x="88" y="654" type="curve" smooth="yes"/>
+      <point x="120" y="654"/>
+      <point x="145" y="679"/>
+      <point x="145" y="711" type="curve" smooth="yes"/>
+      <point x="145" y="743"/>
+      <point x="120" y="768"/>
+      <point x="88" y="768" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="185" y="768" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="183" y="527" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>8</integer>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-09 10:11:16 +0000</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

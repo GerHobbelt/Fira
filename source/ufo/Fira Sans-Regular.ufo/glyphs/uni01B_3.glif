@@ -27,10 +27,10 @@
       <point x="227" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="293" y="689" type="move" name="top"/>
+      <point x="285" y="689" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="293" y="0" type="move" name="bottom"/>
+      <point x="275" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
       <point x="5" y="689" type="move" name="topleft"/>
@@ -40,6 +40,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:35:10 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>Y</string>
       <key>com.typemytype.robofont.layerData</key>
@@ -353,7 +355,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Yhook</string>
+          <string>uni01B3</string>
           <key>unicodes</key>
           <array>
           </array>

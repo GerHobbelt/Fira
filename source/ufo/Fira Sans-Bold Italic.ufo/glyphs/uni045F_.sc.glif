@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni045F.sc" format="1">
-  <advance width="594"/>
+  <advance width="595"/>
   <outline>
-    <component base="tsehelper-cy.sc"/>
-    <component base="descStraight-cy" xOffset="141"/>
+    <component base="tsehelpercy.sc"/>
+    <component base="descStraightcy" xOffset="141"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>==tsehelper-cy.sc</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>==tsehelper-cy.sc</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:23:21 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>tsehelper-cy.sc</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -159,12 +157,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>dzhe-cy.sc</string>
+          <string>uni045F.sc</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>594</integer>
+          <integer>595</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

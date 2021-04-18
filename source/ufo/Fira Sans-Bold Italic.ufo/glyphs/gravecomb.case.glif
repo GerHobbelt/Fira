@@ -1,24 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gravecomb.case" format="1">
-  <advance width="362"/>
+  <advance width="347"/>
   <outline>
     <contour>
-      <point x="108" y="842" type="line"/>
-      <point x="359" y="743" type="line"/>
-      <point x="412" y="842" type="line"/>
-      <point x="182" y="986" type="line"/>
+      <point x="109" y="830" type="line"/>
+      <point x="348" y="744" type="line"/>
+      <point x="397" y="838" type="line"/>
+      <point x="189" y="974" type="line"/>
     </contour>
     <contour>
-      <point x="262" y="986" type="move" name="top"/>
+      <point x="251" y="986" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="236" y="696" type="move" name="_top"/>
+      <point x="225" y="696" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -40,7 +42,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>107</integer>
+                  <integer>96</integer>
                   <key>y</key>
                   <integer>840</integer>
                 </dict>
@@ -50,7 +52,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>344</integer>
+                  <integer>333</integer>
                   <key>y</key>
                   <integer>749</integer>
                 </dict>
@@ -60,7 +62,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>406</integer>
+                  <integer>395</integer>
                   <key>y</key>
                   <integer>848</integer>
                 </dict>
@@ -70,7 +72,52 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>199</integer>
+                  <integer>188</integer>
+                  <key>y</key>
+                  <integer>984</integer>
+                </dict>
+              </array>
+            </dict>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>97</integer>
+                  <key>y</key>
+                  <integer>842</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>348</integer>
+                  <key>y</key>
+                  <integer>743</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>399</integer>
+                  <key>y</key>
+                  <integer>840</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>169</integer>
                   <key>y</key>
                   <integer>984</integer>
                 </dict>
@@ -86,11 +133,11 @@
           <array>
           </array>
           <key>width</key>
-          <integer>362</integer>
+          <integer>347</integer>
         </dict>
       </dict>
       <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

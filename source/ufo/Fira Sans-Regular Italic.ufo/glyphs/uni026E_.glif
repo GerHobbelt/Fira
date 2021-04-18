@@ -28,6 +28,7 @@
       <point x="326" y="-213" type="curve" smooth="yes"/>
     </contour>
     <contour>
+      <point x="278" y="138" type="line"/>
       <point x="349" y="169" type="line"/>
       <point x="631" y="457" type="line"/>
       <point x="640" y="527" type="line"/>
@@ -35,7 +36,6 @@
       <point x="206" y="451" type="line"/>
       <point x="524" y="451" type="line"/>
       <point x="287" y="205" type="line"/>
-      <point x="278" y="138" type="line"/>
     </contour>
     <component base="l"/>
     <contour>
@@ -49,6 +49,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:23:36 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>l</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -356,7 +358,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>lezh</string>
+          <string>uni026E</string>
           <key>unicodes</key>
           <array>
           </array>

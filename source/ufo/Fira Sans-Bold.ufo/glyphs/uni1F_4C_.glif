@@ -1,21 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1F4C" format="1">
-  <advance width="1103"/>
+  <advance width="1089"/>
   <unicode hex="1F4C"/>
   <outline>
-    <component base="uni1FCE.case"/>
-    <component base="Omicron" xOffset="413"/>
+    <component base="Omicron" xOffset="399"/>
+    <component base="uni1FCE.case" xOffset="42"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:14:13 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>Omicrontonos</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>O</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Omicron</string>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>

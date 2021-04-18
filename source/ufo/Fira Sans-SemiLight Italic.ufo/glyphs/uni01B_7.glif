@@ -38,6 +38,9 @@
       <point x="144" y="377" type="line"/>
     </contour>
     <contour>
+      <point x="278" y="682" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="201" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
@@ -45,6 +48,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>Z</string>
       <key>com.typemytype.robofont.layerData</key>
@@ -350,7 +355,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Ezh</string>
+          <string>uni01B7</string>
           <key>unicodes</key>
           <array>
           </array>

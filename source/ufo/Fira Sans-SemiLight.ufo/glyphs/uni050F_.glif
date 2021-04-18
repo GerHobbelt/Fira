@@ -4,6 +4,16 @@
   <unicode hex="050F"/>
   <outline>
     <contour>
+      <point x="225" y="300" type="line"/>
+      <point x="225" y="491" type="line"/>
+      <point x="404" y="491" type="line"/>
+      <point x="408" y="520" type="line"/>
+      <point x="10" y="520" type="line"/>
+      <point x="10" y="491" type="line"/>
+      <point x="195" y="491" type="line"/>
+      <point x="195" y="300" type="line"/>
+    </contour>
+    <contour>
       <point x="459" y="-10"/>
       <point x="548" y="73"/>
       <point x="548" y="265" type="curve" smooth="yes"/>
@@ -28,16 +38,6 @@
       <point x="356" y="-10" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="225" y="300" type="line"/>
-      <point x="225" y="491" type="line"/>
-      <point x="404" y="491" type="line"/>
-      <point x="408" y="520" type="line"/>
-      <point x="10" y="520" type="line"/>
-      <point x="10" y="491" type="line"/>
-      <point x="195" y="491" type="line"/>
-      <point x="195" y="300" type="line"/>
-    </contour>
-    <contour>
       <point x="310" y="520" type="move" name="top"/>
     </contour>
     <contour>
@@ -48,6 +48,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:35:10 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>te-cy</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -355,7 +357,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>komitje-cy</string>
+          <string>uni050F</string>
           <key>unicodes</key>
           <array>
           </array>

@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FCE.case" format="1">
-  <advance width="240"/>
+  <advance width="309"/>
   <outline>
+    <component base="uni1FCE" xOffset="-15" yOffset="-107"/>
     <contour>
-      <point x="212" y="484" type="line"/>
-      <point x="266" y="468" type="line"/>
-      <point x="363" y="669" type="line"/>
-      <point x="286" y="690" type="line"/>
+      <point x="341" y="689" type="move" name="_topleft"/>
     </contour>
-    <component base="uni1FBF" xOffset="31" yOffset="-109"/>
+    <contour>
+      <point x="223" y="693" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:34:53 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>psili.case</string>
+      <string>psilioxia</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>psilioxia</string>
       <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
+      <string>0.18,0.16,0.78,1</string>
     </dict>
   </lib>
 </glyph>

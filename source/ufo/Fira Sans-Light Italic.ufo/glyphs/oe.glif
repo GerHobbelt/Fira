@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oe" format="1">
-  <advance width="917"/>
+  <advance width="906"/>
   <unicode hex="0153"/>
   <outline>
     <contour>
@@ -32,7 +32,7 @@
       <point x="318" y="525" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="530" y="527"/>
+      <point x="533" y="527"/>
       <point x="472" y="310"/>
       <point x="472" y="190" type="curve"/>
       <point x="472" y="61"/>
@@ -49,9 +49,9 @@
       <point x="474" y="62"/>
       <point x="474" y="190" type="curve"/>
       <point x="474" y="310"/>
-      <point x="532" y="525"/>
-      <point x="722" y="525" type="curve"/>
-      <point x="796" y="525"/>
+      <point x="535" y="525"/>
+      <point x="725" y="525" type="curve"/>
+      <point x="801" y="525"/>
       <point x="860" y="487"/>
       <point x="860" y="414" type="curve"/>
       <point x="860" y="308"/>
@@ -62,8 +62,8 @@
       <point x="862" y="306"/>
       <point x="862" y="414" type="curve"/>
       <point x="862" y="488"/>
-      <point x="797" y="527"/>
-      <point x="722" y="527" type="curve"/>
+      <point x="802" y="527"/>
+      <point x="725" y="527" type="curve"/>
     </contour>
     <contour>
       <point x="499" y="517" type="move" name="top"/>
@@ -76,10 +76,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>==o</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>==e</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>o</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -624,7 +622,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>917</integer>
+          <integer>906</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

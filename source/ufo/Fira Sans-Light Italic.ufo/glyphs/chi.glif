@@ -1,40 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="chi" format="1">
-  <advance width="405"/>
+  <advance width="386"/>
   <unicode hex="03C7"/>
   <outline>
     <contour>
-      <point x="47" y="517" type="line"/>
-      <point x="91" y="457"/>
-      <point x="130" y="378"/>
-      <point x="187" y="183" type="curve"/>
-      <point x="188" y="181" type="line"/>
-      <point x="317" y="-188" type="line"/>
-      <point x="319" y="-188" type="line"/>
-      <point x="190" y="182" type="line"/>
-      <point x="189" y="184" type="line"/>
-      <point x="133" y="378"/>
-      <point x="93" y="458"/>
-      <point x="49" y="518" type="curve"/>
+      <point x="36" y="517" type="line"/>
+      <point x="80" y="457"/>
+      <point x="119" y="378"/>
+      <point x="176" y="183" type="curve"/>
+      <point x="177" y="181" type="line"/>
+      <point x="306" y="-188" type="line"/>
+      <point x="308" y="-188" type="line"/>
+      <point x="179" y="182" type="line"/>
+      <point x="178" y="184" type="line"/>
+      <point x="122" y="378"/>
+      <point x="82" y="458"/>
+      <point x="38" y="518" type="curve"/>
     </contour>
     <contour>
-      <point x="189" y="184" type="line"/>
-      <point x="187" y="183" type="line"/>
-      <point x="-45" y="-188" type="line"/>
-      <point x="-43" y="-188" type="line"/>
-      <point x="188" y="181" type="line"/>
-      <point x="190" y="182" type="line"/>
-      <point x="397" y="517" type="line"/>
-      <point x="395" y="517" type="line"/>
+      <point x="178" y="184" type="line"/>
+      <point x="176" y="183" type="line"/>
+      <point x="-56" y="-188" type="line"/>
+      <point x="-54" y="-188" type="line"/>
+      <point x="177" y="181" type="line"/>
+      <point x="179" y="182" type="line"/>
+      <point x="386" y="517" type="line"/>
+      <point x="384" y="517" type="line"/>
     </contour>
     <contour>
-      <point x="239" y="517" type="move" name="top"/>
+      <point x="228" y="517" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

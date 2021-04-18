@@ -4,11 +4,11 @@
   <unicode hex="0127"/>
   <outline>
     <contour>
-      <point x="103" y="652" type="line"/>
-      <point x="99" y="625" type="line"/>
-      <point x="174" y="625" type="line"/>
-      <point x="380" y="625" type="line"/>
-      <point x="390" y="652" type="line"/>
+      <point x="101" y="652" type="line"/>
+      <point x="97" y="625" type="line"/>
+      <point x="172" y="625" type="line"/>
+      <point x="378" y="625" type="line"/>
+      <point x="388" y="652" type="line"/>
     </contour>
     <component base="h" xOffset="5"/>
   </outline>
@@ -16,10 +16,10 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>==n</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:23:36 +0000</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>h</string>
+      <string>n</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -371,8 +371,8 @@
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>0</integer>
           <key>name</key>

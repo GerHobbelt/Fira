@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni049E" format="1">
-  <advance width="644"/>
+  <advance width="642"/>
   <unicode hex="049E"/>
   <outline>
     <contour>
@@ -10,12 +10,14 @@
       <point x="349" y="509" type="line"/>
       <point x="365" y="625" type="line"/>
     </contour>
-    <component base="uni041A" xOffset="9"/>
+    <component base="uni041A" xOffset="8"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:28:49 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>Eth</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -41,7 +43,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>31</integer>
+                  <integer>30</integer>
                   <key>y</key>
                   <integer>620</integer>
                 </dict>
@@ -51,7 +53,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>16</integer>
+                  <integer>15</integer>
                   <key>y</key>
                   <integer>509</integer>
                 </dict>
@@ -61,7 +63,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>348</integer>
+                  <integer>347</integer>
                   <key>y</key>
                   <integer>509</integer>
                 </dict>
@@ -71,7 +73,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>363</integer>
+                  <integer>362</integer>
                   <key>y</key>
                   <integer>620</integer>
                 </dict>
@@ -82,12 +84,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Kastroke-cy</string>
+          <string>uni049E</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>644</integer>
+          <integer>642</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

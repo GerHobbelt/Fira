@@ -4,14 +4,14 @@
   <unicode hex="052A"/>
   <outline>
     <contour>
+      <point x="352" y="0" type="line"/>
+      <point x="448" y="682" type="line"/>
+      <point x="236" y="682" type="line"/>
       <point x="157" y="384" type="line" smooth="yes"/>
       <point x="89" y="122"/>
       <point x="49" y="70"/>
       <point x="3" y="29" type="curve"/>
       <point x="-1" y="0" type="line"/>
-      <point x="352" y="0" type="line"/>
-      <point x="448" y="682" type="line"/>
-      <point x="236" y="682" type="line"/>
     </contour>
     <contour>
       <point x="83" y="70"/>
@@ -21,12 +21,6 @@
       <point x="413" y="653" type="line"/>
       <point x="326" y="29" type="line"/>
       <point x="35" y="29" type="line"/>
-    </contour>
-    <contour>
-      <point x="556" y="346" type="line"/>
-      <point x="560" y="374" type="line"/>
-      <point x="384" y="374" type="line"/>
-      <point x="380" y="346" type="line"/>
     </contour>
     <contour>
       <point x="482" y="0" type="line"/>
@@ -50,13 +44,19 @@
       <point x="451" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="337" y="0" type="line"/>
+      <point x="556" y="346" type="line"/>
+      <point x="560" y="374" type="line"/>
+      <point x="384" y="374" type="line"/>
+      <point x="380" y="346" type="line"/>
+    </contour>
+    <contour>
       <point x="471" y="0" type="line"/>
       <point x="476" y="29" type="line"/>
       <point x="342" y="29" type="line"/>
+      <point x="337" y="0" type="line"/>
     </contour>
-    <component base="descStraight-cy.case" xOffset="367"/>
-    <component base="descStraightleft-cy.case" xOffset="-57"/>
+    <component base="descStraightcy.case" xOffset="367"/>
+    <component base="descStraightleftcy.case" xOffset="-57"/>
     <contour>
       <point x="482" y="682" type="move" name="top"/>
     </contour>
@@ -65,6 +65,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:28:44 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>De-cy</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -273,7 +275,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Dzzhe-cy</string>
+          <string>uni052A</string>
           <key>unicodes</key>
           <array>
           </array>

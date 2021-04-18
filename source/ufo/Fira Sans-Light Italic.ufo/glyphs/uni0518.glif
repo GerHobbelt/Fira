@@ -4,43 +4,51 @@
   <unicode hex="0518"/>
   <outline>
     <contour>
-      <point x="31" y="0" type="line"/>
-      <point x="239" y="312" type="line"/>
-      <point x="237" y="312" type="line"/>
+      <point x="250" y="312" type="line"/>
+      <point x="248" y="312" type="line"/>
       <point x="29" y="0" type="line"/>
+      <point x="32" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="812" y="680" type="line"/>
-      <point x="369" y="680" type="line" smooth="yes"/>
-      <point x="207" y="680"/>
-      <point x="99" y="613"/>
-      <point x="99" y="476" type="curve" smooth="yes"/>
-      <point x="99" y="375"/>
+      <point x="249" y="311" type="line"/>
+      <point x="457" y="311" type="line"/>
+      <point x="457" y="313" type="line"/>
+      <point x="253" y="313" type="line"/>
+      <point x="172" y="313"/>
+      <point x="102" y="364"/>
+      <point x="102" y="459" type="curve" smooth="yes"/>
+      <point x="102" y="562"/>
+      <point x="162" y="678"/>
+      <point x="370" y="678" type="curve" smooth="yes"/>
+      <point x="507" y="678" type="line"/>
+      <point x="412" y="0" type="line"/>
+      <point x="414" y="0" type="line"/>
+      <point x="509" y="680" type="line"/>
+      <point x="370" y="680" type="line" smooth="yes"/>
+      <point x="161" y="680"/>
+      <point x="100" y="563"/>
+      <point x="100" y="459" type="curve" smooth="yes"/>
+      <point x="100" y="365"/>
       <point x="168" y="314"/>
-      <point x="237" y="311" type="curve"/>
-      <point x="238" y="311" type="line"/>
-      <point x="455" y="311" type="line"/>
-      <point x="411" y="0" type="line"/>
-      <point x="727" y="0" type="line"/>
-      <point x="727" y="2" type="line"/>
-      <point x="413" y="2" type="line"/>
-      <point x="464" y="360" type="line"/>
+      <point x="248" y="311" type="curve"/>
+    </contour>
+    <contour>
+      <point x="812" y="678" type="line"/>
+      <point x="812" y="680" type="line"/>
+      <point x="507" y="680" type="line"/>
+      <point x="508" y="678" type="line"/>
+    </contour>
+    <contour>
       <point x="725" y="360" type="line"/>
       <point x="725" y="362" type="line"/>
       <point x="464" y="362" type="line"/>
-      <point x="508" y="678" type="line"/>
-      <point x="812" y="678" type="line"/>
+      <point x="464" y="360" type="line"/>
     </contour>
     <contour>
-      <point x="171" y="313"/>
-      <point x="101" y="376"/>
-      <point x="101" y="477" type="curve" smooth="yes"/>
-      <point x="101" y="611"/>
-      <point x="207" y="678"/>
-      <point x="369" y="678" type="curve" smooth="yes"/>
-      <point x="506" y="678" type="line"/>
-      <point x="455" y="313" type="line"/>
-      <point x="242" y="313" type="line" smooth="yes"/>
+      <point x="412" y="0" type="line"/>
+      <point x="727" y="0" type="line"/>
+      <point x="727" y="2" type="line"/>
+      <point x="413" y="2" type="line"/>
     </contour>
     <contour>
       <point x="466" y="680" type="move" name="top"/>
@@ -53,6 +61,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>Ia-cy</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -443,7 +453,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Yae-cy</string>
+          <string>uni0518</string>
           <key>unicodes</key>
           <array>
           </array>

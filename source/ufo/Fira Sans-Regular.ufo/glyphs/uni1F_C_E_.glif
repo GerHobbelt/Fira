@@ -1,23 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FCE" format="1">
-  <advance width="343"/>
+  <advance width="326"/>
   <unicode hex="1FCE"/>
   <outline>
     <contour>
-      <point x="163" y="593" type="line"/>
-      <point x="223" y="577" type="line"/>
-      <point x="293" y="778" type="line"/>
-      <point x="210" y="799" type="line"/>
+      <point x="166" y="593" type="line"/>
+      <point x="226" y="577" type="line"/>
+      <point x="296" y="778" type="line"/>
+      <point x="213" y="799" type="line"/>
     </contour>
-    <component base="uni1FBF"/>
+    <component base="uni1FBF" xOffset="3"/>
     <contour>
-      <point x="136" y="527" type="move" name="_top"/>
+      <point x="139" y="527" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:22:31 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -29,14 +31,14 @@
           <array>
             <dict>
               <key>baseGlyph</key>
-              <string>psili</string>
+              <string>uni1FBF</string>
               <key>transformation</key>
               <array>
                 <integer>1</integer>
                 <integer>0</integer>
                 <integer>0</integer>
                 <integer>1</integer>
-                <integer>0</integer>
+                <integer>3</integer>
                 <integer>0</integer>
               </array>
             </dict>
@@ -52,7 +54,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>161</integer>
+                  <integer>164</integer>
                   <key>y</key>
                   <integer>601</integer>
                 </dict>
@@ -62,7 +64,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>208</integer>
+                  <integer>211</integer>
                   <key>y</key>
                   <integer>577</integer>
                 </dict>
@@ -72,7 +74,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>316</integer>
+                  <integer>319</integer>
                   <key>y</key>
                   <integer>765</integer>
                 </dict>
@@ -82,7 +84,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>243</integer>
+                  <integer>246</integer>
                   <key>y</key>
                   <integer>800</integer>
                 </dict>
@@ -93,12 +95,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>psilioxia</string>
+          <string>uni1FCE</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>343</integer>
+          <integer>326</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

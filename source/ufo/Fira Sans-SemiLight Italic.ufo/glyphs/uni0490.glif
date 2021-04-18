@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0490" format="1">
-  <advance width="493"/>
+  <advance width="508"/>
   <unicode hex="0490"/>
   <outline>
     <contour>
@@ -14,13 +14,11 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>==H</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>==T-15</string>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:28:44 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>Ge-cy</string>
+      <string>H</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>Ge-cy</string>
       <key>com.typemytype.robofont.layerData</key>
@@ -135,16 +133,16 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Gheupturn-cy</string>
+          <string>uni0490</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>493</integer>
+          <integer>508</integer>
         </dict>
       </dict>
       <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

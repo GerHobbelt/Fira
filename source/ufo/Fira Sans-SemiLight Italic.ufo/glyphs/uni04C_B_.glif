@@ -22,18 +22,18 @@
       <point x="237" y="228" type="curve" smooth="yes"/>
     </contour>
     <contour>
+      <point x="422" y="0" type="line"/>
+      <point x="518" y="682" type="line"/>
+      <point x="487" y="682" type="line"/>
+      <point x="391" y="0" type="line"/>
+    </contour>
+    <contour>
       <point x="347" y="-141" type="line"/>
       <point x="382" y="0" type="line"/>
       <point x="412" y="0" type="line"/>
       <point x="422" y="29" type="line"/>
       <point x="350" y="29" type="line"/>
       <point x="325" y="-141" type="line"/>
-    </contour>
-    <contour>
-      <point x="422" y="0" type="line"/>
-      <point x="518" y="682" type="line"/>
-      <point x="487" y="682" type="line"/>
-      <point x="391" y="0" type="line"/>
     </contour>
     <contour>
       <point x="314" y="682" type="move" name="top"/>
@@ -52,8 +52,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>==H</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>Che-cy</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -356,7 +356,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Chekhakassian-cy</string>
+          <string>uni04CB</string>
           <key>unicodes</key>
           <array>
           </array>

@@ -5,7 +5,7 @@
   <outline>
     <contour>
       <point x="445" y="682" type="line"/>
-      <point x="252" y="297" type="line"/>
+      <point x="252" y="299" type="line"/>
       <point x="55" y="682" type="line"/>
       <point x="20" y="682" type="line"/>
       <point x="236" y="270" type="line"/>
@@ -21,13 +21,15 @@
       <point x="252" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="15" y="682" type="move" name="topleft"/>
+      <point x="9" y="682" type="move" name="topleft"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:35:10 +0000</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

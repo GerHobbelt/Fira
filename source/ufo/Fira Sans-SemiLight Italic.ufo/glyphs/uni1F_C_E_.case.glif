@@ -1,21 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FCE.case" format="1">
-  <advance width="164"/>
+  <advance width="245"/>
   <outline>
+    <component base="uni1FCE" xOffset="-12" yOffset="-81"/>
     <contour>
-      <point x="177" y="517" type="line"/>
-      <point x="199" y="509" type="line"/>
-      <point x="285" y="670" type="line"/>
-      <point x="250" y="684" type="line"/>
+      <point x="276" y="682" type="move" name="_topleft"/>
     </contour>
-    <component base="uni1FBF" xOffset="29" yOffset="-81"/>
+    <contour>
+      <point x="198" y="686" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:34:53 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>psili.case</string>
+      <string>psilioxia</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>psilioxia</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -25,6 +29,19 @@
           </array>
           <key>components</key>
           <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>uni1FBF</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>-12</integer>
+                <integer>-81</integer>
+              </array>
+            </dict>
           </array>
           <key>contours</key>
           <array>
@@ -37,9 +54,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>137</integer>
+                  <integer>136</integer>
                   <key>y</key>
-                  <integer>520</integer>
+                  <integer>517</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -47,9 +64,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>160</integer>
+                  <integer>158</integer>
                   <key>y</key>
-                  <integer>511</integer>
+                  <integer>509</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -57,9 +74,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>232</integer>
+                  <integer>244</integer>
                   <key>y</key>
-                  <integer>668</integer>
+                  <integer>670</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -67,9 +84,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>195</integer>
+                  <integer>209</integer>
                   <key>y</key>
-                  <integer>682</integer>
+                  <integer>684</integer>
                 </dict>
               </array>
             </dict>
@@ -78,16 +95,16 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>psilioxia.case</string>
+          <string>uni1FCE.case</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>164</integer>
+          <integer>245</integer>
         </dict>
       </dict>
       <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
+      <string>0.18,0.16,0.78,1</string>
     </dict>
   </lib>
 </glyph>

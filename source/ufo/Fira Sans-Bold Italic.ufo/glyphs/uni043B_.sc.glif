@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni043B.sc" format="1">
-  <advance width="559"/>
+  <advance width="560"/>
   <outline>
     <contour>
       <point x="135" y="571" type="line"/>
@@ -19,7 +19,7 @@
       <point x="559" y="571" type="line"/>
     </contour>
     <contour>
-      <point x="322" y="571" type="move" name="top"/>
+      <point x="347" y="571" type="move" name="top"/>
     </contour>
     <contour>
       <point x="242" y="0" type="move" name="bottom"/>
@@ -32,8 +32,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>==El-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>El-cy</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -192,12 +192,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>el-cy.sc</string>
+          <string>uni043B.sc</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>559</integer>
+          <integer>560</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

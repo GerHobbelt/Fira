@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eogonek" format="1">
-  <advance width="522"/>
+  <advance width="517"/>
   <unicode hex="0119"/>
   <outline>
     <component base="e"/>
@@ -9,7 +9,9 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:23:36 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>e</string>
       <key>com.typemytype.robofont.layerData</key>
@@ -480,11 +482,11 @@
           <array>
           </array>
           <key>width</key>
-          <integer>522</integer>
+          <integer>517</integer>
         </dict>
       </dict>
       <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
+      <string>0.18,0.16,0.78,1</string>
     </dict>
   </lib>
 </glyph>

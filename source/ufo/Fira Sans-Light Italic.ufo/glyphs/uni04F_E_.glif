@@ -4,6 +4,16 @@
   <unicode hex="04FE"/>
   <outline>
     <contour>
+      <point x="473" y="680" type="line"/>
+      <point x="249" y="371" type="line"/>
+      <point x="247" y="370" type="line"/>
+      <point x="-16" y="0" type="line"/>
+      <point x="-14" y="0" type="line"/>
+      <point x="249" y="369" type="line"/>
+      <point x="251" y="370" type="line"/>
+      <point x="475" y="680" type="line"/>
+    </contour>
+    <contour>
       <point x="110" y="680" type="line"/>
       <point x="247" y="370" type="line"/>
       <point x="249" y="369" type="line"/>
@@ -14,16 +24,11 @@
       <point x="112" y="680" type="line"/>
     </contour>
     <contour>
-      <point x="473" y="680" type="line"/>
-      <point x="249" y="371" type="line"/>
-      <point x="247" y="370" type="line"/>
-      <point x="-16" y="0" type="line"/>
-      <point x="-14" y="0" type="line"/>
-      <point x="249" y="369" type="line"/>
-      <point x="251" y="370" type="line"/>
-      <point x="475" y="680" type="line"/>
+      <point x="426" y="369" type="line"/>
+      <point x="426" y="371" type="line"/>
+      <point x="81" y="371" type="line"/>
+      <point x="81" y="369" type="line"/>
     </contour>
-    <component base="hyphen" xOffset="-64" yOffset="58" xScale="1.5"/>
     <contour>
       <point x="293" y="680" type="move" name="top"/>
     </contour>
@@ -38,6 +43,12 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>X</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>X</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

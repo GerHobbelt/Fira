@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0429" format="1">
-  <advance width="935"/>
+  <advance width="925"/>
   <unicode hex="0429"/>
   <outline>
     <component base="uni0428"/>
-    <component base="descStraight-cy.case" xOffset="746"/>
+    <component base="descStraightcy.case" xOffset="746"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:11:05 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>H</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -196,12 +198,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Shcha-cy</string>
+          <string>uni0429</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>935</integer>
+          <integer>925</integer>
         </dict>
       </dict>
       <key>public.markColor</key>
@@ -209,12 +211,12 @@
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
-          <integer>1</integer>
+          <integer>0</integer>
           <key>name</key>
-          <string>descStraight-cy.case</string>
+          <string>uni0428</string>
         </dict>
       </array>
     </dict>

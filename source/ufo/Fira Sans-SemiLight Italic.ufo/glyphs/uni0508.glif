@@ -1,51 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0508" format="1">
-  <advance width="911"/>
+  <advance width="913"/>
   <unicode hex="0508"/>
   <outline>
     <contour>
-      <point x="763" y="-10"/>
-      <point x="838" y="148"/>
-      <point x="849" y="379" type="curve"/>
-      <point x="818" y="379" type="line"/>
-      <point x="810" y="172"/>
-      <point x="744" y="18"/>
-      <point x="604" y="18" type="curve" smooth="yes"/>
-      <point x="518" y="18"/>
-      <point x="485" y="77"/>
-      <point x="497" y="161" type="curve" smooth="yes"/>
-      <point x="569" y="682" type="line"/>
-      <point x="233" y="682" type="line"/>
-      <point x="245" y="653" type="line"/>
-      <point x="534" y="653" type="line"/>
-      <point x="466" y="163" type="line" smooth="yes"/>
-      <point x="451" y="57"/>
-      <point x="505" y="-10"/>
-      <point x="603" y="-10" type="curve" smooth="yes"/>
+      <point x="766" y="-10"/>
+      <point x="841" y="148"/>
+      <point x="852" y="379" type="curve"/>
+      <point x="821" y="379" type="line"/>
+      <point x="813" y="172"/>
+      <point x="747" y="18"/>
+      <point x="607" y="18" type="curve" smooth="yes"/>
+      <point x="521" y="18"/>
+      <point x="488" y="77"/>
+      <point x="500" y="161" type="curve" smooth="yes"/>
+      <point x="572" y="682" type="line"/>
+      <point x="236" y="682" type="line"/>
+      <point x="248" y="653" type="line"/>
+      <point x="537" y="653" type="line"/>
+      <point x="469" y="163" type="line" smooth="yes"/>
+      <point x="454" y="57"/>
+      <point x="508" y="-10"/>
+      <point x="606" y="-10" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="95" y="24"/>
-      <point x="102" y="74"/>
-      <point x="159" y="287" type="curve" smooth="yes"/>
-      <point x="258" y="657" type="line"/>
-      <point x="233" y="682" type="line"/>
-      <point x="128" y="291" type="line" smooth="yes"/>
-      <point x="73" y="85"/>
-      <point x="65" y="43"/>
+      <point x="92" y="17"/>
+      <point x="101" y="67"/>
+      <point x="181" y="366" type="curve" smooth="yes"/>
+      <point x="258" y="653" type="line"/>
+      <point x="236" y="682" type="line"/>
+      <point x="151" y="364" type="line" smooth="yes"/>
+      <point x="74" y="75"/>
+      <point x="62" y="37"/>
       <point x="-1" y="20" type="curve"/>
-      <point x="7" y="-6" type="line"/>
+      <point x="4" y="-6" type="line"/>
     </contour>
     <contour>
-      <point x="515" y="682" type="move" name="top"/>
+      <point x="518" y="682" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="419" y="0" type="move" name="bottom"/>
+      <point x="422" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>El-cy</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -71,7 +73,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>818</integer>
+                  <integer>821</integer>
                   <key>y</key>
                   <integer>379</integer>
                 </dict>
@@ -79,7 +81,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>817</integer>
+                  <integer>820</integer>
                   <key>y</key>
                   <integer>343</integer>
                 </dict>
@@ -87,7 +89,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>813</integer>
+                  <integer>816</integer>
                   <key>y</key>
                   <integer>305</integer>
                 </dict>
@@ -97,7 +99,7 @@
                   <key>smooth</key>
                   <true/>
                   <key>x</key>
-                  <integer>808</integer>
+                  <integer>811</integer>
                   <key>y</key>
                   <integer>267</integer>
                 </dict>
@@ -105,7 +107,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>781</integer>
+                  <integer>784</integer>
                   <key>y</key>
                   <integer>77</integer>
                 </dict>
@@ -113,7 +115,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>689</integer>
+                  <integer>692</integer>
                   <key>y</key>
                   <integer>18</integer>
                 </dict>
@@ -123,7 +125,7 @@
                   <key>smooth</key>
                   <true/>
                   <key>x</key>
-                  <integer>605</integer>
+                  <integer>608</integer>
                   <key>y</key>
                   <integer>18</integer>
                 </dict>
@@ -131,7 +133,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>541</integer>
+                  <integer>544</integer>
                   <key>y</key>
                   <integer>18</integer>
                 </dict>
@@ -139,7 +141,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>494</integer>
+                  <integer>497</integer>
                   <key>y</key>
                   <integer>49</integer>
                 </dict>
@@ -149,7 +151,7 @@
                   <key>smooth</key>
                   <true/>
                   <key>x</key>
-                  <integer>494</integer>
+                  <integer>497</integer>
                   <key>y</key>
                   <integer>125</integer>
                 </dict>
@@ -157,7 +159,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>494</integer>
+                  <integer>497</integer>
                   <key>y</key>
                   <integer>153</integer>
                 </dict>
@@ -165,7 +167,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>517</integer>
+                  <integer>520</integer>
                   <key>y</key>
                   <integer>314</integer>
                 </dict>
@@ -175,7 +177,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>530</integer>
+                  <integer>533</integer>
                   <key>y</key>
                   <integer>400</integer>
                 </dict>
@@ -185,7 +187,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>499</integer>
+                  <integer>502</integer>
                   <key>y</key>
                   <integer>400</integer>
                 </dict>
@@ -193,7 +195,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>487</integer>
+                  <integer>490</integer>
                   <key>y</key>
                   <integer>319</integer>
                 </dict>
@@ -201,7 +203,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>464</integer>
+                  <integer>467</integer>
                   <key>y</key>
                   <integer>156</integer>
                 </dict>
@@ -211,7 +213,7 @@
                   <key>smooth</key>
                   <true/>
                   <key>x</key>
-                  <integer>464</integer>
+                  <integer>467</integer>
                   <key>y</key>
                   <integer>124</integer>
                 </dict>
@@ -219,7 +221,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>464</integer>
+                  <integer>467</integer>
                   <key>y</key>
                   <integer>33</integer>
                 </dict>
@@ -227,7 +229,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>523</integer>
+                  <integer>526</integer>
                   <key>y</key>
                   <integer>-10</integer>
                 </dict>
@@ -237,7 +239,7 @@
                   <key>smooth</key>
                   <true/>
                   <key>x</key>
-                  <integer>605</integer>
+                  <integer>608</integer>
                   <key>y</key>
                   <integer>-10</integer>
                 </dict>
@@ -245,7 +247,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>712</integer>
+                  <integer>715</integer>
                   <key>y</key>
                   <integer>-10</integer>
                 </dict>
@@ -253,7 +255,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>812</integer>
+                  <integer>815</integer>
                   <key>y</key>
                   <integer>72</integer>
                 </dict>
@@ -263,7 +265,7 @@
                   <key>smooth</key>
                   <true/>
                   <key>x</key>
-                  <integer>838</integer>
+                  <integer>841</integer>
                   <key>y</key>
                   <integer>263</integer>
                 </dict>
@@ -271,7 +273,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>844</integer>
+                  <integer>847</integer>
                   <key>y</key>
                   <integer>303</integer>
                 </dict>
@@ -279,7 +281,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>847</integer>
+                  <integer>850</integer>
                   <key>y</key>
                   <integer>341</integer>
                 </dict>
@@ -289,7 +291,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>849</integer>
+                  <integer>852</integer>
                   <key>y</key>
                   <integer>379</integer>
                 </dict>
@@ -302,7 +304,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>95</integer>
+                  <integer>98</integer>
                   <key>y</key>
                   <integer>24</integer>
                 </dict>
@@ -310,7 +312,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>102</integer>
+                  <integer>105</integer>
                   <key>y</key>
                   <integer>74</integer>
                 </dict>
@@ -320,7 +322,7 @@
                   <key>smooth</key>
                   <true/>
                   <key>x</key>
-                  <integer>159</integer>
+                  <integer>162</integer>
                   <key>y</key>
                   <integer>287</integer>
                 </dict>
@@ -330,7 +332,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>258</integer>
+                  <integer>261</integer>
                   <key>y</key>
                   <integer>657</integer>
                 </dict>
@@ -340,7 +342,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>233</integer>
+                  <integer>236</integer>
                   <key>y</key>
                   <integer>682</integer>
                 </dict>
@@ -350,7 +352,7 @@
                   <key>smooth</key>
                   <true/>
                   <key>x</key>
-                  <integer>128</integer>
+                  <integer>131</integer>
                   <key>y</key>
                   <integer>291</integer>
                 </dict>
@@ -358,7 +360,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>73</integer>
+                  <integer>76</integer>
                   <key>y</key>
                   <integer>85</integer>
                 </dict>
@@ -366,7 +368,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>65</integer>
+                  <integer>68</integer>
                   <key>y</key>
                   <integer>43</integer>
                 </dict>
@@ -376,7 +378,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>-1</integer>
+                  <integer>2</integer>
                   <key>y</key>
                   <integer>20</integer>
                 </dict>
@@ -386,7 +388,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>7</integer>
+                  <integer>10</integer>
                   <key>y</key>
                   <integer>-6</integer>
                 </dict>
@@ -401,7 +403,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>530</integer>
+                  <integer>533</integer>
                   <key>y</key>
                   <integer>400</integer>
                 </dict>
@@ -411,7 +413,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>569</integer>
+                  <integer>572</integer>
                   <key>y</key>
                   <integer>682</integer>
                 </dict>
@@ -421,7 +423,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>233</integer>
+                  <integer>236</integer>
                   <key>y</key>
                   <integer>682</integer>
                 </dict>
@@ -431,7 +433,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>245</integer>
+                  <integer>248</integer>
                   <key>y</key>
                   <integer>653</integer>
                 </dict>
@@ -441,7 +443,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>534</integer>
+                  <integer>537</integer>
                   <key>y</key>
                   <integer>653</integer>
                 </dict>
@@ -451,7 +453,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>499</integer>
+                  <integer>502</integer>
                   <key>y</key>
                   <integer>400</integer>
                 </dict>
@@ -462,12 +464,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Komilje-cy</string>
+          <string>uni0508</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>911</integer>
+          <integer>913</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

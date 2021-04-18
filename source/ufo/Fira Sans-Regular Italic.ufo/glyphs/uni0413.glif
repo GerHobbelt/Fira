@@ -10,7 +10,7 @@
       <point x="159" y="689" type="line"/>
     </contour>
     <contour>
-      <point x="161" y="689" type="line"/>
+      <point x="159" y="689" type="line"/>
       <point x="227" y="607" type="line"/>
       <point x="529" y="607" type="line"/>
       <point x="554" y="689" type="line"/>
@@ -19,7 +19,7 @@
       <point x="374" y="689" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="214" y="0" type="move" name="bottom"/>
+      <point x="110" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
       <point x="167" y="0" type="move" name="bottomright"/>
@@ -29,12 +29,12 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>==T</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>H</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>–¢</string>
+      <string>T</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -117,7 +117,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Ge-cy</string>
+          <string>uni0413</string>
           <key>unicodes</key>
           <array>
           </array>

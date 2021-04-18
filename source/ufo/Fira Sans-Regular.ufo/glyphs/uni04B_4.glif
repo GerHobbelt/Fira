@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04B4" format="1">
-  <advance width="786"/>
+  <advance width="776"/>
   <unicode hex="04B4"/>
   <outline>
     <contour>
@@ -11,18 +11,33 @@
       <point x="477" y="608" type="line"/>
       <point x="487" y="689" type="line"/>
     </contour>
-    <component base="uni0426" xOffset="111"/>
+    <contour>
+      <point x="676" y="689" type="line"/>
+      <point x="581" y="689" type="line"/>
+      <point x="581" y="78" type="line"/>
+      <point x="306" y="78" type="line"/>
+      <point x="306" y="689" type="line"/>
+      <point x="211" y="689" type="line"/>
+      <point x="211" y="0" type="line"/>
+      <point x="676" y="0" type="line"/>
+    </contour>
+    <component base="descStraightcy.case" xOffset="597"/>
     <contour>
       <point x="393" y="689" type="move" name="top"/>
     </contour>
     <contour>
       <point x="393" y="-202" type="move" name="bottom"/>
     </contour>
+    <contour>
+      <point x="686" y="0" type="move" name="bottomright"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:06:44 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>T</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

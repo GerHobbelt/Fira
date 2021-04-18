@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EE8" format="1">
-  <advance width="676"/>
+  <advance width="666"/>
   <unicode hex="1EE8"/>
   <outline>
     <component base="U"/>
-    <component base="uni031B.case" xOffset="533"/>
-    <component base="acutecomb.case" xOffset="183"/>
+    <component base="uni031B.case" xOffset="521"/>
+    <component base="acutecomb.case" xOffset="180"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:27:16 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>Uhorn</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -20,8 +22,8 @@
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>0</integer>
           <key>name</key>

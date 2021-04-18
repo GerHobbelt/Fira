@@ -8,12 +8,36 @@
       <point x="347" y="597" type="line"/>
       <point x="345" y="597" type="line"/>
     </contour>
-    <component base="e.sc"/>
+    <contour>
+      <point x="130" y="557" type="line"/>
+      <point x="130" y="0" type="line"/>
+      <point x="403" y="0" type="line"/>
+      <point x="403" y="2" type="line"/>
+      <point x="132" y="2" type="line"/>
+      <point x="132" y="295" type="line"/>
+      <point x="357" y="295" type="line"/>
+      <point x="357" y="297" type="line"/>
+      <point x="132" y="297" type="line"/>
+      <point x="132" y="555" type="line"/>
+      <point x="394" y="555" type="line"/>
+      <point x="394" y="557" type="line"/>
+    </contour>
+    <contour>
+      <point x="383" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="267" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="262" y="557" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:35:10 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>H</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

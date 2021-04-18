@@ -1,34 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1D74" format="1">
-  <advance width="461"/>
+  <advance width="466"/>
   <unicode hex="1D74"/>
   <outline>
     <contour>
-      <point x="122" y="263"/>
-      <point x="135" y="279"/>
-      <point x="187" y="279" type="curve"/>
-      <point x="187" y="297" type="line"/>
-      <point x="127" y="307"/>
-      <point x="106" y="286"/>
-      <point x="81" y="250" type="curve"/>
-      <point x="101" y="238" type="line"/>
+      <point x="121" y="263"/>
+      <point x="138" y="279"/>
+      <point x="190" y="279" type="curve"/>
+      <point x="190" y="297" type="line"/>
+      <point x="130" y="307"/>
+      <point x="109" y="286"/>
+      <point x="84" y="250" type="curve"/>
+      <point x="104" y="238" type="line"/>
     </contour>
     <contour>
-      <point x="352" y="240"/>
-      <point x="373" y="261"/>
-      <point x="398" y="297" type="curve"/>
-      <point x="378" y="309" type="line"/>
-      <point x="357" y="284"/>
-      <point x="344" y="268"/>
-      <point x="292" y="268" type="curve"/>
-      <point x="292" y="250" type="line"/>
+      <point x="355" y="240"/>
+      <point x="376" y="261"/>
+      <point x="401" y="297" type="curve"/>
+      <point x="381" y="309" type="line"/>
+      <point x="364" y="284"/>
+      <point x="347" y="268"/>
+      <point x="295" y="268" type="curve"/>
+      <point x="295" y="249" type="line"/>
     </contour>
-    <component base="s"/>
+    <component base="s" xOffset="3"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:31:55 +0000</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

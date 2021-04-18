@@ -4,7 +4,17 @@
   <unicode hex="048D"/>
   <outline>
     <contour>
-      <point x="211" y="336" type="line"/>
+      <point x="185" y="266" type="line"/>
+      <point x="271" y="266" type="line" smooth="yes"/>
+      <point x="354" y="266"/>
+      <point x="385" y="236"/>
+      <point x="385" y="185" type="curve" smooth="yes"/>
+      <point x="385" y="115"/>
+      <point x="347" y="60"/>
+      <point x="240" y="60" type="curve" smooth="yes"/>
+      <point x="215" y="60"/>
+      <point x="196" y="63"/>
+      <point x="171" y="68" type="curve"/>
       <point x="235" y="527" type="line"/>
       <point x="144" y="527" type="line"/>
       <point x="72" y="14" type="line"/>
@@ -17,19 +27,7 @@
       <point x="480" y="271"/>
       <point x="424" y="336"/>
       <point x="278" y="336" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="215" y="60"/>
-      <point x="196" y="63"/>
-      <point x="171" y="68" type="curve"/>
-      <point x="201" y="266" type="line"/>
-      <point x="271" y="266" type="line" smooth="yes"/>
-      <point x="354" y="266"/>
-      <point x="385" y="236"/>
-      <point x="385" y="185" type="curve" smooth="yes"/>
-      <point x="385" y="115"/>
-      <point x="347" y="60"/>
-      <point x="240" y="60" type="curve" smooth="yes"/>
+      <point x="195" y="336" type="line"/>
     </contour>
     <contour>
       <point x="340" y="397" type="line"/>
@@ -49,6 +47,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>softsign-cy</string>
       <key>com.typemytype.robofont.layerData</key>
@@ -123,7 +123,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>semisoftsign-cy</string>
+          <string>uni048D</string>
           <key>unicodes</key>
           <array>
           </array>

@@ -5,16 +5,18 @@
   <outline>
     <component base="w" xOffset="756" yOffset="534" xScale="-1" yScale="-1"/>
     <contour>
-      <point x="406" y="534" type="move" name="top"/>
+      <point x="409" y="534" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="330" y="0" type="move" name="bottom"/>
+      <point x="333" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:28:08 +0000</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

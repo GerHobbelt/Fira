@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1F68" format="1">
-  <advance width="779"/>
+  <advance width="755"/>
   <unicode hex="1F68"/>
   <outline>
-    <component base="uni1FBF.case"/>
-    <component base="uni03A9" xOffset="93"/>
+    <component base="uni1FBF.case" xOffset="-4"/>
+    <component base="uni03A9" xOffset="69"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:30:58 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>Omegatonos</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

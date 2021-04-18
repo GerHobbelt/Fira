@@ -1,33 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0302.case" format="1">
-  <advance width="326"/>
+  <advance width="325"/>
   <outline>
     <contour>
-      <point x="369" y="783" type="line"/>
-      <point x="258" y="877" type="line"/>
-      <point x="242" y="877" type="line"/>
-      <point x="104" y="783" type="line"/>
-      <point x="118" y="765" type="line"/>
-      <point x="246" y="844" type="line"/>
-      <point x="353" y="765" type="line"/>
+      <point x="247" y="844" type="line"/>
+      <point x="352" y="765" type="line"/>
+      <point x="368" y="782" type="line"/>
+      <point x="257" y="877" type="line"/>
+      <point x="241" y="877" type="line"/>
+      <point x="104" y="784" type="line"/>
+      <point x="117" y="765" type="line"/>
     </contour>
     <contour>
-      <point x="250" y="877" type="move" name="top"/>
+      <point x="249" y="877" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="321" y="730" type="move" name="topright"/>
+      <point x="310" y="730" type="move" name="topright"/>
     </contour>
     <contour>
-      <point x="151" y="730" type="move" name="topleft"/>
+      <point x="150" y="730" type="move" name="topleft"/>
     </contour>
     <contour>
-      <point x="229" y="682" type="move" name="_top"/>
+      <point x="228" y="682" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -49,7 +51,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>155</integer>
+                  <integer>154</integer>
                   <key>y</key>
                   <integer>869</integer>
                 </dict>
@@ -59,7 +61,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>30</integer>
+                  <integer>29</integer>
                   <key>y</key>
                   <integer>781</integer>
                 </dict>
@@ -69,7 +71,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>47</integer>
+                  <integer>46</integer>
                   <key>y</key>
                   <integer>763</integer>
                 </dict>
@@ -79,7 +81,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>159</integer>
+                  <integer>158</integer>
                   <key>y</key>
                   <integer>833</integer>
                 </dict>
@@ -89,7 +91,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>270</integer>
+                  <integer>269</integer>
                   <key>y</key>
                   <integer>763</integer>
                 </dict>
@@ -99,7 +101,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>286</integer>
+                  <integer>285</integer>
                   <key>y</key>
                   <integer>781</integer>
                 </dict>
@@ -109,7 +111,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>161</integer>
+                  <integer>160</integer>
                   <key>y</key>
                   <integer>869</integer>
                 </dict>
@@ -120,16 +122,16 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>circumflexcomb.case</string>
+          <string>uni0302.case</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>326</integer>
+          <integer>325</integer>
         </dict>
       </dict>
       <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

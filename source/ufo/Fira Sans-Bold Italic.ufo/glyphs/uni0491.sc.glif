@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0491.sc" format="1">
-  <advance width="449"/>
+  <advance width="450"/>
   <outline>
     <contour>
-      <point x="497" y="571" type="line"/>
-      <point x="520" y="733" type="line"/>
-      <point x="337" y="733" type="line"/>
-      <point x="311" y="551" type="line"/>
+      <point x="498" y="571" type="line"/>
+      <point x="521" y="733" type="line"/>
+      <point x="338" y="733" type="line"/>
+      <point x="312" y="551" type="line"/>
     </contour>
     <component base="uni0433.sc"/>
   </outline>
@@ -14,6 +14,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:23:21 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>ge-cy.sc</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -130,12 +132,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>gheupturn-cy.sc</string>
+          <string>uni0491.sc</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>449</integer>
+          <integer>450</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

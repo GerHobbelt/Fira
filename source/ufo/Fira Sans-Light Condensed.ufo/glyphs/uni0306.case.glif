@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0306.case" format="1">
+  <advance width="218"/>
+  <outline>
+    <contour>
+      <point x="154" y="774"/>
+      <point x="179" y="805"/>
+      <point x="188" y="835" type="curve"/>
+      <point x="186" y="835" type="line"/>
+      <point x="175" y="801"/>
+      <point x="148" y="776"/>
+      <point x="109" y="776" type="curve"/>
+      <point x="70" y="776"/>
+      <point x="43" y="801"/>
+      <point x="32" y="835" type="curve"/>
+      <point x="30" y="835" type="line"/>
+      <point x="39" y="805"/>
+      <point x="64" y="774"/>
+      <point x="109" y="774" type="curve"/>
+    </contour>
+    <contour>
+      <point x="111" y="835" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="109" y="680" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:35:10 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

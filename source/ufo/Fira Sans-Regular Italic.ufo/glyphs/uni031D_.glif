@@ -3,18 +3,20 @@
   <advance width="359"/>
   <unicode hex="031D"/>
   <outline>
-    <component base="uni02D4" xOffset="-103" yOffset="-500"/>
+    <component base="uni02D4" xOffset="-101" yOffset="-500"/>
     <contour>
-      <point x="142" y="0" type="move" name="_bottom"/>
+      <point x="139" y="0" type="move" name="_bottom"/>
     </contour>
     <contour>
-      <point x="101" y="-310" type="move" name="bottom"/>
+      <point x="98" y="-310" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:31:50 +0000</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

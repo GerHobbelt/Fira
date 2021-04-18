@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0472" format="1">
-  <advance width="677"/>
+  <advance width="678"/>
   <unicode hex="0472"/>
   <outline>
     <component base="uni04E8"/>
@@ -9,6 +9,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:28:49 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -20,7 +22,7 @@
           <array>
             <dict>
               <key>baseGlyph</key>
-              <string>Obarred-cy</string>
+              <string>uni04E8</string>
               <key>transformation</key>
               <array>
                 <integer>1</integer>
@@ -39,12 +41,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Fita-cy</string>
+          <string>uni0472</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>677</integer>
+          <integer>678</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

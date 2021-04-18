@@ -4,31 +4,6 @@
   <unicode hex="052A"/>
   <outline>
     <contour>
-      <point x="136" y="489" type="line" smooth="yes"/>
-      <point x="99" y="201"/>
-      <point x="91" y="131"/>
-      <point x="37" y="78" type="curve"/>
-      <point x="37" y="0" type="line"/>
-      <point x="438" y="0" type="line"/>
-      <point x="438" y="689" type="line"/>
-      <point x="161" y="689" type="line"/>
-    </contour>
-    <contour>
-      <point x="187" y="133"/>
-      <point x="199" y="213"/>
-      <point x="230" y="485" type="curve" smooth="yes"/>
-      <point x="244" y="611" type="line"/>
-      <point x="343" y="611" type="line"/>
-      <point x="343" y="78" type="line"/>
-      <point x="117" y="78" type="line"/>
-    </contour>
-    <contour>
-      <point x="645" y="323" type="line"/>
-      <point x="645" y="401" type="line"/>
-      <point x="416" y="401" type="line"/>
-      <point x="416" y="323" type="line"/>
-    </contour>
-    <contour>
       <point x="628" y="0" type="line"/>
       <point x="628" y="323" type="line"/>
       <point x="674" y="323" type="line"/>
@@ -44,13 +19,38 @@
       <point x="533" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="469" y="0" type="line"/>
+      <point x="438" y="0" type="line"/>
+      <point x="438" y="689" type="line"/>
+      <point x="161" y="689" type="line"/>
+      <point x="136" y="489" type="line" smooth="yes"/>
+      <point x="99" y="201"/>
+      <point x="91" y="131"/>
+      <point x="37" y="78" type="curve"/>
+      <point x="37" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="187" y="133"/>
+      <point x="199" y="213"/>
+      <point x="230" y="485" type="curve" smooth="yes"/>
+      <point x="244" y="611" type="line"/>
+      <point x="343" y="611" type="line"/>
+      <point x="343" y="78" type="line"/>
+      <point x="117" y="78" type="line"/>
+    </contour>
+    <contour>
       <point x="595" y="0" type="line"/>
       <point x="595" y="78" type="line"/>
       <point x="469" y="78" type="line"/>
+      <point x="469" y="0" type="line"/>
     </contour>
-    <component base="descStraight-cy.case" xOffset="149" xScale="-1"/>
-    <component base="descStraight-cy.case" xOffset="349"/>
+    <contour>
+      <point x="645" y="323" type="line"/>
+      <point x="645" y="401" type="line"/>
+      <point x="416" y="401" type="line"/>
+      <point x="416" y="323" type="line"/>
+    </contour>
+    <component base="descStraightcy.case" xOffset="149" xScale="-1"/>
+    <component base="descStraightcy.case" xOffset="349"/>
     <contour>
       <point x="477" y="689" type="move" name="top"/>
     </contour>
@@ -62,6 +62,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:10:58 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>De-cy</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -77,7 +79,7 @@
           <array>
             <dict>
               <key>baseGlyph</key>
-              <string>descStraight-cy.case</string>
+              <string>descStraightcy.case</string>
               <key>transformation</key>
               <array>
                 <integer>1</integer>
@@ -473,7 +475,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Dzzhe-cy</string>
+          <string>uni052A</string>
           <key>unicodes</key>
           <array>
           </array>

@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Emacron" format="1">
-  <advance width="511"/>
+  <advance width="510"/>
   <unicode hex="0112"/>
   <outline>
     <component base="E"/>
-    <component base="uni0304.case" xOffset="79"/>
+    <component base="uni0304.case" xOffset="78"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:27:10 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -34,7 +36,7 @@
             </dict>
             <dict>
               <key>baseGlyph</key>
-              <string>macroncomb.case</string>
+              <string>uni0304.case</string>
               <key>transformation</key>
               <array>
                 <integer>1</integer>
@@ -58,7 +60,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>511</integer>
+          <integer>510</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

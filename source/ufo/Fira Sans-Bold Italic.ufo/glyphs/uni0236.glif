@@ -4,23 +4,17 @@
   <unicode hex="0236"/>
   <outline>
     <contour>
-      <point x="325" y="115" type="line"/>
-      <point x="255" y="115"/>
-      <point x="235" y="133"/>
-      <point x="242" y="182" type="curve" smooth="yes"/>
       <point x="309" y="669" type="line"/>
       <point x="137" y="649" type="line"/>
       <point x="88" y="474" type="line"/>
-      <point x="50" y="197" type="line" smooth="yes"/>
-      <point x="32" y="65"/>
+      <point x="50" y="198" type="line" smooth="yes"/>
+      <point x="32" y="66"/>
       <point x="112" y="-20"/>
       <point x="285" y="-20" type="curve"/>
-    </contour>
-    <contour>
-      <point x="370" y="400" type="line"/>
-      <point x="408" y="534" type="line"/>
-      <point x="33" y="534" type="line"/>
-      <point x="15" y="400" type="line"/>
+      <point x="325" y="115" type="line"/>
+      <point x="255" y="115"/>
+      <point x="234" y="134"/>
+      <point x="241" y="183" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="245" y="3" type="line"/>
@@ -37,7 +31,7 @@
       <point x="285" y="-20" type="line"/>
       <point x="405" y="-20"/>
       <point x="501" y="40"/>
-      <point x="501" y="152" type="curve" smooth="yes"/>
+      <point x="501" y="149" type="curve" smooth="yes"/>
       <point x="501" y="218"/>
       <point x="452" y="258"/>
       <point x="385" y="258" type="curve" smooth="yes"/>
@@ -49,6 +43,12 @@
       <point x="192" y="-90" type="line"/>
     </contour>
     <contour>
+      <point x="33" y="534" type="line"/>
+      <point x="15" y="400" type="line"/>
+      <point x="370" y="400" type="line"/>
+      <point x="410" y="534" type="line"/>
+    </contour>
+    <contour>
       <point x="221" y="649" type="move" name="top"/>
     </contour>
   </outline>
@@ -56,6 +56,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>t</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -281,7 +283,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>tcurl</string>
+          <string>uni0236</string>
           <key>unicodes</key>
           <array>
           </array>

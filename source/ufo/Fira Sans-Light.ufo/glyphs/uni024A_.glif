@@ -4,6 +4,13 @@
   <unicode hex="024A"/>
   <outline>
     <contour>
+      <point x="509" y="0" type="line"/>
+      <point x="509" y="680" type="line"/>
+      <point x="507" y="680" type="line"/>
+      <point x="507" y="600" type="line"/>
+      <point x="507" y="0" type="line"/>
+    </contour>
+    <contour>
       <point x="407" y="-9"/>
       <point x="466" y="28"/>
       <point x="508" y="97" type="curve"/>
@@ -31,14 +38,6 @@
       <point x="184" y="-9"/>
       <point x="323" y="-9" type="curve" smooth="yes"/>
     </contour>
-    <contour>
-      <point x="509" y="0" type="line"/>
-      <point x="509" y="680" type="line"/>
-      <point x="507" y="680" type="line"/>
-      <point x="507" y="600" type="line"/>
-      <point x="507" y="98" type="line"/>
-      <point x="507" y="0" type="line"/>
-    </contour>
     <component base="hookHELPER.case" xOffset="713" xScale="-1"/>
     <contour>
       <point x="320" y="680" type="move" name="top"/>
@@ -51,6 +50,10 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:07:47 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>O</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -366,7 +369,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Qhooktail</string>
+          <string>uni024A</string>
           <key>unicodes</key>
           <array>
           </array>

@@ -20,8 +20,8 @@
       <point x="69" y="60"/>
       <point x="35" y="26" type="curve"/>
     </contour>
-    <component base="descStraight-cy" xOffset="368"/>
-    <component base="descStraight-cy" xOffset="89" xScale="-1"/>
+    <component base="descStraightcy" xOffset="368"/>
+    <component base="descStraightcy" xOffset="89" xScale="-1"/>
     <contour>
       <point x="268" y="560" type="move" name="top"/>
     </contour>
@@ -33,10 +33,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>==De-cy</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>==De-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:06:44 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>De-cy</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04BD" format="1">
-  <advance width="683"/>
+  <advance width="682"/>
   <unicode hex="04BD"/>
   <outline>
     <contour>
-      <point x="170" y="309" type="line" smooth="yes"/>
-      <point x="147" y="309"/>
-      <point x="135" y="321"/>
-      <point x="135" y="340" type="curve" smooth="yes"/>
-      <point x="135" y="368"/>
-      <point x="148" y="390"/>
-      <point x="157" y="406" type="curve"/>
+      <point x="168" y="309" type="line" smooth="yes"/>
+      <point x="145" y="309"/>
+      <point x="133" y="321"/>
+      <point x="133" y="340" type="curve" smooth="yes"/>
+      <point x="133" y="368"/>
+      <point x="146" y="390"/>
+      <point x="155" y="406" type="curve"/>
       <point x="52" y="450" type="line"/>
       <point x="31" y="422"/>
       <point x="-2" y="374"/>
@@ -27,6 +27,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:23:21 +0000</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>e</string>
       <key>com.typemytype.robofont.layerData</key>
@@ -195,12 +197,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>cheabkhasian-cy</string>
+          <string>uni04BD</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>683</integer>
+          <integer>682</integer>
         </dict>
       </dict>
       <key>public.markColor</key>
@@ -208,8 +210,8 @@
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>0</integer>
           <key>name</key>

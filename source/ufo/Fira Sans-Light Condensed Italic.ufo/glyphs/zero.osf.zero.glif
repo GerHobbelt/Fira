@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.osf.zero" format="1">
+  <advance width="499"/>
+  <outline>
+    <contour>
+      <point x="111" y="29" type="line"/>
+      <point x="112" y="27" type="line"/>
+      <point x="388" y="534" type="line"/>
+      <point x="387" y="536" type="line"/>
+    </contour>
+    <contour>
+      <point x="381" y="-9"/>
+      <point x="443" y="224"/>
+      <point x="443" y="372" type="curve" smooth="yes"/>
+      <point x="443" y="494"/>
+      <point x="394" y="567"/>
+      <point x="300" y="567" type="curve" smooth="yes"/>
+      <point x="124" y="567"/>
+      <point x="61" y="334"/>
+      <point x="61" y="185" type="curve" smooth="yes"/>
+      <point x="61" y="64"/>
+      <point x="110" y="-9"/>
+      <point x="203" y="-9" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="111" y="-7"/>
+      <point x="63" y="65"/>
+      <point x="63" y="186" type="curve" smooth="yes"/>
+      <point x="63" y="333"/>
+      <point x="125" y="565"/>
+      <point x="300" y="565" type="curve" smooth="yes"/>
+      <point x="393" y="565"/>
+      <point x="441" y="493"/>
+      <point x="441" y="372" type="curve" smooth="yes"/>
+      <point x="441" y="225"/>
+      <point x="380" y="-7"/>
+      <point x="203" y="-7" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>zero.osf</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>zero.osf</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>zero.osf</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>112</integer>
+                  <key>y</key>
+                  <integer>31</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>113</integer>
+                  <key>y</key>
+                  <integer>29</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>384</integer>
+                  <key>y</key>
+                  <integer>527</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>383</integer>
+                  <key>y</key>
+                  <integer>529</integer>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>zero.osf.zero</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>499</integer>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

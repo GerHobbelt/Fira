@@ -4,28 +4,30 @@
   <unicode hex="033B"/>
   <outline>
     <contour>
-      <point x="185" y="-202" type="line"/>
-      <point x="201" y="-88" type="line"/>
-      <point x="-18" y="-88" type="line"/>
-      <point x="-34" y="-202" type="line"/>
+      <point x="184" y="-202" type="line"/>
+      <point x="200" y="-88" type="line"/>
+      <point x="-19" y="-88" type="line"/>
+      <point x="-35" y="-202" type="line"/>
     </contour>
     <contour>
-      <point x="-16" y="-90" type="line"/>
-      <point x="199" y="-90" type="line"/>
-      <point x="183" y="-200" type="line"/>
-      <point x="-32" y="-200" type="line"/>
+      <point x="-17" y="-90" type="line"/>
+      <point x="198" y="-90" type="line"/>
+      <point x="182" y="-200" type="line"/>
+      <point x="-33" y="-200" type="line"/>
     </contour>
     <contour>
-      <point x="104" y="0" type="move" name="_bottom"/>
+      <point x="103" y="0" type="move" name="_bottom"/>
     </contour>
     <contour>
-      <point x="86" y="-202" type="move" name="bottom"/>
+      <point x="85" y="-202" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -47,7 +49,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>249</integer>
+                  <integer>248</integer>
                   <key>y</key>
                   <integer>-202</integer>
                 </dict>
@@ -57,7 +59,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>249</integer>
+                  <integer>248</integer>
                   <key>y</key>
                   <integer>-88</integer>
                 </dict>
@@ -67,7 +69,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>247</integer>
+                  <integer>246</integer>
                   <key>y</key>
                   <integer>-88</integer>
                 </dict>
@@ -77,7 +79,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>247</integer>
+                  <integer>246</integer>
                   <key>y</key>
                   <integer>-200</integer>
                 </dict>
@@ -92,7 +94,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>249</integer>
+                  <integer>248</integer>
                   <key>y</key>
                   <integer>-90</integer>
                 </dict>
@@ -102,7 +104,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>249</integer>
+                  <integer>248</integer>
                   <key>y</key>
                   <integer>-88</integer>
                 </dict>
@@ -113,7 +115,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>squarebelowcomb</string>
+          <string>uni033B</string>
           <key>unicodes</key>
           <array>
           </array>

@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0308.sc" format="1">
-  <advance width="284"/>
+  <advance width="283"/>
   <outline>
-    <component base="uni0308" xOffset="5" yOffset="30"/>
+    <component base="uni0308" xOffset="4" yOffset="30"/>
     <contour>
-      <point x="184" y="560" type="move" name="_top"/>
+      <point x="183" y="560" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:31:52 +0000</string>
       <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
+      <string>0.18,0.16,0.78,1</string>
     </dict>
   </lib>
 </glyph>

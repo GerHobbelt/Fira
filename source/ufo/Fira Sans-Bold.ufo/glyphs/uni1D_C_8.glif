@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="graveacutegrave" format="1">
+<glyph name="uni1DC8" format="1">
   <advance width="521"/>
   <unicode hex="1DC8"/>
   <outline>
-    <component base="acutegraveacute" xOffset="521" xScale="-1"/>
+    <component base="uni1DC9" xOffset="521" xScale="-1"/>
     <contour>
       <point x="263" y="808" type="move" name="top"/>
     </contour>
@@ -15,17 +15,19 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:16:47 +0000</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
-          <string>acutegraveacute</string>
+          <string>uni1DC9</string>
         </dict>
       </array>
     </dict>

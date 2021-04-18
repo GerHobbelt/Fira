@@ -4,6 +4,26 @@
   <unicode hex="0508"/>
   <outline>
     <contour>
+      <point x="517" y="400" type="line"/>
+      <point x="517" y="682" type="line"/>
+      <point x="181" y="682" type="line"/>
+      <point x="197" y="653" type="line"/>
+      <point x="486" y="653" type="line"/>
+      <point x="486" y="400" type="line"/>
+    </contour>
+    <contour>
+      <point x="134" y="24"/>
+      <point x="135" y="75"/>
+      <point x="162" y="288" type="curve" smooth="yes"/>
+      <point x="209" y="657" type="line"/>
+      <point x="181" y="682" type="line"/>
+      <point x="131" y="290" type="line" smooth="yes"/>
+      <point x="105" y="84"/>
+      <point x="103" y="43"/>
+      <point x="41" y="20" type="curve"/>
+      <point x="50" y="-6" type="line"/>
+    </contour>
+    <contour>
       <point x="808" y="379" type="line"/>
       <point x="812" y="342"/>
       <point x="814" y="304"/>
@@ -28,26 +48,6 @@
       <point x="839" y="379" type="curve"/>
     </contour>
     <contour>
-      <point x="134" y="24"/>
-      <point x="135" y="75"/>
-      <point x="162" y="288" type="curve" smooth="yes"/>
-      <point x="209" y="657" type="line"/>
-      <point x="181" y="682" type="line"/>
-      <point x="131" y="290" type="line" smooth="yes"/>
-      <point x="105" y="84"/>
-      <point x="103" y="43"/>
-      <point x="41" y="20" type="curve"/>
-      <point x="50" y="-6" type="line"/>
-    </contour>
-    <contour>
-      <point x="517" y="400" type="line"/>
-      <point x="517" y="682" type="line"/>
-      <point x="181" y="682" type="line"/>
-      <point x="197" y="653" type="line"/>
-      <point x="486" y="653" type="line"/>
-      <point x="486" y="400" type="line"/>
-    </contour>
-    <contour>
       <point x="459" y="682" type="move" name="top"/>
     </contour>
     <contour>
@@ -58,6 +58,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:35:10 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>El-cy</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -604,7 +606,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Komilje-cy</string>
+          <string>uni0508</string>
           <key>unicodes</key>
           <array>
           </array>

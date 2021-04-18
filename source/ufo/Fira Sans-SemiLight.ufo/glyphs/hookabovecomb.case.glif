@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hookabovecomb.case" format="1">
-  <advance width="210"/>
+  <advance width="211"/>
   <outline>
     <contour>
       <point x="111" y="783" type="line"/>
@@ -33,13 +33,15 @@
       <point x="107" y="968" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="98" y="682" type="move" name="_top"/>
+      <point x="96" y="682" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:35:10 +0000</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

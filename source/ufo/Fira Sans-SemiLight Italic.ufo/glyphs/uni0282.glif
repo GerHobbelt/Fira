@@ -4,24 +4,6 @@
   <unicode hex="0282"/>
   <outline>
     <contour>
-      <point x="129" y="-205"/>
-      <point x="160" y="-190"/>
-      <point x="182" y="-175" type="curve"/>
-      <point x="168" y="-154" type="line"/>
-      <point x="146" y="-167"/>
-      <point x="122" y="-178"/>
-      <point x="86" y="-178" type="curve" smooth="yes"/>
-      <point x="47" y="-178"/>
-      <point x="18" y="-157"/>
-      <point x="28" y="-88" type="curve" smooth="yes"/>
-      <point x="47" y="45" type="line"/>
-      <point x="18" y="56" type="line"/>
-      <point x="-2" y="-87" type="line" smooth="yes"/>
-      <point x="-13" y="-166"/>
-      <point x="25" y="-205"/>
-      <point x="87" y="-205" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
       <point x="160" y="530"/>
       <point x="88" y="476"/>
       <point x="88" y="399" type="curve" smooth="yes"/>
@@ -62,6 +44,24 @@
       <point x="258" y="530" type="curve" smooth="yes"/>
     </contour>
     <contour>
+      <point x="129" y="-205"/>
+      <point x="160" y="-190"/>
+      <point x="182" y="-175" type="curve"/>
+      <point x="168" y="-154" type="line"/>
+      <point x="146" y="-167"/>
+      <point x="122" y="-178"/>
+      <point x="86" y="-178" type="curve" smooth="yes"/>
+      <point x="47" y="-178"/>
+      <point x="18" y="-157"/>
+      <point x="28" y="-88" type="curve" smooth="yes"/>
+      <point x="47" y="45" type="line"/>
+      <point x="18" y="56" type="line"/>
+      <point x="-2" y="-87" type="line" smooth="yes"/>
+      <point x="-13" y="-166"/>
+      <point x="25" y="-205"/>
+      <point x="87" y="-205" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
       <point x="266" y="520" type="move" name="top"/>
     </contour>
     <contour>
@@ -72,6 +72,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>s</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -430,7 +432,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>shook</string>
+          <string>uni0282</string>
           <key>unicodes</key>
           <array>
           </array>

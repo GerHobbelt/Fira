@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni029D" format="1">
-  <advance width="351"/>
+  <advance width="361"/>
   <unicode hex="029D"/>
   <outline>
     <component base="jcrossedtaildotless"/>
@@ -10,6 +10,12 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:07:14 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>jcrossedtaildotless</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>jcrossedtaildotless</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -543,12 +549,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>jcrossedtail</string>
+          <string>uni029D</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>351</integer>
+          <integer>361</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

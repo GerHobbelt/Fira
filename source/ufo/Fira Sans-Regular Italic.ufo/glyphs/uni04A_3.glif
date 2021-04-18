@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04A3" format="1">
-  <advance width="602"/>
+  <advance width="597"/>
   <unicode hex="04A3"/>
   <outline>
     <component base="uni043D"/>
-    <component base="descStraight-cy" xOffset="417"/>
+    <component base="descStraightcy" xOffset="417"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:23:21 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>n</string>
       <key>com.typemytype.robofont.layerData</key>
@@ -288,12 +290,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>endescender-cy</string>
+          <string>uni04A3</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>602</integer>
+          <integer>597</integer>
         </dict>
       </dict>
       <key>public.markColor</key>
@@ -301,12 +303,20 @@
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>uni043D</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>descStraight-cy</string>
+          <string>descStraightcy</string>
         </dict>
       </array>
     </dict>

@@ -4,12 +4,14 @@
   <outline>
     <component base="u.sc"/>
     <component base="uni031B" xOffset="443" yOffset="40"/>
-    <component base="hookabovecomb" xOffset="204" yOffset="40"/>
+    <component base="hookabovecomb" xOffset="203" yOffset="40"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:28:40 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>Uhorn</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -19,8 +21,8 @@
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>0</integer>
           <key>name</key>

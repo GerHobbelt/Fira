@@ -3,12 +3,16 @@
   <advance width="845"/>
   <outline>
     <component base="uni0436.sc"/>
-    <component base="descStraight-cy" xOffset="615"/>
+    <component base="descStraightcy" xOffset="615"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:23:22 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>zhe-cy.sc</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>kadescender-cy.sc</string>
       <key>com.typemytype.robofont.layerData</key>
@@ -397,7 +401,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>zhedescender-cy.sc</string>
+          <string>uni0497.sc</string>
           <key>unicodes</key>
           <array>
           </array>
@@ -410,8 +414,8 @@
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>0</integer>
           <key>name</key>

@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0180" format="1">
-  <advance width="571"/>
+  <advance width="570"/>
   <unicode hex="0180"/>
   <outline>
     <contour>
-      <point x="103" y="652" type="line"/>
-      <point x="99" y="625" type="line"/>
-      <point x="174" y="625" type="line"/>
-      <point x="380" y="625" type="line"/>
-      <point x="390" y="652" type="line"/>
+      <point x="101" y="652" type="line"/>
+      <point x="97" y="625" type="line"/>
+      <point x="172" y="625" type="line"/>
+      <point x="378" y="625" type="line"/>
+      <point x="388" y="652" type="line"/>
     </contour>
-    <component base="b" xOffset="5"/>
+    <component base="b" xOffset="4"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:27:28 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>hbar</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

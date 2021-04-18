@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0401" format="1">
-  <advance width="511"/>
+  <advance width="510"/>
   <unicode hex="0401"/>
   <outline>
     <component base="E"/>
@@ -10,6 +10,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:28:52 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -34,7 +36,7 @@
             </dict>
             <dict>
               <key>baseGlyph</key>
-              <string>dieresiscomb.case</string>
+              <string>uni0308.case</string>
               <key>transformation</key>
               <array>
                 <integer>1</integer>
@@ -53,12 +55,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Io-cy</string>
+          <string>uni0401</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>511</integer>
+          <integer>510</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

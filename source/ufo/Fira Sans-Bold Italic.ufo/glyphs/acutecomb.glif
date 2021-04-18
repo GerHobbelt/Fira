@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acutecomb" format="1">
-  <advance width="352"/>
+  <advance width="358"/>
   <unicode hex="0301"/>
   <outline>
     <contour>
-      <point x="90" y="712" type="line"/>
-      <point x="128" y="613" type="line"/>
-      <point x="388" y="712" type="line"/>
-      <point x="334" y="856" type="line"/>
+      <point x="87" y="712" type="line"/>
+      <point x="131" y="613" type="line"/>
+      <point x="391" y="712" type="line"/>
+      <point x="331" y="856" type="line"/>
     </contour>
     <contour>
-      <point x="241" y="856" type="move" name="top"/>
+      <point x="244" y="856" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="211" y="534" type="move" name="_top"/>
+      <point x="214" y="534" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -41,9 +43,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>77</integer>
+                  <integer>93</integer>
                   <key>y</key>
-                  <integer>601</integer>
+                  <integer>712</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -51,9 +53,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>348</integer>
+                  <integer>131</integer>
                   <key>y</key>
-                  <integer>715</integer>
+                  <integer>613</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -61,19 +63,19 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>282</integer>
+                  <integer>391</integer>
+                  <key>y</key>
+                  <integer>712</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>337</integer>
                   <key>y</key>
                   <integer>856</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>30</integer>
-                  <key>y</key>
-                  <integer>699</integer>
                 </dict>
               </array>
             </dict>
@@ -87,11 +89,11 @@
           <array>
           </array>
           <key>width</key>
-          <integer>352</integer>
+          <integer>358</integer>
         </dict>
       </dict>
       <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

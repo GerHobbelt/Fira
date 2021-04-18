@@ -2,12 +2,18 @@
 <glyph name="cent.tosf" format="1">
   <advance width="560"/>
   <outline>
-    <component base="cent.tf" xOffset="-20"/>
+    <component base="cent.tf"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:16:18 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>cent.tf</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>cent.tf</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

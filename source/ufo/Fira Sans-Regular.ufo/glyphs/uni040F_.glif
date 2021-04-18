@@ -3,13 +3,15 @@
   <advance width="665"/>
   <unicode hex="040F"/>
   <outline>
-    <component base="TseHelper-cy"/>
-    <component base="descStraight-cy.case" xOffset="213"/>
+    <component base="TseHelpercy"/>
+    <component base="descStraightcy.case" xOffset="213"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:11:05 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>H</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

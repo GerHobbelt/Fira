@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dcaron" format="1">
-  <advance width="574"/>
+  <advance width="570"/>
   <unicode hex="010F"/>
   <outline>
     <component base="d"/>
-    <component base="caron.alt" xOffset="474" yOffset="52"/>
+    <component base="caron.alt" xOffset="470" yOffset="52"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>==o</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:23:36 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>o</string>
+      <string>d</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>caron.alt</string>
       <key>com.typemytype.robofont.layerData</key>
@@ -34,21 +34,21 @@
                 <integer>0</integer>
                 <integer>0</integer>
                 <integer>1</integer>
-                <integer>-5</integer>
+                <integer>0</integer>
                 <integer>0</integer>
               </array>
             </dict>
             <dict>
               <key>baseGlyph</key>
-              <string>commaabovecomb</string>
+              <string>uni0313</string>
               <key>transformation</key>
               <array>
                 <integer>1</integer>
                 <integer>0</integer>
                 <integer>0</integer>
                 <integer>1</integer>
-                <integer>871</integer>
-                <integer>-10</integer>
+                <integer>243</integer>
+                <integer>214</integer>
               </array>
             </dict>
           </array>
@@ -64,7 +64,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>574</integer>
+          <integer>570</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

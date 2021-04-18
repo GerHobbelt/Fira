@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni20A6.tf" format="1">
+  <advance width="460"/>
+  <outline>
+    <contour>
+      <point x="-15" y="321" type="line"/>
+      <point x="-15" y="262" type="line"/>
+      <point x="475" y="262" type="line"/>
+      <point x="475" y="321" type="line"/>
+    </contour>
+    <contour>
+      <point x="-15" y="433" type="line"/>
+      <point x="-15" y="373" type="line"/>
+      <point x="475" y="373" type="line"/>
+      <point x="475" y="433" type="line"/>
+    </contour>
+    <contour>
+      <point x="334" y="689" type="line"/>
+      <point x="334" y="309" type="line" smooth="yes"/>
+      <point x="334" y="226"/>
+      <point x="343" y="134"/>
+      <point x="347" y="98" type="curve"/>
+      <point x="161" y="689" type="line"/>
+      <point x="44" y="689" type="line"/>
+      <point x="44" y="0" type="line"/>
+      <point x="126" y="0" type="line"/>
+      <point x="126" y="324" type="line" smooth="yes"/>
+      <point x="126" y="447"/>
+      <point x="119" y="536"/>
+      <point x="114" y="590" type="curve"/>
+      <point x="299" y="0" type="line"/>
+      <point x="417" y="0" type="line"/>
+      <point x="417" y="689" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:35:10 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

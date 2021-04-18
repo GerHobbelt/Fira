@@ -4,7 +4,7 @@
   <unicode hex="04BC"/>
   <outline>
     <contour>
-      <point x="622" y="183" type="line"/>
+      <point x="622" y="182" type="line"/>
       <point x="585" y="155"/>
       <point x="540" y="126"/>
       <point x="473" y="126" type="curve" smooth="yes"/>
@@ -71,6 +71,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>=|Schwa-cy</string>
       <key>com.typemytype.robofont.layerData</key>
@@ -457,7 +459,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Cheabkhasian-cy</string>
+          <string>uni04BC</string>
           <key>unicodes</key>
           <array>
           </array>

@@ -4,6 +4,8 @@
   <unicode hex="04CC"/>
   <outline>
     <contour>
+      <point x="379" y="0" type="line"/>
+      <point x="453" y="520" type="line"/>
       <point x="423" y="520" type="line"/>
       <point x="394" y="313" type="line"/>
       <point x="344" y="246"/>
@@ -22,8 +24,6 @@
       <point x="338" y="213"/>
       <point x="388" y="272" type="curve"/>
       <point x="349" y="0" type="line"/>
-      <point x="379" y="0" type="line"/>
-      <point x="453" y="520" type="line"/>
     </contour>
     <contour>
       <point x="274" y="-141" type="line"/>
@@ -34,7 +34,7 @@
       <point x="252" y="-141" type="line"/>
     </contour>
     <contour>
-      <point x="302" y="520" type="move" name="top"/>
+      <point x="278" y="520" type="move" name="top"/>
     </contour>
     <contour>
       <point x="338" y="0" type="move" name="bottomleft"/>
@@ -50,10 +50,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>==che-cy</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>==|n</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>che-cy</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -450,7 +448,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>chekhakassian-cy</string>
+          <string>uni04CC</string>
           <key>unicodes</key>
           <array>
           </array>

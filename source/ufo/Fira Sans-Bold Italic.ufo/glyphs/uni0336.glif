@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="strokelongoverlaycomb" format="1">
-  <advance width="782"/>
+<glyph name="uni0336" format="1">
+  <advance width="818"/>
   <unicode hex="0336"/>
   <outline>
-    <component base="emdash"/>
+    <component base="emdash" xOffset="18"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:31:50 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>hyphen</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>hyphen</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

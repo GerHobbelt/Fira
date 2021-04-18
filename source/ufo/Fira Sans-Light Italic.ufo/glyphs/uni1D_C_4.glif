@@ -1,25 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="macronacute" format="1">
-  <advance width="319"/>
+<glyph name="uni1DC4" format="1">
+  <advance width="343"/>
   <unicode hex="1DC4"/>
   <outline>
     <contour>
-      <point x="367" y="723" type="line"/>
-      <point x="367" y="725" type="line"/>
-      <point x="220" y="630" type="line"/>
-      <point x="221" y="628" type="line"/>
+      <point x="378" y="723" type="line"/>
+      <point x="376" y="725" type="line"/>
+      <point x="230" y="630" type="line"/>
+      <point x="231" y="628" type="line"/>
     </contour>
     <contour>
-      <point x="220" y="630" type="line"/>
-      <point x="70" y="630" type="line"/>
-      <point x="70" y="628" type="line"/>
-      <point x="221" y="628" type="line"/>
+      <point x="231" y="628" type="line"/>
+      <point x="231" y="630" type="line"/>
+      <point x="82" y="630" type="line"/>
+      <point x="82" y="628" type="line"/>
+    </contour>
+    <contour>
+      <point x="239" y="727" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="209" y="517" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

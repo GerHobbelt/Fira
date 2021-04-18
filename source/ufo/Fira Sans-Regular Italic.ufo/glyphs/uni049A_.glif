@@ -4,12 +4,14 @@
   <unicode hex="049A"/>
   <outline>
     <component base="uni041A"/>
-    <component base="descStraight-cy.case" xOffset="475"/>
+    <component base="descStraightcy.case" xOffset="475"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:28:49 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>H</string>
       <key>com.typemytype.robofont.layerData</key>
@@ -256,7 +258,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Kadescender-cy</string>
+          <string>uni049A</string>
           <key>unicodes</key>
           <array>
           </array>
@@ -269,8 +271,8 @@
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>0</integer>
           <key>name</key>

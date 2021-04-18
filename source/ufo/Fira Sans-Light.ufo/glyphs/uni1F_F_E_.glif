@@ -1,23 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FFE" format="1">
-  <advance width="73"/>
+  <advance width="87"/>
   <unicode hex="1FFE"/>
   <outline>
-    <component base="uni0326" xOffset="74" yOffset="836" xScale="-1"/>
+    <component base="uni0326" xOffset="87" yOffset="836" xScale="-1"/>
     <contour>
-      <point x="62" y="727" type="move" name="_topleft"/>
+      <point x="75" y="727" type="move" name="_topleft"/>
     </contour>
     <contour>
-      <point x="39" y="729" type="move" name="top"/>
+      <point x="52" y="729" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="52" y="517" type="move" name="_top"/>
+      <point x="56" y="517" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:22:31 +0000</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

@@ -4,12 +4,14 @@
   <unicode hex="0171"/>
   <outline>
     <component base="u"/>
-    <component base="uni030B" xOffset="93"/>
+    <component base="uni030B" xOffset="90"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:28:08 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -34,7 +36,7 @@
             </dict>
             <dict>
               <key>baseGlyph</key>
-              <string>hungarumlautcomb</string>
+              <string>uni030B</string>
               <key>transformation</key>
               <array>
                 <integer>1</integer>

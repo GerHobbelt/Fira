@@ -4,6 +4,21 @@
   <unicode hex="052B"/>
   <outline>
     <contour>
+      <point x="466" y="0" type="line"/>
+      <point x="466" y="264" type="line"/>
+      <point x="504" y="264" type="line"/>
+      <point x="693" y="0" type="line"/>
+      <point x="728" y="0" type="line"/>
+      <point x="529" y="279" type="line"/>
+      <point x="698" y="520" type="line"/>
+      <point x="664" y="520" type="line"/>
+      <point x="504" y="290" type="line"/>
+      <point x="466" y="290" type="line"/>
+      <point x="466" y="520" type="line"/>
+      <point x="436" y="520" type="line"/>
+      <point x="436" y="0" type="line"/>
+    </contour>
+    <contour>
       <point x="345" y="0" type="line"/>
       <point x="345" y="520" type="line"/>
       <point x="149" y="520" type="line"/>
@@ -28,28 +43,13 @@
       <point x="325" y="264" type="line"/>
     </contour>
     <contour>
-      <point x="466" y="0" type="line"/>
-      <point x="466" y="264" type="line"/>
-      <point x="504" y="264" type="line"/>
-      <point x="693" y="0" type="line"/>
-      <point x="728" y="0" type="line"/>
-      <point x="529" y="279" type="line"/>
-      <point x="698" y="520" type="line"/>
-      <point x="664" y="520" type="line"/>
-      <point x="504" y="290" type="line"/>
-      <point x="466" y="290" type="line"/>
-      <point x="466" y="520" type="line"/>
-      <point x="436" y="520" type="line"/>
-      <point x="436" y="0" type="line"/>
-    </contour>
-    <contour>
       <point x="460" y="0" type="line"/>
       <point x="460" y="28" type="line"/>
       <point x="355" y="28" type="line"/>
       <point x="355" y="0" type="line"/>
     </contour>
-    <component base="descStraight-cy" xOffset="293"/>
-    <component base="descStraight-cy" xOffset="104" xScale="-1"/>
+    <component base="descStraightcy" xOffset="293"/>
+    <component base="descStraightcy" xOffset="104" xScale="-1"/>
     <contour>
       <point x="377" y="520" type="move" name="top"/>
     </contour>
@@ -61,6 +61,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:06:44 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>de-cy</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -464,7 +466,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>dzzhe-cy</string>
+          <string>uni052B</string>
           <key>unicodes</key>
           <array>
           </array>
@@ -477,20 +479,20 @@
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
-          <string>descStraight-cy</string>
+          <string>descStraightcy</string>
         </dict>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>descStraight-cy</string>
+          <string>descStraightcy</string>
         </dict>
       </array>
     </dict>

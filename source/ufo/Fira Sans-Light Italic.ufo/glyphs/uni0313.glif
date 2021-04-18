@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0313" format="1">
-  <advance width="74"/>
+  <advance width="87"/>
   <unicode hex="0313"/>
   <outline>
-    <component base="uni0326" xOffset="116" yOffset="836"/>
+    <component base="uni0326" xOffset="118" yOffset="836"/>
     <contour>
-      <point x="72" y="517" type="move" name="_top"/>
+      <point x="74" y="517" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:31:50 +0000</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

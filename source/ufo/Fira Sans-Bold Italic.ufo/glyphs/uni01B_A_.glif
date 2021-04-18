@@ -39,11 +39,19 @@
       <point x="45" y="-200"/>
       <point x="131" y="-227" type="curve"/>
     </contour>
+    <contour>
+      <point x="281" y="534" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="166" y="-215" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -374,7 +382,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>ezhtail</string>
+          <string>uni01BA</string>
           <key>unicodes</key>
           <array>
           </array>

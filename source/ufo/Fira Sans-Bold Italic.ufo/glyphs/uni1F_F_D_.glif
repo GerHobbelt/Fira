@@ -1,22 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FFD" format="1">
-  <advance width="364"/>
+  <advance width="258"/>
   <unicode hex="1FFD"/>
   <outline>
-    <component base="acutecomb"/>
     <contour>
-      <point x="241" y="856" type="move" name="top"/>
+      <point x="77" y="600" type="line"/>
+      <point x="179" y="575" type="line"/>
+      <point x="305" y="816" type="line"/>
+      <point x="152" y="855" type="line"/>
     </contour>
     <contour>
-      <point x="211" y="534" type="move" name="_top"/>
+      <point x="146" y="856" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="124" y="534" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

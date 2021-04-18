@@ -3,10 +3,12 @@
   <advance width="414"/>
   <outline>
     <contour>
-      <point x="331" y="311" type="line"/>
+      <point x="315" y="311" type="line"/>
+      <point x="208" y="311" type="line"/>
       <point x="99" y="311" type="line"/>
       <point x="99" y="309" type="line"/>
-      <point x="331" y="309" type="line"/>
+      <point x="206" y="309" type="line"/>
+      <point x="315" y="309" type="line"/>
     </contour>
     <component base="t.sc"/>
   </outline>
@@ -14,6 +16,12 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:10:41 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>t.sc</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>t.sc</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

@@ -3,12 +3,14 @@
   <advance width="497"/>
   <outline>
     <component base="c.sc"/>
-    <component base="uni030C.sc" xOffset="111"/>
+    <component base="uni030C.sc" xOffset="112"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:28:22 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -33,7 +35,7 @@
             </dict>
             <dict>
               <key>baseGlyph</key>
-              <string>caroncomb.sc</string>
+              <string>uni030C.sc</string>
               <key>transformation</key>
               <array>
                 <integer>1</integer>

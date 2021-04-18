@@ -9,7 +9,7 @@
       <point x="55" y="345" type="curve" smooth="yes"/>
       <point x="55" y="107"/>
       <point x="166" y="-12"/>
-      <point x="337" y="-12" type="curve" smooth="yes"/>
+      <point x="342" y="-12" type="curve" smooth="yes"/>
       <point x="434" y="-12"/>
       <point x="506" y="12"/>
       <point x="569" y="49" type="curve"/>
@@ -17,7 +17,7 @@
       <point x="342" y="382" type="line"/>
       <point x="353" y="305" type="line"/>
       <point x="475" y="305" type="line"/>
-      <point x="475" y="98" type="line"/>
+      <point x="475" y="95" type="line"/>
       <point x="436" y="75"/>
       <point x="390" y="66"/>
       <point x="344" y="66" type="curve" smooth="yes"/>
@@ -35,18 +35,25 @@
       <point x="445" y="701"/>
       <point x="352" y="701" type="curve" smooth="yes"/>
     </contour>
-    <component base="hyphen" xOffset="293" yOffset="-105"/>
     <contour>
-      <point x="321" y="689" type="move" name="top"/>
+      <point x="636" y="169" type="line"/>
+      <point x="636" y="247" type="line"/>
+      <point x="353" y="247" type="line"/>
+      <point x="353" y="169" type="line"/>
     </contour>
     <contour>
-      <point x="321" y="0" type="move" name="bottom"/>
+      <point x="331" y="689" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="331" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:35:10 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>G</string>
       <key>com.typemytype.robofont.layerData</key>
@@ -339,7 +346,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Gstroke</string>
+          <string>uni01E4</string>
           <key>unicodes</key>
           <array>
           </array>
@@ -349,17 +356,6 @@
       </dict>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>disableAlignment</key>
-          <true/>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>hyphen</string>
-        </dict>
-      </array>
     </dict>
   </lib>
 </glyph>

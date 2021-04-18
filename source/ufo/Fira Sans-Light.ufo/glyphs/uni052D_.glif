@@ -1,53 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni052D" format="1">
-  <advance width="598"/>
+  <advance width="602"/>
   <unicode hex="052D"/>
   <outline>
     <contour>
-      <point x="104" y="1" type="line"/>
-      <point x="157" y="35"/>
-      <point x="194" y="88"/>
-      <point x="209" y="306" type="curve" smooth="yes"/>
-      <point x="223" y="515" type="line"/>
-      <point x="471" y="515" type="line"/>
-      <point x="471" y="2" type="line"/>
-      <point x="102" y="2" type="line"/>
-      <point x="102" y="0" type="line"/>
-      <point x="473" y="0" type="line"/>
-      <point x="473" y="517" type="line"/>
-      <point x="221" y="517" type="line"/>
-      <point x="207" y="306" type="line" smooth="yes"/>
-      <point x="192" y="87"/>
-      <point x="154" y="36"/>
-      <point x="102" y="2" type="curve"/>
+      <point x="477" y="0" type="line"/>
+      <point x="477" y="517" type="line"/>
+      <point x="225" y="517" type="line"/>
+      <point x="211" y="306" type="line" smooth="yes"/>
+      <point x="196" y="87"/>
+      <point x="158" y="36"/>
+      <point x="106" y="2" type="curve"/>
+      <point x="108" y="1" type="line"/>
+      <point x="161" y="35"/>
+      <point x="198" y="88"/>
+      <point x="213" y="306" type="curve" smooth="yes"/>
+      <point x="227" y="515" type="line"/>
+      <point x="475" y="515" type="line"/>
+      <point x="475" y="2" type="line"/>
+      <point x="106" y="2" type="line"/>
+      <point x="106" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="472" y="292" type="line"/>
-      <point x="239" y="292" type="line"/>
-      <point x="139" y="292"/>
-      <point x="103" y="334"/>
-      <point x="103" y="422" type="curve" smooth="yes"/>
-      <point x="103" y="517" type="line"/>
-      <point x="101" y="517" type="line"/>
-      <point x="101" y="422" type="line" smooth="yes"/>
-      <point x="101" y="332"/>
-      <point x="139" y="290"/>
-      <point x="239" y="290" type="curve"/>
-      <point x="472" y="290" type="line"/>
+      <point x="476" y="290" type="line"/>
+      <point x="476" y="292" type="line"/>
+      <point x="243" y="292" type="line"/>
+      <point x="143" y="292"/>
+      <point x="107" y="334"/>
+      <point x="107" y="422" type="curve" smooth="yes"/>
+      <point x="107" y="517" type="line"/>
+      <point x="105" y="517" type="line"/>
+      <point x="105" y="422" type="line" smooth="yes"/>
+      <point x="105" y="332"/>
+      <point x="143" y="290"/>
+      <point x="243" y="290" type="curve"/>
     </contour>
-    <component base="descStraight-cy" xOffset="140" xScale="-1"/>
-    <component base="descStraight-cy" xOffset="453"/>
+    <component base="descStraightcy" xOffset="140" xScale="-1"/>
+    <component base="descStraightcy" xOffset="457"/>
     <contour>
-      <point x="299" y="517" type="move" name="top"/>
+      <point x="303" y="517" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="299" y="-188" type="move" name="bottom"/>
+      <point x="303" y="-188" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:06:44 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>che-cy</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -57,20 +59,20 @@
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
-          <string>descStraight-cy</string>
+          <string>descStraightcy</string>
         </dict>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>descStraight-cy</string>
+          <string>descStraightcy</string>
         </dict>
       </array>
     </dict>

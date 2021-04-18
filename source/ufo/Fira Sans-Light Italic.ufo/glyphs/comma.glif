@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="comma" format="1">
-  <advance width="120"/>
+  <advance width="119"/>
   <unicode hex="002C"/>
   <outline>
     <contour>
@@ -25,8 +25,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>==period</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>period</string>
       <key>com.typemytype.robofont.layerData</key>
@@ -160,7 +160,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>120.043</real>
+          <integer>119</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

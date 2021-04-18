@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0496" format="1">
-  <advance width="875"/>
+  <advance width="830"/>
   <unicode hex="0496"/>
   <outline>
     <component base="uni0416"/>
-    <component base="descStraight-cy.case" xOffset="700"/>
+    <component base="descStraightcy.case" xOffset="700"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:28:49 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>Zhe-cy</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>=Kadescender-cy</string>
+      <string>Kadescender-cy</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -400,12 +402,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Zhedescender-cy</string>
+          <string>uni0496</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>875</integer>
+          <integer>830</integer>
         </dict>
       </dict>
       <key>public.markColor</key>
@@ -413,8 +415,8 @@
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>0</integer>
           <key>name</key>

@@ -4,12 +4,6 @@
   <unicode hex="2C65"/>
   <outline>
     <contour>
-      <point x="376" y="584" type="line"/>
-      <point x="333" y="595" type="line"/>
-      <point x="154" y="-59" type="line"/>
-      <point x="197" y="-70" type="line"/>
-    </contour>
-    <contour>
       <point x="206" y="539"/>
       <point x="148" y="527"/>
       <point x="83" y="503" type="curve"/>
@@ -59,6 +53,12 @@
       <point x="373" y="321" type="line"/>
     </contour>
     <contour>
+      <point x="376" y="584" type="line"/>
+      <point x="333" y="595" type="line"/>
+      <point x="154" y="-59" type="line"/>
+      <point x="197" y="-70" type="line"/>
+    </contour>
+    <contour>
       <point x="272" y="527" type="move" name="top"/>
     </contour>
     <contour>
@@ -69,6 +69,12 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:35:10 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>a</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>a</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -543,7 +549,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>astroke</string>
+          <string>uni2C65</string>
           <key>unicodes</key>
           <array>
           </array>

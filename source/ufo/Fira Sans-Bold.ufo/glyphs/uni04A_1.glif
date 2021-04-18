@@ -1,35 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04A1" format="1">
-  <advance width="663"/>
+  <advance width="668"/>
   <unicode hex="04A1"/>
   <outline>
     <contour>
-      <point x="337" y="534" type="line"/>
-      <point x="-5" y="534" type="line"/>
-      <point x="-5" y="395" type="line"/>
-      <point x="139" y="395" type="line"/>
+      <point x="342" y="534" type="line"/>
+      <point x="0" y="534" type="line"/>
+      <point x="0" y="395" type="line"/>
+      <point x="144" y="395" type="line"/>
     </contour>
-    <component base="uni043A" xOffset="97"/>
+    <component base="uni043A" xOffset="102"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>==hardsign-cy</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>==ka-cy</string>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:06:44 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>hardsign-cy</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>ka-cy</string>
       <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <string>0.67,0.95,0.38,1</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>0</integer>
           <key>name</key>

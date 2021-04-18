@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="alpha" format="1">
-  <advance width="572"/>
+  <advance width="566"/>
   <unicode hex="03B1"/>
   <outline>
     <contour>
@@ -47,15 +47,15 @@
       <point x="301" y="517" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="280" y="0" type="move" name="bottom"/>
+      <point x="250" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>==a*1.1</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>o</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -412,7 +412,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>572</integer>
+          <integer>566</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

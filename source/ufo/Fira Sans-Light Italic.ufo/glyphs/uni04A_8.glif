@@ -4,54 +4,54 @@
   <unicode hex="04A8"/>
   <outline>
     <contour>
-      <point x="545" y="631" type="line"/>
-      <point x="514" y="662"/>
-      <point x="475" y="688"/>
-      <point x="402" y="688" type="curve" smooth="yes"/>
-      <point x="194" y="688"/>
-      <point x="93" y="471"/>
-      <point x="93" y="253" type="curve" smooth="yes"/>
-      <point x="93" y="84"/>
+      <point x="304" y="-7" type="line"/>
       <point x="172" y="-7"/>
-      <point x="304" y="-7" type="curve"/>
-      <point x="304" y="-9" type="line"/>
-      <point x="171" y="-9"/>
-      <point x="91" y="83"/>
-      <point x="91" y="253" type="curve" smooth="yes"/>
-      <point x="91" y="476"/>
-      <point x="194" y="690"/>
-      <point x="402" y="690" type="curve" smooth="yes"/>
-      <point x="476" y="690"/>
+      <point x="93" y="84"/>
+      <point x="93" y="253" type="curve" smooth="yes"/>
+      <point x="93" y="471"/>
+      <point x="194" y="688"/>
+      <point x="402" y="688" type="curve" smooth="yes"/>
+      <point x="475" y="688"/>
+      <point x="514" y="662"/>
+      <point x="545" y="631" type="curve"/>
+      <point x="546" y="633" type="line"/>
       <point x="516" y="664"/>
-      <point x="546" y="633" type="curve"/>
+      <point x="476" y="690"/>
+      <point x="402" y="690" type="curve" smooth="yes"/>
+      <point x="194" y="690"/>
+      <point x="91" y="476"/>
+      <point x="91" y="253" type="curve" smooth="yes"/>
+      <point x="91" y="83"/>
+      <point x="171" y="-9"/>
+      <point x="304" y="-9" type="curve"/>
     </contour>
     <contour>
-      <point x="368" y="13"/>
-      <point x="302" y="72"/>
-      <point x="302" y="193" type="curve" smooth="yes"/>
-      <point x="302" y="300"/>
-      <point x="359" y="394"/>
-      <point x="468" y="394" type="curve" smooth="yes"/>
-      <point x="547" y="394"/>
-      <point x="598" y="337"/>
-      <point x="598" y="249" type="curve" smooth="yes"/>
-      <point x="598" y="112"/>
-      <point x="475" y="-9"/>
-      <point x="304" y="-9" type="curve"/>
-      <point x="304" y="-7" type="line"/>
-      <point x="474" y="-7"/>
-      <point x="596" y="113"/>
-      <point x="596" y="249" type="curve" smooth="yes"/>
-      <point x="596" y="336"/>
-      <point x="546" y="392"/>
-      <point x="468" y="392" type="curve" smooth="yes"/>
-      <point x="360" y="392"/>
-      <point x="304" y="298"/>
-      <point x="304" y="193" type="curve" smooth="yes"/>
-      <point x="304" y="73"/>
+      <point x="471" y="-85" type="line"/>
       <point x="370" y="14"/>
-      <point x="471" y="-85" type="curve"/>
-      <point x="471" y="-87" type="line"/>
+      <point x="304" y="73"/>
+      <point x="304" y="193" type="curve" smooth="yes"/>
+      <point x="304" y="298"/>
+      <point x="360" y="392"/>
+      <point x="468" y="392" type="curve" smooth="yes"/>
+      <point x="546" y="392"/>
+      <point x="596" y="336"/>
+      <point x="596" y="249" type="curve" smooth="yes"/>
+      <point x="596" y="113"/>
+      <point x="474" y="-7"/>
+      <point x="304" y="-7" type="curve"/>
+      <point x="304" y="-9" type="line"/>
+      <point x="475" y="-9"/>
+      <point x="598" y="112"/>
+      <point x="598" y="249" type="curve" smooth="yes"/>
+      <point x="598" y="337"/>
+      <point x="547" y="394"/>
+      <point x="468" y="394" type="curve" smooth="yes"/>
+      <point x="359" y="394"/>
+      <point x="302" y="300"/>
+      <point x="302" y="193" type="curve" smooth="yes"/>
+      <point x="302" y="72"/>
+      <point x="368" y="13"/>
+      <point x="471" y="-87" type="curve"/>
     </contour>
     <contour>
       <point x="400" y="680" type="move" name="top"/>
@@ -61,6 +61,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>C</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -496,7 +498,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Haabkhasian-cy</string>
+          <string>uni04A8</string>
           <key>unicodes</key>
           <array>
           </array>

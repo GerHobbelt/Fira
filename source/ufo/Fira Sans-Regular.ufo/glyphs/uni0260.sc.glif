@@ -3,24 +3,6 @@
   <advance width="569"/>
   <outline>
     <contour>
-      <point x="501" y="510" type="line"/>
-      <point x="501" y="572" type="line" smooth="yes"/>
-      <point x="501" y="625"/>
-      <point x="526" y="646"/>
-      <point x="565" y="646" type="curve" smooth="yes"/>
-      <point x="598" y="646"/>
-      <point x="616" y="637"/>
-      <point x="639" y="623" type="curve"/>
-      <point x="675" y="679" type="line"/>
-      <point x="650" y="698"/>
-      <point x="613" y="717"/>
-      <point x="560" y="717" type="curve" smooth="yes"/>
-      <point x="464" y="717"/>
-      <point x="413" y="661"/>
-      <point x="413" y="561" type="curve" smooth="yes"/>
-      <point x="413" y="550" type="line"/>
-    </contour>
-    <contour>
       <point x="178" y="574"/>
       <point x="55" y="471"/>
       <point x="55" y="283" type="curve" smooth="yes"/>
@@ -48,10 +30,30 @@
       <point x="414" y="487"/>
       <point x="458" y="466" type="curve"/>
       <point x="501" y="510" type="line"/>
-      <point x="441" y="538" type="line"/>
+      <point x="481" y="519"/>
+      <point x="461" y="529"/>
+      <point x="441" y="538" type="curve"/>
       <point x="410" y="560"/>
       <point x="372" y="574"/>
       <point x="316" y="574" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="464" y="717"/>
+      <point x="413" y="661"/>
+      <point x="413" y="561" type="curve" smooth="yes"/>
+      <point x="413" y="550" type="line"/>
+      <point x="501" y="510" type="line"/>
+      <point x="501" y="572" type="line" smooth="yes"/>
+      <point x="501" y="625"/>
+      <point x="526" y="646"/>
+      <point x="565" y="646" type="curve" smooth="yes"/>
+      <point x="598" y="646"/>
+      <point x="616" y="637"/>
+      <point x="639" y="623" type="curve"/>
+      <point x="675" y="679" type="line"/>
+      <point x="650" y="698"/>
+      <point x="613" y="717"/>
+      <point x="560" y="717" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="285" y="739" type="move" name="top"/>
@@ -64,6 +66,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:35:10 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>O</string>
       <key>com.typemytype.robofont.layerData</key>
@@ -356,7 +360,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>ghook.sc</string>
+          <string>uni0260.sc</string>
           <key>unicodes</key>
           <array>
           </array>

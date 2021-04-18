@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1F5D" format="1">
-  <advance width="747"/>
+  <advance width="682"/>
   <unicode hex="1F5D"/>
   <outline>
-    <component base="uni1FDE.case"/>
-    <component base="Upsilon" xOffset="247"/>
+    <component base="uni1FDE.case" xOffset="-35"/>
+    <component base="Upsilon" xOffset="182"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:34:17 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>Upsilontonos</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

@@ -14,8 +14,8 @@
       <point x="210" y="651"/>
       <point x="208" y="649"/>
       <point x="208" y="645" type="curve"/>
-      <point x="208" y="644"/>
-      <point x="208" y="645"/>
+      <point x="208" y="641"/>
+      <point x="209" y="635"/>
       <point x="210" y="624" type="curve" smooth="yes"/>
       <point x="215" y="568" type="line"/>
       <point x="217" y="568" type="line"/>
@@ -29,6 +29,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:34:49 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -185,7 +187,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>dasiaperispomeni</string>
+          <string>uni1FDF</string>
           <key>unicodes</key>
           <array>
           </array>
@@ -198,8 +200,8 @@
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>0</integer>
           <key>name</key>

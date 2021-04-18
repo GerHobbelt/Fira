@@ -11,18 +11,33 @@
       <point x="395" y="515" type="line"/>
       <point x="395" y="517" type="line"/>
     </contour>
-    <component base="uni0446" xOffset="79"/>
+    <contour>
+      <point x="519" y="2" type="line"/>
+      <point x="206" y="2" type="line"/>
+      <point x="206" y="517" type="line"/>
+      <point x="204" y="517" type="line"/>
+      <point x="204" y="0" type="line"/>
+      <point x="521" y="0" type="line"/>
+      <point x="521" y="517" type="line"/>
+      <point x="519" y="517" type="line"/>
+    </contour>
+    <component base="descStraightcy" xOffset="511"/>
     <contour>
       <point x="323" y="517" type="move" name="top"/>
     </contour>
     <contour>
       <point x="323" y="-188" type="move" name="bottom"/>
     </contour>
+    <contour>
+      <point x="531" y="0" type="move" name="bottomright"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:06:44 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>te-cy</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

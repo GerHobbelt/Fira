@@ -15,7 +15,7 @@
       <point x="83" y="846"/>
       <point x="54" y="836"/>
       <point x="30" y="822" type="curve"/>
-      <point x="52" y="769" type="line"/>
+      <point x="52" y="771" type="line"/>
       <point x="70" y="779"/>
       <point x="87" y="784"/>
       <point x="109" y="784" type="curve" smooth="yes"/>
@@ -34,13 +34,15 @@
       <point x="133" y="846" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="121" y="527" type="move" name="_top"/>
+      <point x="117" y="527" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:35:10 +0000</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

@@ -1,22 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0248" format="1">
-  <advance width="309"/>
+  <advance width="313"/>
   <unicode hex="0248"/>
   <outline>
-    <component base="J"/>
-    <component base="hyphen" xOffset="-35" yOffset="30"/>
+    <component base="J" xOffset="4"/>
+    <component base="hyphen" xOffset="-31" yOffset="30"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:23:37 +0000</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>0</integer>
           <key>name</key>

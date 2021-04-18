@@ -4,6 +4,12 @@
   <unicode hex="0193"/>
   <outline>
     <contour>
+      <point x="198" y="701"/>
+      <point x="55" y="577"/>
+      <point x="55" y="345" type="curve" smooth="yes"/>
+      <point x="55" y="107"/>
+      <point x="166" y="-12"/>
+      <point x="337" y="-12" type="curve" smooth="yes"/>
       <point x="434" y="-12"/>
       <point x="506" y="12"/>
       <point x="569" y="49" type="curve"/>
@@ -31,14 +37,12 @@
       <point x="446" y="690"/>
       <point x="404" y="701"/>
       <point x="342" y="701" type="curve" smooth="yes"/>
-      <point x="198" y="701"/>
-      <point x="55" y="577"/>
-      <point x="55" y="345" type="curve" smooth="yes"/>
-      <point x="55" y="107"/>
-      <point x="166" y="-12"/>
-      <point x="337" y="-12" type="curve" smooth="yes"/>
     </contour>
     <contour>
+      <point x="524" y="832"/>
+      <point x="469" y="776"/>
+      <point x="469" y="676" type="curve" smooth="yes"/>
+      <point x="469" y="665" type="line"/>
       <point x="561" y="625" type="line"/>
       <point x="561" y="684" type="line" smooth="yes"/>
       <point x="561" y="737"/>
@@ -51,10 +55,6 @@
       <point x="710" y="813"/>
       <point x="673" y="832"/>
       <point x="620" y="832" type="curve" smooth="yes"/>
-      <point x="524" y="832"/>
-      <point x="469" y="776"/>
-      <point x="469" y="676" type="curve" smooth="yes"/>
-      <point x="469" y="665" type="line"/>
     </contour>
     <contour>
       <point x="295" y="689" type="move" name="top"/>
@@ -67,6 +67,10 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:35:10 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>G</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>Chook</string>
       <key>com.typemytype.robofont.layerData</key>
@@ -359,7 +363,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Ghook</string>
+          <string>uni0193</string>
           <key>unicodes</key>
           <array>
           </array>

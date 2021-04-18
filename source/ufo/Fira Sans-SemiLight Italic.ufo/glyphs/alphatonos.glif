@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="alphatonos" format="1">
-  <advance width="593"/>
+  <advance width="594"/>
   <unicode hex="03AC"/>
   <outline>
     <component base="alpha"/>
-    <component base="tonos" xOffset="226"/>
+    <component base="tonos" xOffset="225"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:30:47 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -58,7 +60,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>593</integer>
+          <integer>594</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

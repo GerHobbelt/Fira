@@ -2,12 +2,27 @@
 <glyph name="product.tosf" format="1">
   <advance width="560"/>
   <outline>
-    <component base="product" xOffset="-14"/>
+    <contour>
+      <point x="483" y="660" type="line"/>
+      <point x="76" y="660" type="line"/>
+      <point x="76" y="658" type="line"/>
+      <point x="152" y="658" type="line"/>
+      <point x="152" y="-190" type="line"/>
+      <point x="154" y="-190" type="line"/>
+      <point x="154" y="658" type="line"/>
+      <point x="405" y="658" type="line"/>
+      <point x="405" y="-190" type="line"/>
+      <point x="407" y="-190" type="line"/>
+      <point x="407" y="658" type="line"/>
+      <point x="483" y="658" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:35:10 +0000</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

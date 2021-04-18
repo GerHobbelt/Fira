@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen.tosf" format="1">
+  <advance width="460"/>
+  <outline>
+    <contour>
+      <point x="365" y="669" type="line"/>
+      <point x="231" y="371" type="line"/>
+      <point x="96" y="669" type="line"/>
+      <point x="1" y="669" type="line"/>
+      <point x="185" y="303" type="line"/>
+      <point x="185" y="0" type="line"/>
+      <point x="274" y="0" type="line"/>
+      <point x="274" y="304" type="line"/>
+      <point x="458" y="669" type="line"/>
+    </contour>
+    <contour>
+      <point x="74" y="194" type="line"/>
+      <point x="74" y="135" type="line"/>
+      <point x="386" y="135" type="line"/>
+      <point x="386" y="194" type="line"/>
+    </contour>
+    <contour>
+      <point x="74" y="345" type="line"/>
+      <point x="74" y="285" type="line"/>
+      <point x="386" y="285" type="line"/>
+      <point x="386" y="345" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:35:10 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>yen</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>7</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>yen.tosf</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>460</integer>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

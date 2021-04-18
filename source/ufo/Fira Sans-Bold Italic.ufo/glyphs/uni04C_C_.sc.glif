@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04CC.sc" format="1">
-  <advance width="535"/>
+  <advance width="556"/>
   <outline>
     <contour>
       <point x="54" y="571" type="line"/>
@@ -27,12 +27,12 @@
       <point x="555" y="571" type="line"/>
     </contour>
     <contour>
-      <point x="304" y="-175" type="line"/>
+      <point x="305" y="-175" type="line"/>
       <point x="366" y="0" type="line"/>
       <point x="422" y="0" type="line"/>
       <point x="435" y="132" type="line"/>
       <point x="220" y="132" type="line"/>
-      <point x="176" y="-175" type="line"/>
+      <point x="177" y="-175" type="line"/>
     </contour>
     <contour>
       <point x="302" y="571" type="move" name="top"/>
@@ -51,6 +51,12 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Che-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>H</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -327,12 +333,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>chekhakassian-cy.sc</string>
+          <string>uni04CC.sc</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>535</integer>
+          <integer>556</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

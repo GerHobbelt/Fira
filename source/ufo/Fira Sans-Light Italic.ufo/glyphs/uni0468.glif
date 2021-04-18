@@ -25,6 +25,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:28:48 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>H</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -40,7 +42,7 @@
           <array>
             <dict>
               <key>baseGlyph</key>
-              <string>Yuslittle-cy</string>
+              <string>uni0466</string>
               <key>transformation</key>
               <array>
                 <integer>1</integer>
@@ -144,7 +146,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Yuslittleiotified-cy</string>
+          <string>uni0468</string>
           <key>unicodes</key>
           <array>
           </array>
@@ -157,8 +159,8 @@
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>0</integer>
           <key>name</key>

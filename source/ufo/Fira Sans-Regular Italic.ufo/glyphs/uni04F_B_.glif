@@ -4,34 +4,21 @@
   <unicode hex="04FB"/>
   <outline>
     <contour>
-      <point x="324" y="-216"/>
-      <point x="379" y="-161"/>
-      <point x="394" y="-57" type="curve" smooth="yes"/>
-      <point x="410" y="64" type="line"/>
-      <point x="326" y="28" type="line"/>
-      <point x="309" y="-71" type="line" smooth="yes"/>
-      <point x="300" y="-125"/>
-      <point x="264" y="-142"/>
-      <point x="224" y="-142" type="curve" smooth="yes"/>
-      <point x="189" y="-142"/>
-      <point x="177" y="-132"/>
-      <point x="153" y="-118" type="curve"/>
-      <point x="111" y="-175" type="line"/>
-      <point x="137" y="-194"/>
-      <point x="180" y="-216"/>
-      <point x="230" y="-216" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
+      <point x="282" y="-12"/>
+      <point x="342" y="24"/>
+      <point x="410" y="64" type="curve"/>
+      <point x="370" y="112" type="line"/>
+      <point x="320" y="85"/>
+      <point x="263" y="64"/>
+      <point x="205" y="64" type="curve" smooth="yes"/>
       <point x="144" y="64"/>
       <point x="114" y="95"/>
       <point x="114" y="133" type="curve" smooth="yes"/>
       <point x="114" y="168"/>
       <point x="120" y="199"/>
       <point x="222" y="231" type="curve"/>
-      <point x="367" y="184" type="line"/>
-      <point x="391" y="248" type="line"/>
-      <point x="314" y="271" type="line"/>
-      <point x="412" y="306"/>
+      <point x="313" y="271" type="line"/>
+      <point x="411" y="304"/>
       <point x="429" y="360"/>
       <point x="429" y="409" type="curve" smooth="yes"/>
       <point x="429" y="484"/>
@@ -50,22 +37,41 @@
       <point x="332" y="372"/>
       <point x="320" y="339"/>
       <point x="192" y="304" type="curve"/>
-      <point x="61" y="347" type="line"/>
-      <point x="37" y="283" type="line"/>
-      <point x="112" y="262" type="line"/>
-      <point x="37" y="228"/>
+      <point x="113" y="262" type="line"/>
+      <point x="38" y="230"/>
       <point x="15" y="186"/>
       <point x="15" y="133" type="curve" smooth="yes"/>
       <point x="15" y="41"/>
-      <point x="101" y="-12"/>
-      <point x="195" y="-12" type="curve" smooth="yes"/>
-      <point x="278" y="-12"/>
-      <point x="358" y="28"/>
-      <point x="410" y="64" type="curve"/>
-      <point x="364" y="119" type="line"/>
-      <point x="320" y="85"/>
-      <point x="263" y="64"/>
-      <point x="205" y="64" type="curve" smooth="yes"/>
+      <point x="100" y="-12"/>
+      <point x="200" y="-12" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="324" y="-216"/>
+      <point x="379" y="-161"/>
+      <point x="394" y="-57" type="curve" smooth="yes"/>
+      <point x="410" y="64" type="line"/>
+      <point x="326" y="28" type="line"/>
+      <point x="309" y="-71" type="line" smooth="yes"/>
+      <point x="300" y="-125"/>
+      <point x="264" y="-142"/>
+      <point x="224" y="-142" type="curve" smooth="yes"/>
+      <point x="189" y="-142"/>
+      <point x="177" y="-132"/>
+      <point x="153" y="-118" type="curve"/>
+      <point x="111" y="-175" type="line"/>
+      <point x="137" y="-194"/>
+      <point x="180" y="-216"/>
+      <point x="230" y="-216" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="391" y="248" type="line"/>
+      <point x="313" y="271" type="line"/>
+      <point x="192" y="304" type="line"/>
+      <point x="61" y="347" type="line"/>
+      <point x="37" y="283" type="line"/>
+      <point x="113" y="262" type="line"/>
+      <point x="222" y="231" type="line"/>
+      <point x="367" y="184" type="line"/>
     </contour>
     <contour>
       <point x="268" y="527" type="move" name="top"/>
@@ -75,6 +81,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>ghestroke-cy</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -493,7 +501,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>gestrokehook-cy</string>
+          <string>uni04FB</string>
           <key>unicodes</key>
           <array>
           </array>

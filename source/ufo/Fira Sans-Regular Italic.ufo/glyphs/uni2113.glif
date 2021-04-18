@@ -4,14 +4,14 @@
   <unicode hex="2113"/>
   <outline>
     <contour>
-      <point x="205" y="-12"/>
-      <point x="228" y="-7"/>
+      <point x="208" y="-12"/>
+      <point x="231" y="-7"/>
       <point x="255" y="5" type="curve"/>
-      <point x="236" y="72" type="line"/>
+      <point x="236" y="71" type="line"/>
       <point x="224" y="67"/>
-      <point x="212" y="64"/>
-      <point x="200" y="64" type="curve" smooth="yes"/>
-      <point x="178" y="64"/>
+      <point x="213" y="64"/>
+      <point x="201" y="64" type="curve" smooth="yes"/>
+      <point x="179" y="64"/>
       <point x="172" y="75"/>
       <point x="176" y="103" type="curve" smooth="yes"/>
       <point x="240" y="557" type="line" smooth="yes"/>
@@ -47,6 +47,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -739,7 +741,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>literSign</string>
+          <string>uni2113</string>
           <key>unicodes</key>
           <array>
           </array>

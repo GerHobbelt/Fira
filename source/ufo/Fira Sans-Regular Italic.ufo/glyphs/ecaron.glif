@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ecaron" format="1">
-  <advance width="522"/>
+  <advance width="517"/>
   <unicode hex="011B"/>
   <outline>
     <component base="e"/>
-    <component base="uni030C" xOffset="79"/>
+    <component base="uni030C" xOffset="78"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:23:36 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -34,7 +36,7 @@
             </dict>
             <dict>
               <key>baseGlyph</key>
-              <string>caroncomb</string>
+              <string>uni030C</string>
               <key>transformation</key>
               <array>
                 <integer>1</integer>
@@ -58,7 +60,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>522</integer>
+          <integer>517</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

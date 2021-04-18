@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guillemotright" format="1">
-  <advance width="560"/>
+  <advance width="569"/>
   <unicode hex="00BB"/>
   <outline>
     <component base="guilsinglright"/>
-    <component base="guilsinglright" xOffset="226"/>
+    <component base="guilsinglright" xOffset="235"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>==guilsinglright</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:31:32 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>guilsinglright</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -183,12 +183,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>guillemetright</string>
+          <string>guillemotright</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>560</integer>
+          <integer>569</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

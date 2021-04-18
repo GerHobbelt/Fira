@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tonos.case" format="1">
-  <advance width="102"/>
+  <advance width="160"/>
   <outline>
     <contour>
-      <point x="66" y="501" type="line"/>
-      <point x="132" y="490" type="line"/>
-      <point x="233" y="689" type="line"/>
-      <point x="132" y="707" type="line"/>
+      <point x="61" y="486" type="line"/>
+      <point x="127" y="486" type="line"/>
+      <point x="190" y="689" type="line"/>
+      <point x="93" y="697" type="line"/>
     </contour>
     <contour>
-      <point x="242" y="689" type="move" name="_topleft"/>
+      <point x="234" y="689" type="move" name="_topleft"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -37,9 +39,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>-70</integer>
+                  <integer>42</integer>
                   <key>y</key>
-                  <integer>506</integer>
+                  <integer>501</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -47,9 +49,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>-3</integer>
+                  <integer>111</integer>
                   <key>y</key>
-                  <integer>491</integer>
+                  <integer>490</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -57,7 +59,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>74</integer>
+                  <integer>184</integer>
                   <key>y</key>
                   <integer>689</integer>
                 </dict>
@@ -67,9 +69,54 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>-26</integer>
+                  <integer>79</integer>
                   <key>y</key>
                   <integer>707</integer>
+                </dict>
+              </array>
+            </dict>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>61</integer>
+                  <key>y</key>
+                  <integer>486</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>127</integer>
+                  <key>y</key>
+                  <integer>486</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>190</integer>
+                  <key>y</key>
+                  <integer>689</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>93</integer>
+                  <key>y</key>
+                  <integer>697</integer>
                 </dict>
               </array>
             </dict>
@@ -83,7 +130,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>102</integer>
+          <integer>160</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

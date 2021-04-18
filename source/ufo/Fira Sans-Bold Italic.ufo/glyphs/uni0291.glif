@@ -4,16 +4,16 @@
   <unicode hex="0291"/>
   <outline>
     <contour>
-      <point x="341" y="0" type="line"/>
-      <point x="430" y="146" type="line"/>
-      <point x="207" y="146" type="line"/>
-      <point x="464" y="407" type="line"/>
-      <point x="481" y="534" type="line"/>
       <point x="60" y="534" type="line"/>
       <point x="40" y="390" type="line"/>
       <point x="235" y="390" type="line"/>
       <point x="-16" y="138" type="line"/>
       <point x="-34" y="0" type="line"/>
+      <point x="351" y="0" type="line"/>
+      <point x="430" y="146" type="line"/>
+      <point x="207" y="146" type="line"/>
+      <point x="464" y="407" type="line"/>
+      <point x="481" y="534" type="line"/>
     </contour>
     <contour>
       <point x="317" y="-133" type="line"/>
@@ -30,8 +30,8 @@
       <point x="462" y="158"/>
       <point x="441" y="146"/>
       <point x="411" y="146" type="curve"/>
-      <point x="342" y="0" type="line"/>
-      <point x="487" y="-1"/>
+      <point x="351" y="0" type="line"/>
+      <point x="496" y="-1"/>
       <point x="587" y="57"/>
       <point x="587" y="184" type="curve" smooth="yes"/>
       <point x="587" y="256"/>
@@ -56,6 +56,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>z</string>
       <key>com.typemytype.robofont.layerData</key>
@@ -433,7 +435,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>zcurl</string>
+          <string>uni0291</string>
           <key>unicodes</key>
           <array>
           </array>

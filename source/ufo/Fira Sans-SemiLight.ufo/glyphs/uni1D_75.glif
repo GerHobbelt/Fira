@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1D75" format="1">
-  <advance width="323"/>
+  <advance width="331"/>
   <unicode hex="1D75"/>
   <outline>
-    <component base="t" xOffset="-2"/>
-    <component base="asciitilde" xOffset="-93" yOffset="-22"/>
+    <component base="t" xOffset="6"/>
+    <component base="asciitilde" xOffset="-85" yOffset="-22"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:16:52 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>lmiddletilde</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -19,16 +21,16 @@
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
           <string>t</string>
         </dict>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>1</integer>
           <key>name</key>

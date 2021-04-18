@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04B5" format="1">
-  <advance width="659"/>
+  <advance width="654"/>
   <unicode hex="04B5"/>
   <outline>
     <contour>
@@ -11,24 +11,50 @@
       <point x="404" y="492" type="line"/>
       <point x="408" y="520" type="line"/>
     </contour>
-    <component base="uni0446" xOffset="80"/>
+    <contour>
+      <point x="509" y="28" type="line"/>
+      <point x="225" y="28" type="line"/>
+      <point x="225" y="520" type="line"/>
+      <point x="195" y="520" type="line"/>
+      <point x="195" y="0" type="line"/>
+      <point x="539" y="0" type="line"/>
+      <point x="539" y="520" type="line"/>
+      <point x="509" y="520" type="line"/>
+    </contour>
+    <component base="descStraightcy" xOffset="505"/>
     <contour>
       <point x="330" y="520" type="move" name="top"/>
     </contour>
     <contour>
       <point x="330" y="-193" type="move" name="bottom"/>
     </contour>
+    <contour>
+      <point x="549" y="0" type="move" name="bottomright"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:06:44 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>te-cy</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>tse-cy</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>descStraightcy</string>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>

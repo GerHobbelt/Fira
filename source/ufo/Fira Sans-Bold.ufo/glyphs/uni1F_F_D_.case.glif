@@ -1,15 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FFD.case" format="1">
-  <advance width="257"/>
+  <advance width="287"/>
   <outline>
-    <component base="tonos.case"/>
+    <contour>
+      <point x="30" y="470" type="line"/>
+      <point x="156" y="449" type="line"/>
+      <point x="257" y="696" type="line"/>
+      <point x="68" y="735" type="line"/>
+    </contour>
+    <contour>
+      <point x="277" y="696" type="move" name="_topleft"/>
+    </contour>
+    <contour>
+      <point x="165" y="734" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:35:11 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>tonos.case</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>16</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni1FFD.case</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>287</integer>
+        </dict>
+      </dict>
       <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

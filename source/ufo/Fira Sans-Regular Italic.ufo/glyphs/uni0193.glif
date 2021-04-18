@@ -17,7 +17,7 @@
       <point x="356" y="382" type="line"/>
       <point x="356" y="305" type="line"/>
       <point x="476" y="305" type="line"/>
-      <point x="446" y="101" type="line"/>
+      <point x="446" y="100" type="line"/>
       <point x="404" y="76"/>
       <point x="359" y="66"/>
       <point x="315" y="66" type="curve" smooth="yes"/>
@@ -67,6 +67,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>O</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -361,7 +363,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Ghook</string>
+          <string>uni0193</string>
           <key>unicodes</key>
           <array>
           </array>

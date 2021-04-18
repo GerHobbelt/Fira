@@ -9,12 +9,12 @@
       <point x="116" y="411" type="line"/>
       <point x="154" y="433"/>
       <point x="187" y="446"/>
-      <point x="234" y="446" type="curve" smooth="yes"/>
+      <point x="232" y="446" type="curve" smooth="yes"/>
       <point x="286" y="446"/>
       <point x="320" y="419"/>
       <point x="320" y="341" type="curve" smooth="yes"/>
       <point x="320" y="244"/>
-      <point x="283" y="128"/>
+      <point x="277" y="128"/>
       <point x="181" y="128" type="curve" smooth="yes"/>
       <point x="145" y="128"/>
       <point x="114" y="141"/>
@@ -22,13 +22,13 @@
       <point x="-29" y="70" type="line"/>
       <point x="23" y="14"/>
       <point x="95" y="-18"/>
-      <point x="185" y="-18" type="curve" smooth="yes"/>
+      <point x="190" y="-18" type="curve" smooth="yes"/>
       <point x="388" y="-18"/>
-      <point x="523" y="139"/>
+      <point x="523" y="129"/>
       <point x="523" y="342" type="curve" smooth="yes"/>
       <point x="523" y="495"/>
       <point x="426" y="587"/>
-      <point x="267" y="587" type="curve" smooth="yes"/>
+      <point x="262" y="587" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="179" y="292" type="move" name="center"/>
@@ -44,6 +44,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>=|C</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -298,7 +300,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>sigmaLunateReversedSymbol.sc</string>
+          <string>uni037B.sc</string>
           <key>unicodes</key>
           <array>
           </array>

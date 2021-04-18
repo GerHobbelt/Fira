@@ -1,21 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04CA" format="1">
-  <advance width="578"/>
+  <advance width="579"/>
   <unicode hex="04CA"/>
   <outline>
     <component base="uni043D"/>
-    <component base="descTail-cy" xOffset="443"/>
+    <component base="descTailcy" xOffset="443"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:06:44 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>n</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>eltail-cy</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>uni043D</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>descTailcy</string>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>

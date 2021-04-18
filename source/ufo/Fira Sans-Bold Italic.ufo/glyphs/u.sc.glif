@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="u.sc" format="1">
-  <advance width="572"/>
+  <advance width="573"/>
   <outline>
     <contour>
       <point x="389" y="571" type="line"/>
@@ -23,7 +23,7 @@
       <point x="582" y="571" type="line"/>
     </contour>
     <contour>
-      <point x="372" y="0" type="move" name="ogonek"/>
+      <point x="375" y="0" type="move" name="ogonek"/>
     </contour>
     <contour>
       <point x="329" y="571" type="move" name="top"/>
@@ -39,6 +39,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>U</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -286,7 +288,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>572</integer>
+          <integer>573</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

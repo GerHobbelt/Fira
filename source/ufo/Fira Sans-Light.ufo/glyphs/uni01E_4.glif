@@ -35,7 +35,12 @@
       <point x="405" y="690"/>
       <point x="343" y="690" type="curve" smooth="yes"/>
     </contour>
-    <component base="hyphen" xOffset="281" yOffset="-90"/>
+    <contour>
+      <point x="596" y="221" type="line"/>
+      <point x="596" y="223" type="line"/>
+      <point x="366" y="223" type="line"/>
+      <point x="366" y="221" type="line"/>
+    </contour>
     <contour>
       <point x="306" y="680" type="move" name="top"/>
     </contour>
@@ -47,6 +52,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:35:10 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>G</string>
       <key>com.typemytype.robofont.layerData</key>
@@ -339,7 +346,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Gstroke</string>
+          <string>uni01E4</string>
           <key>unicodes</key>
           <array>
           </array>
@@ -349,17 +356,6 @@
       </dict>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>disableAlignment</key>
-          <true/>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>hyphen</string>
-        </dict>
-      </array>
     </dict>
   </lib>
 </glyph>

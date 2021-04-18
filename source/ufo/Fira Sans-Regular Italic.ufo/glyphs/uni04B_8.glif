@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04B8" format="1">
-  <advance width="606"/>
+  <advance width="607"/>
   <unicode hex="04B8"/>
   <outline>
     <contour>
@@ -9,12 +9,49 @@
       <point x="287" y="120" type="line"/>
       <point x="346" y="540" type="line"/>
     </contour>
-    <component base="uni0427"/>
+    <contour>
+      <point x="100" y="689" type="line"/>
+      <point x="63" y="427" type="line" smooth="yes"/>
+      <point x="45" y="300"/>
+      <point x="117" y="217"/>
+      <point x="237" y="217" type="curve" smooth="yes"/>
+      <point x="314" y="217"/>
+      <point x="365" y="238"/>
+      <point x="438" y="290" type="curve"/>
+      <point x="436" y="367" type="line"/>
+      <point x="397" y="331"/>
+      <point x="343" y="298"/>
+      <point x="265" y="298" type="curve" smooth="yes"/>
+      <point x="184" y="298"/>
+      <point x="144" y="336"/>
+      <point x="157" y="428" type="curve" smooth="yes"/>
+      <point x="194" y="689" type="line"/>
+    </contour>
+    <contour>
+      <point x="474" y="689" type="line"/>
+      <point x="377" y="0" type="line"/>
+      <point x="471" y="0" type="line"/>
+      <point x="568" y="689" type="line"/>
+    </contour>
+    <contour>
+      <point x="334" y="689" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="357" y="0" type="move" name="bottomleft"/>
+    </contour>
+    <contour>
+      <point x="481" y="0" type="move" name="bottomright"/>
+    </contour>
+    <contour>
+      <point x="267" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>Che-cy</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -337,12 +374,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Cheverticalstroke-cy</string>
+          <string>uni04B8</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>606</integer>
+          <integer>607</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

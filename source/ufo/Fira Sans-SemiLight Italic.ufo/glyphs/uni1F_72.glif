@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1F72" format="1">
-  <advance width="460"/>
+  <advance width="461"/>
   <unicode hex="1F72"/>
   <outline>
     <component base="epsilon"/>
-    <component base="gravecomb" xOffset="134"/>
+    <component base="uni1FEF" xOffset="143"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:30:58 +0000</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

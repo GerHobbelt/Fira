@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acutecomb" format="1">
-  <advance width="294"/>
+  <advance width="296"/>
   <unicode hex="0301"/>
   <outline>
     <contour>
-      <point x="89" y="687" type="line"/>
-      <point x="110" y="638" type="line"/>
-      <point x="330" y="724" type="line"/>
-      <point x="300" y="801" type="line"/>
+      <point x="90" y="687" type="line"/>
+      <point x="111" y="638" type="line"/>
+      <point x="331" y="724" type="line"/>
+      <point x="301" y="801" type="line"/>
     </contour>
     <contour>
-      <point x="212" y="801" type="move" name="top"/>
+      <point x="213" y="801" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="182" y="527" type="move" name="_top"/>
+      <point x="183" y="527" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -41,7 +43,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>55</integer>
+                  <integer>56</integer>
                   <key>y</key>
                   <integer>622</integer>
                 </dict>
@@ -51,7 +53,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>273</integer>
+                  <integer>274</integer>
                   <key>y</key>
                   <integer>713</integer>
                 </dict>
@@ -61,7 +63,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>232</integer>
+                  <integer>233</integer>
                   <key>y</key>
                   <integer>799</integer>
                 </dict>
@@ -71,7 +73,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>30</integer>
+                  <integer>31</integer>
                   <key>y</key>
                   <integer>675</integer>
                 </dict>
@@ -87,11 +89,11 @@
           <array>
           </array>
           <key>width</key>
-          <integer>294</integer>
+          <integer>296</integer>
         </dict>
       </dict>
       <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

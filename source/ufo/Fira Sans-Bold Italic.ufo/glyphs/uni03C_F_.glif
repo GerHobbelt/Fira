@@ -6,8 +6,8 @@
     <contour>
       <point x="455" y="0" type="line"/>
       <point x="657" y="0" type="line"/>
-      <point x="676" y="154" type="line"/>
-      <point x="476" y="154" type="line"/>
+      <point x="679" y="154" type="line"/>
+      <point x="479" y="154" type="line"/>
     </contour>
     <component base="Kappa"/>
     <component base="hookHELPER.case" xOffset="280"/>
@@ -16,6 +16,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:29:43 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>Kappa</string>
       <key>public.markColor</key>
@@ -23,8 +25,8 @@
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>0</integer>
           <key>name</key>

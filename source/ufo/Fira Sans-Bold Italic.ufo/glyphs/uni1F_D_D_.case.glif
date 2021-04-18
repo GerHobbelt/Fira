@@ -1,23 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FDD.case" format="1">
-  <advance width="455"/>
+  <advance width="443"/>
   <outline>
+    <component base="uni1FDD" xOffset="-21" yOffset="-145"/>
     <contour>
-      <point x="308" y="682" type="line"/>
-      <point x="370" y="429" type="line"/>
-      <point x="479" y="446" type="line"/>
-      <point x="472" y="707" type="line"/>
+      <point x="516" y="696" type="move" name="_topleft"/>
     </contour>
-    <component base="uni1FFE" xOffset="18" yOffset="-157"/>
+    <contour>
+      <point x="281" y="713" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:34:49 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>dasia.case</string>
+      <string>dasiavaria</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>psilivaria.case</string>
+      <string>dasiavaria</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -27,6 +29,19 @@
           </array>
           <key>components</key>
           <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>uni1FFE</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>18</integer>
+                <integer>-157</integer>
+              </array>
+            </dict>
           </array>
           <key>contours</key>
           <array>
@@ -39,9 +54,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>253</integer>
+                  <integer>308</integer>
                   <key>y</key>
-                  <integer>787</integer>
+                  <integer>682</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -49,9 +64,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>388</integer>
+                  <integer>370</integer>
                   <key>y</key>
-                  <integer>573</integer>
+                  <integer>429</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -59,9 +74,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>468</integer>
+                  <integer>479</integer>
                   <key>y</key>
-                  <integer>612</integer>
+                  <integer>446</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -69,9 +84,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>379</integer>
+                  <integer>472</integer>
                   <key>y</key>
-                  <integer>852</integer>
+                  <integer>707</integer>
                 </dict>
               </array>
             </dict>
@@ -80,16 +95,16 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>dasiavaria.case</string>
+          <string>uni1FDD.case</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>455</integer>
+          <integer>443</integer>
         </dict>
       </dict>
       <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
+      <string>0.18,0.16,0.78,1</string>
     </dict>
   </lib>
 </glyph>

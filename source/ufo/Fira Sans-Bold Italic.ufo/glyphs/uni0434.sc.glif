@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0434.sc" format="1">
-  <advance width="549"/>
+  <advance width="550"/>
   <outline>
     <contour>
       <point x="150" y="571" type="line"/>
@@ -24,8 +24,8 @@
       <point x="472" y="141" type="line"/>
       <point x="-17" y="142" type="line"/>
     </contour>
-    <component base="descStraightleft-cy" xOffset="-69"/>
-    <component base="descStraight-cy" xOffset="319"/>
+    <component base="descStraightleftcy" xOffset="-69"/>
+    <component base="descStraightcy" xOffset="319"/>
     <contour>
       <point x="317" y="571" type="move" name="top"/>
     </contour>
@@ -34,10 +34,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>==De-cy</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>==De-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:23:21 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>De-cy</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

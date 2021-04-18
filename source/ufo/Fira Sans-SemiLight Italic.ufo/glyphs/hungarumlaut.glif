@@ -3,23 +3,14 @@
   <advance width="268"/>
   <unicode hex="02DD"/>
   <outline>
-    <contour>
-      <point x="190" y="660" type="line"/>
-      <point x="211" y="649" type="line"/>
-      <point x="311" y="778" type="line"/>
-      <point x="282" y="794" type="line"/>
-    </contour>
-    <contour>
-      <point x="87" y="664" type="line"/>
-      <point x="107" y="653" type="line"/>
-      <point x="200" y="777" type="line"/>
-      <point x="171" y="793" type="line"/>
-    </contour>
+    <component base="uni030B"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:31:50 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -136,7 +127,7 @@
         </dict>
       </dict>
       <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <string>0.18,0.16,0.78,1</string>
     </dict>
   </lib>
 </glyph>

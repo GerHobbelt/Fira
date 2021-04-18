@@ -1,22 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tonos" format="1">
-  <advance width="302"/>
+  <advance width="247"/>
   <unicode hex="0384"/>
   <outline>
     <contour>
-      <point x="40" y="603" type="line"/>
-      <point x="166" y="582" type="line"/>
-      <point x="267" y="829" type="line"/>
-      <point x="78" y="868" type="line"/>
+      <point x="43" y="596" type="line"/>
+      <point x="165" y="596" type="line"/>
+      <point x="217" y="839" type="line"/>
+      <point x="30" y="853" type="line"/>
     </contour>
     <contour>
-      <point x="101" y="534" type="move" name="_top"/>
+      <point x="104" y="534" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:35:11 +0000</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

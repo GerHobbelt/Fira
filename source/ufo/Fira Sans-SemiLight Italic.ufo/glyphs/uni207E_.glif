@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni207E" format="1">
-  <advance width="402"/>
+  <advance width="400"/>
   <unicode hex="207E"/>
   <outline>
     <component base="parenright.dnom" xOffset="39" yOffset="277"/>
@@ -9,10 +9,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>==parenright.dnom</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>==parenright.dnom</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:31:31 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>parenright.dnom</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -47,12 +45,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>parenrightsuperior</string>
+          <string>uni207E</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>402</integer>
+          <integer>400</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

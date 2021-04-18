@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dcroat" format="1">
-  <advance width="572"/>
+  <advance width="567"/>
   <unicode hex="0111"/>
   <outline>
     <contour>
-      <point x="317" y="640" type="line"/>
-      <point x="317" y="638" type="line"/>
-      <point x="499" y="638" type="line"/>
-      <point x="574" y="638" type="line"/>
-      <point x="574" y="640" type="line"/>
+      <point x="312" y="640" type="line"/>
+      <point x="312" y="638" type="line"/>
+      <point x="494" y="638" type="line"/>
+      <point x="569" y="638" type="line"/>
+      <point x="569" y="640" type="line"/>
     </contour>
     <component base="d"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>==|hbar</string>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:32:39 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>d</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>=|hbar</string>
       <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <string>0.67,0.95,0.38,1</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>0</integer>
           <key>name</key>

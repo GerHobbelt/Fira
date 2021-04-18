@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0500" format="1">
-  <advance width="596"/>
+  <advance width="597"/>
   <unicode hex="0500"/>
   <outline>
     <contour>
@@ -36,6 +36,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>=|Softsign-cy</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -298,12 +300,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Komide-cy</string>
+          <string>uni0500</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>596</integer>
+          <integer>597</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

@@ -4,12 +4,14 @@
   <unicode hex="0457"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="uni0308" xOffset="-106"/>
+    <component base="uni0308" xOffset="-108"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:23:21 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -21,7 +23,7 @@
           <array>
             <dict>
               <key>baseGlyph</key>
-              <string>dieresiscomb</string>
+              <string>uni0308</string>
               <key>transformation</key>
               <array>
                 <integer>1</integer>
@@ -53,7 +55,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>yi-cy</string>
+          <string>uni0457</string>
           <key>unicodes</key>
           <array>
           </array>

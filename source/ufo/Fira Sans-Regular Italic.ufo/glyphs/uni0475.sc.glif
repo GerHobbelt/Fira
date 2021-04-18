@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0475.sc" format="1">
-  <advance width="493"/>
+  <advance width="503"/>
   <outline>
     <contour>
       <point x="255" y="0" type="line"/>
@@ -27,13 +27,15 @@
       <point x="280" y="564" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="209" y="0" type="move" name="bottom"/>
+      <point x="205" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>Izhitsa-cy</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -130,12 +132,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>izhitsa-cy.sc</string>
+          <string>uni0475.sc</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>493</integer>
+          <integer>503</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

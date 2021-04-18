@@ -10,7 +10,17 @@
       <point x="758" y="534" type="line"/>
     </contour>
     <contour>
-      <point x="249" y="371" type="line"/>
+      <point x="217" y="251" type="line"/>
+      <point x="248" y="251" type="line" smooth="yes"/>
+      <point x="285" y="251"/>
+      <point x="298" y="232"/>
+      <point x="298" y="197" type="curve" smooth="yes"/>
+      <point x="298" y="161"/>
+      <point x="285" y="103"/>
+      <point x="237" y="103" type="curve" smooth="yes"/>
+      <point x="229" y="103"/>
+      <point x="223" y="104"/>
+      <point x="214" y="107" type="curve"/>
       <point x="272" y="534" type="line"/>
       <point x="78" y="534" type="line"/>
       <point x="7" y="18" type="line"/>
@@ -23,19 +33,7 @@
       <point x="491" y="317"/>
       <point x="417" y="371"/>
       <point x="266" y="371" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="229" y="103"/>
-      <point x="223" y="104"/>
-      <point x="214" y="107" type="curve"/>
-      <point x="233" y="251" type="line"/>
-      <point x="248" y="251" type="line" smooth="yes"/>
-      <point x="285" y="251"/>
-      <point x="298" y="232"/>
-      <point x="298" y="197" type="curve" smooth="yes"/>
-      <point x="298" y="161"/>
-      <point x="285" y="103"/>
-      <point x="237" y="103" type="curve" smooth="yes"/>
+      <point x="233" y="371" type="line"/>
     </contour>
     <contour>
       <point x="418" y="534" type="move" name="top"/>
@@ -48,8 +46,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>==|n</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>n</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -305,7 +303,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>yeru-cy</string>
+          <string>uni044B</string>
           <key>unicodes</key>
           <array>
           </array>

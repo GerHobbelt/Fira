@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0188.sc" format="1">
-  <advance width="485"/>
+  <advance width="484"/>
   <outline>
     <contour>
       <point x="337" y="-8"/>
@@ -34,7 +34,6 @@
       <point x="272" y="-8" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="499" y="585" type="line" smooth="yes"/>
       <point x="508" y="654"/>
       <point x="546" y="677"/>
       <point x="587" y="677" type="curve" smooth="yes"/>
@@ -50,6 +49,7 @@
       <point x="469" y="588" type="curve" smooth="yes"/>
       <point x="460" y="524" type="line"/>
       <point x="490" y="518" type="line"/>
+      <point x="499" y="585" type="line" smooth="yes"/>
     </contour>
     <contour>
       <point x="309" y="734" type="move" name="top"/>
@@ -62,6 +62,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>C</string>
       <key>com.typemytype.robofont.layerData</key>
@@ -473,12 +475,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>chook.sc</string>
+          <string>uni0188.sc</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>485</integer>
+          <integer>484</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pi.sc" format="1">
-  <advance width="586"/>
+  <advance width="587"/>
   <outline>
     <component base="uni043F.sc"/>
   </outline>
@@ -8,6 +8,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:30:58 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -19,7 +21,7 @@
           <array>
             <dict>
               <key>baseGlyph</key>
-              <string>pe-cy.sc</string>
+              <string>uni043F.sc</string>
               <key>transformation</key>
               <array>
                 <integer>1</integer>
@@ -43,7 +45,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>586</integer>
+          <integer>587</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

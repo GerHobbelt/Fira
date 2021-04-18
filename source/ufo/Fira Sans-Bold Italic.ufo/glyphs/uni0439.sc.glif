@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0439.sc" format="1">
-  <advance width="578"/>
+  <advance width="579"/>
   <outline>
     <component base="uni0438.sc"/>
-    <component base="breve-cy.sc" xOffset="83"/>
+    <component base="brevecy.sc" xOffset="69"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:29:34 +0000</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

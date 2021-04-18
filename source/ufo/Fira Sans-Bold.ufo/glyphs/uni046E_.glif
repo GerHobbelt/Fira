@@ -3,13 +3,15 @@
   <advance width="540"/>
   <unicode hex="046E"/>
   <outline>
-    <component base="Ksi-cyHELPER"/>
+    <component base="KsicyHELPER"/>
     <component base="uni030C.case" xOffset="18"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:11:08 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>Ksi-cyHELPER</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -317,7 +319,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Ksi-cy</string>
+          <string>uni046E</string>
           <key>unicodes</key>
           <array>
           </array>

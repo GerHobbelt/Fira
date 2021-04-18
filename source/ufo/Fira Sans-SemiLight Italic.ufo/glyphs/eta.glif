@@ -4,8 +4,13 @@
   <unicode hex="03B7"/>
   <outline>
     <contour>
+      <point x="408" y="-195" type="line"/>
+      <point x="489" y="369" type="line" smooth="yes"/>
+      <point x="504" y="471"/>
+      <point x="462" y="530"/>
+      <point x="373" y="530" type="curve" smooth="yes"/>
       <point x="296" y="530"/>
-      <point x="218" y="477"/>
+      <point x="218" y="476"/>
       <point x="161" y="367" type="curve"/>
       <point x="171" y="452"/>
       <point x="168" y="481"/>
@@ -23,15 +28,10 @@
       <point x="441" y="503"/>
       <point x="472" y="460"/>
       <point x="459" y="367" type="curve" smooth="yes"/>
-      <point x="379" y="-199" type="line"/>
-      <point x="408" y="-195" type="line"/>
-      <point x="489" y="369" type="line" smooth="yes"/>
-      <point x="504" y="471"/>
-      <point x="464" y="530"/>
-      <point x="373" y="530" type="curve" smooth="yes"/>
+      <point x="378" y="-199" type="line"/>
     </contour>
     <contour>
-      <point x="315" y="520" type="move" name="top"/>
+      <point x="335" y="520" type="move" name="top"/>
     </contour>
     <contour>
       <point x="93" y="0" type="move" name="bottom"/>
@@ -41,8 +41,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>==n</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>n</string>
       <key>com.typemytype.robofont.layerData</key>

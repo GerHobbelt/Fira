@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0449" format="1">
-  <advance width="848"/>
+  <advance width="849"/>
   <unicode hex="0449"/>
   <outline>
-    <component base="descStraight-cy" xOffset="694"/>
     <component base="uni0448"/>
+    <component base="descStraightcy" xOffset="700"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:23:30 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>u</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -566,12 +568,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>shcha-cy</string>
+          <string>uni0449</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>848</integer>
+          <integer>849</integer>
         </dict>
       </dict>
       <key>public.markColor</key>
@@ -579,10 +581,10 @@
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
-          <integer>1</integer>
+          <integer>0</integer>
           <key>name</key>
           <string>uni0448</string>
         </dict>

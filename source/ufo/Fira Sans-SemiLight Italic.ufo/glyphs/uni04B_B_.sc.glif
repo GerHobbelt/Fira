@@ -32,11 +32,16 @@
     <contour>
       <point x="230" y="0" type="move" name="bottom"/>
     </contour>
+    <contour>
+      <point x="449" y="0" type="move" name="bottomright"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>Shha-cy</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -299,7 +304,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>shha-cy.sc</string>
+          <string>uni04BB.sc</string>
           <key>unicodes</key>
           <array>
           </array>

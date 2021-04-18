@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni025E" format="1">
-  <advance width="557"/>
+  <advance width="556"/>
   <unicode hex="025E"/>
   <outline>
     <contour>
@@ -11,12 +11,12 @@
       <point x="446" y="269"/>
       <point x="373" y="281" type="curve"/>
       <point x="455" y="299"/>
-      <point x="495" y="346"/>
-      <point x="495" y="406" type="curve" smooth="yes"/>
-      <point x="495" y="490"/>
-      <point x="418" y="539"/>
-      <point x="327" y="539" type="curve" smooth="yes"/>
-      <point x="155" y="539"/>
+      <point x="495" y="344"/>
+      <point x="495" y="404" type="curve" smooth="yes"/>
+      <point x="495" y="488"/>
+      <point x="417" y="539"/>
+      <point x="326" y="539" type="curve" smooth="yes"/>
+      <point x="154" y="539"/>
       <point x="52" y="388"/>
       <point x="52" y="202" type="curve" smooth="yes"/>
       <point x="52" y="71"/>
@@ -57,6 +57,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>o</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -430,12 +432,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>eopenreversedclosed</string>
+          <string>uni025E</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>557</integer>
+          <integer>556</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

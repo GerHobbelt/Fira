@@ -24,8 +24,8 @@
       <point x="365" y="2" type="line"/>
       <point x="8" y="2" type="line"/>
     </contour>
-    <component base="descStraightleft-cy" xOffset="-57"/>
-    <component base="descStraight-cy" xOffset="385"/>
+    <component base="descStraightleftcy" xOffset="-57"/>
+    <component base="descStraightcy" xOffset="385"/>
     <contour>
       <point x="309" y="557" type="move" name="top"/>
     </contour>
@@ -34,10 +34,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>==De-cy</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>==De-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:23:21 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>De-cy</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

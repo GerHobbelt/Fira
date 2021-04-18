@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0332" format="1">
-  <advance width="381"/>
+  <advance width="382"/>
   <unicode hex="0332"/>
   <outline>
     <contour>
-      <point x="298" y="-118" type="line"/>
-      <point x="-23" y="-118" type="line"/>
-      <point x="-28" y="-147" type="line"/>
-      <point x="294" y="-147" type="line"/>
+      <point x="299" y="-118" type="line"/>
+      <point x="-22" y="-118" type="line"/>
+      <point x="-27" y="-147" type="line"/>
+      <point x="295" y="-147" type="line"/>
     </contour>
     <contour>
-      <point x="154" y="0" type="move" name="_bottom"/>
+      <point x="155" y="0" type="move" name="_bottom"/>
     </contour>
     <contour>
-      <point x="137" y="-147" type="move" name="bottom"/>
+      <point x="138" y="-147" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -41,7 +43,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>301</integer>
+                  <integer>302</integer>
                   <key>y</key>
                   <integer>-118</integer>
                 </dict>
@@ -51,7 +53,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>-20</integer>
+                  <integer>-19</integer>
                   <key>y</key>
                   <integer>-118</integer>
                 </dict>
@@ -61,7 +63,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>-28</integer>
+                  <integer>-27</integer>
                   <key>y</key>
                   <integer>-147</integer>
                 </dict>
@@ -71,7 +73,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>294</integer>
+                  <integer>295</integer>
                   <key>y</key>
                   <integer>-147</integer>
                 </dict>
@@ -82,12 +84,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>lowlinecomb</string>
+          <string>uni0332</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>381</integer>
+          <integer>382</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

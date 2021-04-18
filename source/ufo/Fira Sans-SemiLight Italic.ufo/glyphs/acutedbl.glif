@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acutedbl" format="1">
-  <advance width="196"/>
+  <advance width="185"/>
   <outline>
     <contour>
-      <point x="86" y="661" type="line"/>
+      <point x="87" y="662" type="line"/>
       <point x="102" y="646" type="line"/>
-      <point x="224" y="761" type="line"/>
+      <point x="225" y="758" type="line"/>
       <point x="203" y="783" type="line"/>
     </contour>
     <contour>
@@ -21,6 +21,8 @@
       <integer>10</integer>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -88,7 +90,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>196</integer>
+          <integer>185</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

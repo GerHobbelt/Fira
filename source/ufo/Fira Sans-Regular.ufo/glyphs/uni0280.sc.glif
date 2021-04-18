@@ -3,6 +3,18 @@
   <advance width="553"/>
   <outline>
     <contour>
+      <point x="528" y="-97" type="line"/>
+      <point x="365" y="163" type="line"/>
+      <point x="274" y="149" type="line"/>
+      <point x="425" y="-97" type="line"/>
+    </contour>
+    <contour>
+      <point x="192" y="0" type="line"/>
+      <point x="192" y="565" type="line"/>
+      <point x="100" y="565" type="line"/>
+      <point x="100" y="0" type="line"/>
+    </contour>
+    <contour>
       <point x="302" y="137" type="line"/>
       <point x="431" y="164"/>
       <point x="492" y="211"/>
@@ -23,18 +35,6 @@
       <point x="179" y="137" type="line"/>
     </contour>
     <contour>
-      <point x="192" y="0" type="line"/>
-      <point x="192" y="565" type="line"/>
-      <point x="100" y="565" type="line"/>
-      <point x="100" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="528" y="-97" type="line"/>
-      <point x="365" y="163" type="line"/>
-      <point x="274" y="149" type="line"/>
-      <point x="425" y="-97" type="line"/>
-    </contour>
-    <contour>
       <point x="277" y="564" type="move" name="top"/>
     </contour>
     <contour>
@@ -45,10 +45,12 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:35:10 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>H</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>yr</string>
+      <string>Yr</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -325,7 +327,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Rsmall.sc</string>
+          <string>uni0280.sc</string>
           <key>unicodes</key>
           <array>
           </array>

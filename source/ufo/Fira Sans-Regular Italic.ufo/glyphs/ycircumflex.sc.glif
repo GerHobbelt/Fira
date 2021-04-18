@@ -3,12 +3,14 @@
   <advance width="482"/>
   <outline>
     <component base="y.sc"/>
-    <component base="uni0302.sc" xOffset="53"/>
+    <component base="uni0302.sc" xOffset="44"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:28:40 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -33,7 +35,7 @@
             </dict>
             <dict>
               <key>baseGlyph</key>
-              <string>circumflexcomb.sc</string>
+              <string>uni0302.sc</string>
               <key>transformation</key>
               <array>
                 <integer>1</integer>

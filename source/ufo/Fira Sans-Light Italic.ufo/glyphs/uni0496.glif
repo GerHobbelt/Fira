@@ -4,23 +4,25 @@
   <unicode hex="0496"/>
   <outline>
     <component base="uni0416"/>
-    <component base="descStraight-cy.case" xOffset="695"/>
+    <component base="descStraightcy.case" xOffset="695"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:28:49 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>Zhe-cy</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>=Kadescender-cy</string>
+      <string>Kadescender-cy</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>0</integer>
           <key>name</key>

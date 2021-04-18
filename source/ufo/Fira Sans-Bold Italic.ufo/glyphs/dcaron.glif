@@ -3,19 +3,17 @@
   <advance width="705"/>
   <unicode hex="010F"/>
   <outline>
-    <component base="d" xOffset="-5"/>
+    <component base="d"/>
     <component base="caron.alt" xOffset="509" yOffset="48"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>==o</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>==caron.alt</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:23:36 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>o</string>
+      <string>d</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>caron.alt</string>
       <key>com.typemytype.robofont.layerData</key>
@@ -42,7 +40,7 @@
             </dict>
             <dict>
               <key>baseGlyph</key>
-              <string>commaabovecomb</string>
+              <string>uni0313</string>
               <key>transformation</key>
               <array>
                 <integer>1</integer>
@@ -74,8 +72,8 @@
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>0</integer>
           <key>name</key>

@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seveneighths" format="1">
-  <advance width="946"/>
+  <advance width="879"/>
   <unicode hex="215E"/>
   <outline>
-    <component base="seven.numr" xOffset="37"/>
-    <component base="fraction" xOffset="367"/>
-    <component base="eight.dnom" xOffset="558"/>
+    <component base="seven.numr"/>
+    <component base="fraction" xOffset="300"/>
+    <component base="eight.dnom" xOffset="491"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>==seven.dnom</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>==eight.dnom</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:31:29 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>seven.dnom</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -37,7 +35,7 @@
                 <integer>0</integer>
                 <integer>0</integer>
                 <integer>1</integer>
-                <integer>480</integer>
+                <integer>-37</integer>
                 <integer>0</integer>
               </array>
             </dict>
@@ -50,7 +48,7 @@
                 <integer>0</integer>
                 <integer>0</integer>
                 <integer>1</integer>
-                <integer>670</integer>
+                <integer>142</integer>
                 <integer>0</integer>
               </array>
             </dict>
@@ -63,8 +61,8 @@
                 <integer>0</integer>
                 <integer>0</integer>
                 <integer>1</integer>
-                <integer>160</integer>
-                <integer>277</integer>
+                <integer>530</integer>
+                <integer>0</integer>
               </array>
             </dict>
           </array>
@@ -80,7 +78,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>946</integer>
+          <integer>879</integer>
         </dict>
       </dict>
       <key>public.markColor</key>
@@ -88,8 +86,8 @@
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>0</integer>
           <key>name</key>

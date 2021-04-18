@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eth" format="1">
-  <advance width="605"/>
+  <advance width="615"/>
   <unicode hex="00D0"/>
   <outline>
     <contour>
-      <point x="137" y="354" type="line"/>
-      <point x="43" y="354" type="line"/>
-      <point x="43" y="352" type="line"/>
-      <point x="335" y="352" type="line"/>
-      <point x="335" y="354" type="line"/>
+      <point x="147" y="354" type="line"/>
+      <point x="53" y="354" type="line"/>
+      <point x="53" y="352" type="line"/>
+      <point x="345" y="352" type="line"/>
+      <point x="345" y="354" type="line"/>
     </contour>
-    <component base="D" xOffset="-8"/>
+    <component base="D" xOffset="2"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>==D</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:23:37 +0000</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>D</string>
       <key>public.markColor</key>

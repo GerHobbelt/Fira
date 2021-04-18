@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0316" format="1">
-  <advance width="364"/>
+  <advance width="347"/>
   <unicode hex="0316"/>
   <outline>
-    <component base="gravecomb.case" xOffset="-141" yOffset="-1020"/>
+    <component base="gravecomb.case" xOffset="-143" yOffset="-1020"/>
     <contour>
-      <point x="141" y="0" type="move" name="_bottom"/>
+      <point x="139" y="0" type="move" name="_bottom"/>
     </contour>
     <contour>
-      <point x="121" y="-277" type="move" name="bottom"/>
+      <point x="119" y="-277" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:31:50 +0000</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

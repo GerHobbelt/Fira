@@ -1,30 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0464" format="1">
-  <advance width="870"/>
+  <advance width="869"/>
   <unicode hex="0464"/>
   <outline>
     <contour>
-      <point x="104" y="696" type="line"/>
-      <point x="7" y="0" type="line"/>
-      <point x="209" y="0" type="line"/>
-      <point x="248" y="281" type="line"/>
-      <point x="374" y="281" type="line"/>
-      <point x="396" y="429" type="line"/>
-      <point x="270" y="429" type="line"/>
-      <point x="306" y="696" type="line"/>
+      <point x="103" y="696" type="line"/>
+      <point x="6" y="0" type="line"/>
+      <point x="208" y="0" type="line"/>
+      <point x="247" y="281" type="line"/>
+      <point x="413" y="281" type="line"/>
+      <point x="435" y="429" type="line"/>
+      <point x="268" y="429" type="line"/>
+      <point x="305" y="696" type="line"/>
     </contour>
-    <component base="uni0404" xOffset="304"/>
+    <component base="uni0404" xOffset="303"/>
     <contour>
-      <point x="495" y="696" type="move" name="top"/>
+      <point x="494" y="696" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="397" y="0" type="move" name="bottom"/>
+      <point x="396" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:28:48 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>H</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -50,7 +52,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>57</integer>
+                  <integer>56</integer>
                   <key>y</key>
                   <integer>696</integer>
                 </dict>
@@ -60,7 +62,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>57</integer>
+                  <integer>56</integer>
                   <key>y</key>
                   <integer>0</integer>
                 </dict>
@@ -70,7 +72,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>263</integer>
+                  <integer>262</integer>
                   <key>y</key>
                   <integer>0</integer>
                 </dict>
@@ -80,7 +82,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>263</integer>
+                  <integer>262</integer>
                   <key>y</key>
                   <integer>280</integer>
                 </dict>
@@ -90,7 +92,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>392</integer>
+                  <integer>391</integer>
                   <key>y</key>
                   <integer>280</integer>
                 </dict>
@@ -100,7 +102,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>392</integer>
+                  <integer>391</integer>
                   <key>y</key>
                   <integer>428</integer>
                 </dict>
@@ -110,7 +112,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>263</integer>
+                  <integer>262</integer>
                   <key>y</key>
                   <integer>428</integer>
                 </dict>
@@ -120,7 +122,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>263</integer>
+                  <integer>262</integer>
                   <key>y</key>
                   <integer>696</integer>
                 </dict>
@@ -131,12 +133,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Eiotified-cy</string>
+          <string>uni0464</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>870</integer>
+          <integer>869</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

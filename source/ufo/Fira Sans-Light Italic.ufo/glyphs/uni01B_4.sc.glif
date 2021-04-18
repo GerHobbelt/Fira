@@ -3,6 +3,9 @@
   <advance width="425"/>
   <outline>
     <contour>
+      <point x="177" y="0" type="line"/>
+      <point x="208" y="222" type="line"/>
+      <point x="387" y="510" type="line" smooth="yes"/>
       <point x="412" y="549"/>
       <point x="432" y="564"/>
       <point x="462" y="564" type="curve" smooth="yes"/>
@@ -21,9 +24,6 @@
       <point x="67" y="557" type="line"/>
       <point x="206" y="222" type="line"/>
       <point x="175" y="0" type="line"/>
-      <point x="177" y="0" type="line"/>
-      <point x="208" y="222" type="line"/>
-      <point x="387" y="510" type="line" smooth="yes"/>
     </contour>
     <contour>
       <point x="239" y="557" type="move" name="top"/>
@@ -36,6 +36,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>Y</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -152,7 +154,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>yhook.sc</string>
+          <string>uni01B4.sc</string>
           <key>unicodes</key>
           <array>
           </array>

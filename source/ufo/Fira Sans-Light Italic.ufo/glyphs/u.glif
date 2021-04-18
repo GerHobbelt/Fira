@@ -4,6 +4,12 @@
   <unicode hex="0075"/>
   <outline>
     <contour>
+      <point x="309" y="-9"/>
+      <point x="385" y="52"/>
+      <point x="435" y="167" type="curve"/>
+      <point x="411" y="0" type="line"/>
+      <point x="413" y="0" type="line"/>
+      <point x="485" y="517" type="line"/>
       <point x="483" y="517" type="line"/>
       <point x="435" y="171" type="line"/>
       <point x="385" y="55"/>
@@ -18,12 +24,6 @@
       <point x="90" y="46"/>
       <point x="136" y="-9"/>
       <point x="223" y="-9" type="curve" smooth="yes"/>
-      <point x="309" y="-9"/>
-      <point x="385" y="52"/>
-      <point x="435" y="167" type="curve"/>
-      <point x="411" y="0" type="line"/>
-      <point x="413" y="0" type="line"/>
-      <point x="485" y="517" type="line"/>
     </contour>
     <contour>
       <point x="423" y="0" type="move" name="ogonek"/>
@@ -32,10 +32,10 @@
       <point x="320" y="517" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="495" y="517" type="move" name="topright"/>
+      <point x="496" y="517" type="move" name="topright"/>
     </contour>
     <contour>
-      <point x="422" y="0" type="move" name="bottomright"/>
+      <point x="423" y="0" type="move" name="bottomright"/>
     </contour>
     <contour>
       <point x="250" y="0" type="move" name="bottom"/>
@@ -45,10 +45,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>==|n</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>==|n</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:54:40 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>=|n</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

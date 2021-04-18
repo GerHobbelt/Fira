@@ -1,20 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni051E" format="1">
-  <advance width="601"/>
+  <advance width="599"/>
   <unicode hex="051E"/>
   <outline>
     <contour>
-      <point x="596" y="436" type="line"/>
-      <point x="632" y="498" type="line"/>
-      <point x="339" y="648" type="line"/>
-      <point x="303" y="584" type="line"/>
+      <point x="594" y="436" type="line"/>
+      <point x="630" y="498" type="line"/>
+      <point x="337" y="648" type="line"/>
+      <point x="301" y="584" type="line"/>
     </contour>
-    <component base="uni041A" xOffset="2"/>
+    <component base="uni041A"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:23:30 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

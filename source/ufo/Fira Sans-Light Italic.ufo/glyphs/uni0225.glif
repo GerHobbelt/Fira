@@ -4,16 +4,16 @@
   <unicode hex="0225"/>
   <outline>
     <contour>
-      <point x="102" y="517" type="line"/>
-      <point x="102" y="515" type="line"/>
-      <point x="403" y="515" type="line"/>
-      <point x="-1" y="2" type="line"/>
-      <point x="-1" y="0" type="line"/>
       <point x="323" y="0" type="line"/>
       <point x="323" y="2" type="line"/>
       <point x="2" y="2" type="line"/>
       <point x="406" y="515" type="line"/>
       <point x="406" y="517" type="line"/>
+      <point x="102" y="517" type="line"/>
+      <point x="102" y="515" type="line"/>
+      <point x="403" y="515" type="line"/>
+      <point x="-1" y="2" type="line"/>
+      <point x="-1" y="0" type="line"/>
     </contour>
     <contour>
       <point x="262" y="-192"/>
@@ -41,6 +41,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>z</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -167,7 +169,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>zhook</string>
+          <string>uni0225</string>
           <key>unicodes</key>
           <array>
           </array>

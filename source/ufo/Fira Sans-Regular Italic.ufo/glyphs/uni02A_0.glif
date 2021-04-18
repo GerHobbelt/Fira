@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni02A0" format="1">
-  <advance width="575"/>
+  <advance width="579"/>
   <unicode hex="02A0"/>
   <outline>
     <contour>
@@ -16,9 +16,9 @@
       <point x="327" y="-216" type="line"/>
       <point x="420" y="-205" type="line"/>
       <point x="522" y="527" type="line"/>
-      <point x="437" y="527" type="line"/>
       <point x="431" y="527" type="line"/>
-      <point x="397" y="536"/>
+      <point x="430" y="522" type="line"/>
+      <point x="397" y="534"/>
       <point x="365" y="539"/>
       <point x="331" y="539" type="curve" smooth="yes"/>
     </contour>
@@ -49,6 +49,12 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:27:56 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>q</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>dhook</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -324,12 +330,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>qhook</string>
+          <string>uni02A0</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>575</integer>
+          <integer>579</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

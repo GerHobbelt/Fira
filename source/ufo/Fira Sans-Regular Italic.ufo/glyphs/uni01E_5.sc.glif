@@ -41,16 +41,18 @@
       <point x="297" y="136" type="line"/>
     </contour>
     <contour>
-      <point x="330" y="564" type="move" name="top"/>
+      <point x="350" y="564" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="250" y="0" type="move" name="bottom"/>
+      <point x="270" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>G</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -345,7 +347,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>gstroke.sc</string>
+          <string>uni01E5.sc</string>
           <key>unicodes</key>
           <array>
           </array>

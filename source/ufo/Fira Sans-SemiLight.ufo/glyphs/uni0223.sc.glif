@@ -32,22 +32,22 @@
     </contour>
     <contour>
       <point x="421" y="560" type="line"/>
-      <point x="421" y="455" type="line" smooth="yes"/>
+      <point x="421" y="445" type="line" smooth="yes"/>
       <point x="421" y="382"/>
       <point x="392" y="324"/>
       <point x="283" y="324" type="curve" smooth="yes"/>
       <point x="175" y="324"/>
       <point x="148" y="380"/>
-      <point x="148" y="455" type="curve" smooth="yes"/>
+      <point x="148" y="445" type="curve" smooth="yes"/>
       <point x="148" y="560" type="line"/>
       <point x="118" y="560" type="line"/>
-      <point x="118" y="454" type="line" smooth="yes"/>
+      <point x="118" y="444" type="line" smooth="yes"/>
       <point x="118" y="367"/>
       <point x="156" y="302"/>
       <point x="283" y="301" type="curve" smooth="yes"/>
       <point x="408" y="300"/>
       <point x="451" y="367"/>
-      <point x="451" y="454" type="curve" smooth="yes"/>
+      <point x="451" y="444" type="curve" smooth="yes"/>
       <point x="451" y="560" type="line"/>
     </contour>
     <contour>
@@ -61,6 +61,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:35:10 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>OU</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

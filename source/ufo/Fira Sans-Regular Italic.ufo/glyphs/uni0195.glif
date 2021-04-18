@@ -4,6 +4,12 @@
   <unicode hex="0195"/>
   <outline>
     <contour>
+      <point x="752" y="-12"/>
+      <point x="816" y="184"/>
+      <point x="816" y="397" type="curve" smooth="yes"/>
+      <point x="816" y="441"/>
+      <point x="813" y="483"/>
+      <point x="808" y="527" type="curve"/>
       <point x="720" y="527" type="line"/>
       <point x="724" y="488"/>
       <point x="725" y="449"/>
@@ -36,12 +42,6 @@
       <point x="374" y="74"/>
       <point x="422" y="-12"/>
       <point x="546" y="-12" type="curve" smooth="yes"/>
-      <point x="752" y="-12"/>
-      <point x="816" y="184"/>
-      <point x="816" y="397" type="curve" smooth="yes"/>
-      <point x="816" y="441"/>
-      <point x="813" y="483"/>
-      <point x="808" y="527" type="curve"/>
     </contour>
     <contour>
       <point x="504" y="739" type="move" name="top"/>
@@ -54,6 +54,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>h</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -264,7 +266,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>hv</string>
+          <string>uni0195</string>
           <key>unicodes</key>
           <array>
           </array>

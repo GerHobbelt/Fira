@@ -3,13 +3,15 @@
   <advance width="577"/>
   <unicode hex="0446"/>
   <outline>
-    <component base="descStraight-cy" xOffset="423"/>
     <component base="u"/>
+    <component base="descStraightcy" xOffset="428"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:23:30 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>u</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -406,7 +408,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>tse-cy</string>
+          <string>uni0446</string>
           <key>unicodes</key>
           <array>
           </array>
@@ -419,12 +421,12 @@
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
-          <string>descStraight-cy</string>
+          <string>u</string>
         </dict>
       </array>
     </dict>

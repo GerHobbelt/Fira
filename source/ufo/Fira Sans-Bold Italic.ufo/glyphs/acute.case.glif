@@ -2,17 +2,14 @@
 <glyph name="acute.case" format="1">
   <advance width="364"/>
   <outline>
-    <contour>
-      <point x="111" y="841" type="line"/>
-      <point x="164" y="742" type="line"/>
-      <point x="415" y="841" type="line"/>
-      <point x="341" y="985" type="line"/>
-    </contour>
+    <component base="acutecomb.case"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:31:52 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -84,7 +81,7 @@
         </dict>
       </dict>
       <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <string>0.18,0.16,0.78,1</string>
     </dict>
   </lib>
 </glyph>

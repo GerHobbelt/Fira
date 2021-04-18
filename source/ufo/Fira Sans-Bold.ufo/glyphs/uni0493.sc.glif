@@ -1,26 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0493.sc" format="1">
-  <advance width="454"/>
+  <advance width="477"/>
   <outline>
     <contour>
-      <point x="39" y="346" type="line"/>
-      <point x="-13" y="346" type="line"/>
-      <point x="-13" y="240" type="line"/>
-      <point x="352" y="240" type="line"/>
-      <point x="352" y="346" type="line"/>
+      <point x="62" y="346" type="line"/>
+      <point x="10" y="346" type="line"/>
+      <point x="10" y="240" type="line"/>
+      <point x="375" y="240" type="line"/>
+      <point x="375" y="346" type="line"/>
     </contour>
-    <component base="uni0433.sc" xOffset="-4"/>
+    <component base="uni0433.sc" xOffset="19"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:07:10 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>Ghestroke-cy</string>
+      <string>eth.sc</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>Ghestroke-cy</string>
+      <string>ge-cy.sc</string>
       <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

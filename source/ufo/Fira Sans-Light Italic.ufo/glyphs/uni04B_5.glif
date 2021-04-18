@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04B5" format="1">
-  <advance width="632"/>
+  <advance width="622"/>
   <unicode hex="04B5"/>
   <outline>
     <contour>
@@ -11,15 +11,51 @@
       <point x="393" y="515" type="line"/>
       <point x="393" y="517" type="line"/>
     </contour>
-    <component base="uni0446" xOffset="48"/>
+    <contour>
+      <point x="357" y="-9"/>
+      <point x="433" y="52"/>
+      <point x="483" y="167" type="curve"/>
+      <point x="459" y="0" type="line"/>
+      <point x="461" y="0" type="line"/>
+      <point x="533" y="517" type="line"/>
+      <point x="531" y="517" type="line"/>
+      <point x="483" y="171" type="line"/>
+      <point x="433" y="55"/>
+      <point x="358" y="-7"/>
+      <point x="271" y="-7" type="curve" smooth="yes"/>
+      <point x="185" y="-7"/>
+      <point x="140" y="48"/>
+      <point x="154" y="150" type="curve" smooth="yes"/>
+      <point x="205" y="517" type="line"/>
+      <point x="203" y="517" type="line"/>
+      <point x="152" y="150" type="line" smooth="yes"/>
+      <point x="138" y="46"/>
+      <point x="184" y="-9"/>
+      <point x="271" y="-9" type="curve" smooth="yes"/>
+    </contour>
+    <component base="descStraightcy" xOffset="487"/>
+    <contour>
+      <point x="471" y="0" type="move" name="ogonek"/>
+    </contour>
     <contour>
       <point x="352" y="517" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="544" y="517" type="move" name="topright"/>
+    </contour>
+    <contour>
+      <point x="471" y="0" type="move" name="bottomright"/>
+    </contour>
+    <contour>
+      <point x="298" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:23:21 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>tau</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

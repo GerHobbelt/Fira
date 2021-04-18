@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ibreve" format="1">
-  <advance width="288"/>
+  <advance width="289"/>
   <unicode hex="012C"/>
   <outline>
     <component base="I"/>
@@ -10,6 +10,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:23:37 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -34,7 +36,7 @@
             </dict>
             <dict>
               <key>baseGlyph</key>
-              <string>brevecomb.case</string>
+              <string>uni0306.case</string>
               <key>transformation</key>
               <array>
                 <integer>1</integer>
@@ -58,7 +60,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>288</integer>
+          <integer>289</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

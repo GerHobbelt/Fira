@@ -4,21 +4,21 @@
   <unicode hex="0517"/>
   <outline>
     <contour>
-      <point x="589" y="271" type="line"/>
-      <point x="675" y="388" type="line" smooth="yes"/>
-      <point x="713" y="441"/>
-      <point x="738" y="459"/>
-      <point x="773" y="471" type="curve"/>
-      <point x="745" y="539" type="line"/>
-      <point x="695" y="527"/>
-      <point x="659" y="500"/>
-      <point x="614" y="436" type="curve" smooth="yes"/>
-      <point x="518" y="301" type="line"/>
-      <point x="511" y="244" type="line"/>
-      <point x="631" y="0" type="line"/>
+      <point x="516" y="239" type="line"/>
+      <point x="637" y="0" type="line"/>
       <point x="737" y="0" type="line"/>
+      <point x="596" y="274" type="line"/>
+      <point x="664" y="364" type="line" smooth="yes"/>
+      <point x="711" y="426"/>
+      <point x="735" y="450"/>
+      <point x="787" y="470" type="curve"/>
+      <point x="758" y="539" type="line"/>
+      <point x="691" y="518"/>
+      <point x="658" y="494"/>
+      <point x="602" y="419" type="curve" smooth="yes"/>
+      <point x="522" y="311" type="line"/>
     </contour>
-    <component base="p" xOffset="1"/>
+    <component base="p"/>
     <contour>
       <point x="444" y="527" type="move" name="top"/>
     </contour>
@@ -27,8 +27,10 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:23:21 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>n</string>
+      <string>p</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>ka-cy</string>
       <key>com.typemytype.robofont.layerData</key>
@@ -235,7 +237,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>rha-cy</string>
+          <string>uni0517</string>
           <key>unicodes</key>
           <array>
           </array>

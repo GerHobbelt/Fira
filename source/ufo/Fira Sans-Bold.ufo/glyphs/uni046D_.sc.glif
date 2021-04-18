@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni046D.sc" format="1">
-  <advance width="910"/>
+  <advance width="890"/>
   <outline>
     <contour>
       <point x="241" y="0" type="line"/>
@@ -24,17 +24,17 @@
       <point x="497" y="231" type="line"/>
     </contour>
     <contour>
-      <point x="752" y="452" type="line"/>
+      <point x="752" y="457" type="line"/>
       <point x="752" y="571" type="line"/>
       <point x="424" y="571" type="line"/>
-      <point x="424" y="452" type="line"/>
+      <point x="424" y="457" type="line"/>
     </contour>
     <contour>
       <point x="667" y="-2" type="line"/>
       <point x="667" y="210" type="line"/>
       <point x="689" y="210" type="line"/>
-      <point x="745" y="0" type="line"/>
-      <point x="925" y="0" type="line"/>
+      <point x="725" y="0" type="line"/>
+      <point x="905" y="0" type="line"/>
       <point x="798" y="324" type="line"/>
       <point x="370" y="324" type="line"/>
       <point x="262" y="0" type="line"/>
@@ -54,6 +54,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:35:10 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>H</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -425,12 +427,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>yusbigiotified-cy.sc</string>
+          <string>uni046D.sc</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>910</integer>
+          <integer>890</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

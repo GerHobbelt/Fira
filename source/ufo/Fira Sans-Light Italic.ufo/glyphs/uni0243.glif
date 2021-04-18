@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0243" format="1">
-  <advance width="573"/>
+  <advance width="583"/>
   <unicode hex="0243"/>
   <outline>
     <contour>
-      <point x="115" y="194" type="line"/>
-      <point x="21" y="194" type="line"/>
-      <point x="21" y="192" type="line"/>
-      <point x="313" y="192" type="line"/>
-      <point x="313" y="194" type="line"/>
+      <point x="125" y="194" type="line"/>
+      <point x="31" y="194" type="line"/>
+      <point x="31" y="192" type="line"/>
+      <point x="323" y="192" type="line"/>
+      <point x="323" y="194" type="line"/>
     </contour>
-    <component base="B" xOffset="-8"/>
+    <component base="B" xOffset="2"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:23:20 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>Eth</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dcaron" format="1">
-  <advance width="592"/>
+  <advance width="587"/>
   <unicode hex="010F"/>
   <outline>
     <component base="d"/>
-    <component base="caron.alt" xOffset="487" yOffset="50"/>
+    <component base="caron.alt" xOffset="482" yOffset="50"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>==o</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:23:36 +0000</string>
       <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
       <string>==caron.alt</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>o</string>
+      <string>d</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>caron.alt</string>
       <key>com.typemytype.robofont.layerData</key>
@@ -36,21 +36,21 @@
                 <integer>0</integer>
                 <integer>0</integer>
                 <integer>1</integer>
-                <integer>35</integer>
+                <integer>0</integer>
                 <integer>0</integer>
               </array>
             </dict>
             <dict>
               <key>baseGlyph</key>
-              <string>commaabovecomb</string>
+              <string>uni0313</string>
               <key>transformation</key>
               <array>
                 <integer>1</integer>
                 <integer>0</integer>
                 <integer>0</integer>
                 <integer>1</integer>
-                <integer>929</integer>
-                <integer>-45</integer>
+                <integer>226</integer>
+                <integer>212</integer>
               </array>
             </dict>
           </array>
@@ -66,11 +66,22 @@
           <array>
           </array>
           <key>width</key>
-          <integer>592</integer>
+          <integer>587</integer>
         </dict>
       </dict>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>d</string>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>

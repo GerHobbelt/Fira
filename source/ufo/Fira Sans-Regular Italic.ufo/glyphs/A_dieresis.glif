@@ -4,12 +4,14 @@
   <unicode hex="00C4"/>
   <outline>
     <component base="A"/>
-    <component base="uni0308.case" xOffset="94"/>
+    <component base="uni0308.case" xOffset="95"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:23:20 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -34,7 +36,7 @@
             </dict>
             <dict>
               <key>baseGlyph</key>
-              <string>dieresiscomb.case</string>
+              <string>uni0308.case</string>
               <key>transformation</key>
               <array>
                 <integer>1</integer>

@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni048F" format="1">
-  <advance width="568"/>
+  <advance width="563"/>
   <unicode hex="048F"/>
   <outline>
+    <contour>
+      <point x="282" y="219" type="line"/>
+      <point x="280" y="219" type="line"/>
+      <point x="426" y="-92" type="line"/>
+      <point x="428" y="-92" type="line"/>
+    </contour>
     <contour>
       <point x="260" y="527"/>
       <point x="200" y="483"/>
@@ -38,12 +44,6 @@
       <point x="343" y="525" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="282" y="219" type="line"/>
-      <point x="280" y="219" type="line"/>
-      <point x="426" y="-92" type="line"/>
-      <point x="428" y="-92" type="line"/>
-    </contour>
-    <contour>
       <point x="320" y="517" type="move" name="top"/>
     </contour>
   </outline>
@@ -51,6 +51,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>n</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -415,12 +417,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>ertick-cy</string>
+          <string>uni048F</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>568</integer>
+          <integer>563</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

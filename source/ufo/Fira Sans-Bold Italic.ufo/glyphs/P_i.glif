@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Pi" format="1">
-  <advance width="645"/>
+  <advance width="646"/>
   <unicode hex="03A0"/>
   <outline>
     <component base="uni041F"/>
@@ -9,6 +9,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:29:38 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -20,7 +22,7 @@
           <array>
             <dict>
               <key>baseGlyph</key>
-              <string>Pe-cy</string>
+              <string>uni041F</string>
               <key>transformation</key>
               <array>
                 <integer>1</integer>
@@ -44,7 +46,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>645</integer>
+          <integer>646</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

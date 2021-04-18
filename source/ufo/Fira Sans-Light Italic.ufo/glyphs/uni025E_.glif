@@ -11,8 +11,8 @@
       <point x="398" y="270"/>
       <point x="313" y="275" type="curve"/>
       <point x="424" y="284"/>
-      <point x="458" y="355"/>
-      <point x="458" y="412" type="curve"/>
+      <point x="458" y="345"/>
+      <point x="458" y="410" type="curve" smooth="yes"/>
       <point x="458" y="479"/>
       <point x="411" y="527"/>
       <point x="327" y="527" type="curve"/>
@@ -32,8 +32,8 @@
       <point x="327" y="525" type="curve"/>
       <point x="410" y="525"/>
       <point x="456" y="478"/>
-      <point x="456" y="412" type="curve"/>
-      <point x="456" y="357"/>
+      <point x="456" y="410" type="curve" smooth="yes"/>
+      <point x="456" y="347"/>
       <point x="423" y="276"/>
       <point x="289" y="276" type="curve" smooth="yes"/>
       <point x="248" y="276" type="line"/>
@@ -57,6 +57,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>o</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -430,7 +432,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>eopenreversedclosed</string>
+          <string>uni025E</string>
           <key>unicodes</key>
           <array>
           </array>

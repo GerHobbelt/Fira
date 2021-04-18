@@ -7,8 +7,8 @@
       <point x="266" y="-20"/>
       <point x="311" y="-12"/>
       <point x="341" y="1" type="curve"/>
-      <point x="323" y="139" type="line"/>
-      <point x="316" y="137"/>
+      <point x="323" y="138" type="line"/>
+      <point x="316" y="136"/>
       <point x="308" y="135"/>
       <point x="303" y="135" type="curve" smooth="yes"/>
       <point x="290" y="135"/>
@@ -16,11 +16,11 @@
       <point x="284" y="171" type="curve" smooth="yes"/>
       <point x="343" y="597" type="line" smooth="yes"/>
       <point x="350" y="649"/>
-      <point x="355" y="679"/>
-      <point x="383" y="679" type="curve" smooth="yes"/>
+      <point x="357" y="679"/>
+      <point x="384" y="679" type="curve" smooth="yes"/>
       <point x="401" y="679"/>
-      <point x="410" y="663"/>
-      <point x="410" y="630" type="curve" smooth="yes"/>
+      <point x="410" y="665"/>
+      <point x="410" y="633" type="curve" smooth="yes"/>
       <point x="410" y="486"/>
       <point x="296" y="393"/>
       <point x="134" y="301" type="curve"/>
@@ -30,7 +30,7 @@
       <point x="182" y="250" type="line"/>
       <point x="353" y="347"/>
       <point x="522" y="451"/>
-      <point x="522" y="630" type="curve" smooth="yes"/>
+      <point x="522" y="627" type="curve" smooth="yes"/>
       <point x="522" y="710"/>
       <point x="469" y="763"/>
       <point x="375" y="763" type="curve" smooth="yes"/>
@@ -47,6 +47,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -590,7 +592,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>literSign</string>
+          <string>uni2113</string>
           <key>unicodes</key>
           <array>
           </array>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04B5" format="1">
+  <advance width="580"/>
+  <unicode hex="04B5"/>
+  <outline>
+    <contour>
+      <point x="303" y="406" type="line"/>
+      <point x="335" y="406" type="line"/>
+      <point x="353" y="534" type="line"/>
+      <point x="27" y="534" type="line"/>
+      <point x="8" y="406" type="line"/>
+      <point x="117" y="406" type="line"/>
+    </contour>
+    <contour>
+      <point x="252" y="-20"/>
+      <point x="293" y="19"/>
+      <point x="328" y="67" type="curve"/>
+      <point x="326" y="0" type="line"/>
+      <point x="488" y="0" type="line"/>
+      <point x="563" y="534" type="line"/>
+      <point x="377" y="534" type="line"/>
+      <point x="330" y="193" type="line"/>
+      <point x="312" y="162"/>
+      <point x="295" y="147"/>
+      <point x="282" y="147" type="curve" smooth="yes"/>
+      <point x="271" y="147"/>
+      <point x="269" y="154"/>
+      <point x="271" y="172" type="curve" smooth="yes"/>
+      <point x="321" y="534" type="line"/>
+      <point x="135" y="534" type="line"/>
+      <point x="80" y="139" type="line" smooth="yes"/>
+      <point x="66" y="42"/>
+      <point x="105" y="-20"/>
+      <point x="183" y="-20" type="curve" smooth="yes"/>
+    </contour>
+    <component base="descStraightcy" xOffset="358"/>
+    <contour>
+      <point x="481" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="406" y="534" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="559" y="534" type="move" name="topright"/>
+    </contour>
+    <contour>
+      <point x="483" y="0" type="move" name="bottomright"/>
+    </contour>
+    <contour>
+      <point x="278" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:23:21 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>tau</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>tse-cy</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+            <dict>
+              <key>name</key>
+              <string>top</string>
+              <key>x</key>
+              <integer>334</integer>
+              <key>y</key>
+              <integer>533</integer>
+            </dict>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>uni0446</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>78</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>32</integer>
+                  <key>y</key>
+                  <integer>533</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>7</integer>
+                  <key>y</key>
+                  <integer>400</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>116</integer>
+                  <key>y</key>
+                  <integer>400</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>303</integer>
+                  <key>y</key>
+                  <integer>400</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>309</integer>
+                  <key>y</key>
+                  <integer>400</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>347</integer>
+                  <key>y</key>
+                  <integer>533</integer>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni04B5</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>580</integer>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

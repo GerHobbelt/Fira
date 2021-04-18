@@ -1,29 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni032A" format="1">
-  <advance width="340"/>
+  <advance width="338"/>
   <unicode hex="032A"/>
   <outline>
     <contour>
-      <point x="23" y="-240" type="line"/>
-      <point x="36" y="-150" type="line"/>
-      <point x="188" y="-150" type="line"/>
-      <point x="175" y="-240" type="line"/>
-      <point x="238" y="-240" type="line"/>
-      <point x="259" y="-91" type="line"/>
-      <point x="-19" y="-91" type="line"/>
-      <point x="-40" y="-240" type="line"/>
+      <point x="22" y="-240" type="line"/>
+      <point x="35" y="-150" type="line"/>
+      <point x="187" y="-150" type="line"/>
+      <point x="174" y="-240" type="line"/>
+      <point x="237" y="-240" type="line"/>
+      <point x="258" y="-91" type="line"/>
+      <point x="-20" y="-91" type="line"/>
+      <point x="-41" y="-240" type="line"/>
     </contour>
     <contour>
-      <point x="133" y="0" type="move" name="_bottom"/>
+      <point x="132" y="0" type="move" name="_bottom"/>
     </contour>
     <contour>
-      <point x="112" y="-240" type="move" name="bottom"/>
+      <point x="111" y="-240" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

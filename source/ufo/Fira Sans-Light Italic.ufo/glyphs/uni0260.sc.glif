@@ -38,7 +38,6 @@
       <point x="349" y="565" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="489" y="593" type="line" smooth="yes"/>
       <point x="497" y="654"/>
       <point x="536" y="686"/>
       <point x="585" y="686" type="curve" smooth="yes"/>
@@ -54,6 +53,7 @@
       <point x="487" y="593" type="curve" smooth="yes"/>
       <point x="478" y="520" type="line"/>
       <point x="480" y="520" type="line"/>
+      <point x="489" y="593" type="line" smooth="yes"/>
     </contour>
     <contour>
       <point x="336" y="727" type="move" name="top"/>
@@ -66,6 +66,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>O</string>
       <key>com.typemytype.robofont.layerData</key>
@@ -358,7 +360,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>ghook.sc</string>
+          <string>uni0260.sc</string>
           <key>unicodes</key>
           <array>
           </array>

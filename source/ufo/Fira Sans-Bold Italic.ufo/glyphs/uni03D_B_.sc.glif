@@ -3,13 +3,13 @@
   <advance width="476"/>
   <outline>
     <contour>
-      <point x="343" y="-167"/>
-      <point x="416" y="-99"/>
-      <point x="416" y="-1" type="curve" smooth="yes"/>
-      <point x="416" y="67"/>
-      <point x="379" y="100"/>
-      <point x="312" y="134" type="curve" smooth="yes"/>
-      <point x="245" y="168"/>
+      <point x="345" y="-166"/>
+      <point x="416" y="-102"/>
+      <point x="416" y="-4" type="curve" smooth="yes"/>
+      <point x="416" y="71"/>
+      <point x="374" y="100"/>
+      <point x="309" y="134" type="curve" smooth="yes"/>
+      <point x="244" y="168"/>
       <point x="221" y="195"/>
       <point x="221" y="247" type="curve" smooth="yes"/>
       <point x="221" y="327"/>
@@ -22,15 +22,15 @@
       <point x="18" y="439"/>
       <point x="18" y="230" type="curve" smooth="yes"/>
       <point x="18" y="113"/>
-      <point x="75" y="68"/>
-      <point x="159" y="24" type="curve" smooth="yes"/>
-      <point x="207" y="-1"/>
-      <point x="216" y="-12"/>
-      <point x="216" y="-32" type="curve" smooth="yes"/>
-      <point x="216" y="-66"/>
-      <point x="184" y="-85"/>
-      <point x="138" y="-113" type="curve"/>
-      <point x="194" y="-228" type="line"/>
+      <point x="74" y="68"/>
+      <point x="156" y="24" type="curve" smooth="yes"/>
+      <point x="201" y="0"/>
+      <point x="215" y="-12"/>
+      <point x="215" y="-35" type="curve" smooth="yes"/>
+      <point x="215" y="-65"/>
+      <point x="185" y="-84"/>
+      <point x="138" y="-112" type="curve"/>
+      <point x="194" y="-227" type="line"/>
     </contour>
     <contour>
       <point x="281" y="571" type="move" name="top"/>
@@ -40,6 +40,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>C</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -314,7 +316,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>stigma.sc</string>
+          <string>uni03DB.sc</string>
           <key>unicodes</key>
           <array>
           </array>

@@ -2,14 +2,38 @@
 <glyph name="yen.tosf" format="1">
   <advance width="560"/>
   <outline>
-    <component base="yen" xOffset="12"/>
+    <contour>
+      <point x="446" y="669" type="line"/>
+      <point x="283" y="374" type="line"/>
+      <point x="119" y="669" type="line"/>
+      <point x="17" y="669" type="line"/>
+      <point x="233" y="303" type="line"/>
+      <point x="233" y="0" type="line"/>
+      <point x="327" y="0" type="line"/>
+      <point x="327" y="304" type="line"/>
+      <point x="543" y="669" type="line"/>
+    </contour>
+    <contour>
+      <point x="94" y="194" type="line"/>
+      <point x="94" y="133" type="line"/>
+      <point x="465" y="133" type="line"/>
+      <point x="465" y="194" type="line"/>
+    </contour>
+    <contour>
+      <point x="94" y="346" type="line"/>
+      <point x="94" y="284" type="line"/>
+      <point x="465" y="284" type="line"/>
+      <point x="465" y="346" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:35:10 +0000</string>
       <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acutecomb.sc" format="1">
-  <advance width="358"/>
+  <advance width="364"/>
   <outline>
-    <component base="acutecomb" xOffset="7" yOffset="30"/>
+    <component base="acutecomb" xOffset="10" yOffset="30"/>
     <contour>
-      <point x="248" y="886" type="move" name="top"/>
+      <point x="251" y="886" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="219" y="571" type="move" name="_top"/>
+      <point x="222" y="571" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:31:52 +0000</string>
       <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
+      <string>0.18,0.16,0.78,1</string>
     </dict>
   </lib>
 </glyph>

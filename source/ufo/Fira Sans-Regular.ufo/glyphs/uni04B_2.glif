@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04B2" format="1">
-  <advance width="561"/>
+  <advance width="547"/>
   <unicode hex="04B2"/>
   <outline>
     <component base="X"/>
-    <component base="descStraight-cy.case" xOffset="397"/>
+    <component base="descStraightcy.case" xOffset="397"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:11:14 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>X</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -19,12 +21,12 @@
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
-          <key>disableAlignment</key>
-          <true/>
+          <key>alignment</key>
+          <integer>-1</integer>
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>descStraight-cy.case</string>
+          <string>descStraightcy.case</string>
         </dict>
       </array>
     </dict>

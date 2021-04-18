@@ -1,29 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="graveacutegrave" format="1">
-  <advance width="465"/>
+<glyph name="uni1DC8" format="1">
+  <advance width="463"/>
   <unicode hex="1DC8"/>
   <outline>
     <contour>
-      <point x="369" y="715" type="line"/>
-      <point x="463" y="653" type="line"/>
-      <point x="496" y="698" type="line"/>
-      <point x="375" y="795" type="line"/>
-      <point x="246" y="717" type="line"/>
+      <point x="368" y="715" type="line"/>
+      <point x="462" y="653" type="line"/>
+      <point x="494" y="694" type="line"/>
+      <point x="374" y="795" type="line"/>
+      <point x="245" y="717" type="line"/>
       <point x="140" y="795" type="line"/>
-      <point x="98" y="738" type="line"/>
-      <point x="244" y="653" type="line"/>
+      <point x="97" y="738" type="line"/>
+      <point x="243" y="653" type="line"/>
     </contour>
     <contour>
-      <point x="299" y="795" type="move" name="top"/>
+      <point x="298" y="795" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="269" y="527" type="move" name="_top"/>
+      <point x="268" y="527" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

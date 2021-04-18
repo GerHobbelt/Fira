@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iogonek.sc" format="1">
-  <advance width="292"/>
+  <advance width="290"/>
   <outline>
     <component base="i.sc"/>
-    <component base="uni0328.sc" xOffset="-81"/>
+    <component base="uni0328.sc" xOffset="-65"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:33:12 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -242,7 +244,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>292</integer>
+          <integer>290</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

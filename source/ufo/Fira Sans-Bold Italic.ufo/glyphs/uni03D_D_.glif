@@ -4,7 +4,7 @@
   <unicode hex="03DD"/>
   <outline>
     <contour>
-      <point x="129" y="534"/>
+      <point x="126" y="534"/>
       <point x="60" y="446"/>
       <point x="45" y="336" type="curve" smooth="yes"/>
       <point x="-33" y="-225" type="line"/>
@@ -12,10 +12,10 @@
       <point x="232" y="321" type="line" smooth="yes"/>
       <point x="239" y="368"/>
       <point x="260" y="386"/>
-      <point x="290" y="386" type="curve" smooth="yes"/>
+      <point x="298" y="386" type="curve" smooth="yes"/>
       <point x="458" y="386" type="line"/>
       <point x="497" y="534" type="line"/>
-      <point x="286" y="534" type="line" smooth="yes"/>
+      <point x="283" y="534" type="line" smooth="yes"/>
     </contour>
     <contour>
       <point x="405" y="226" type="line"/>
@@ -37,6 +37,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>=|n</string>
       <key>com.typemytype.robofont.layerData</key>
@@ -270,7 +272,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>digamma</string>
+          <string>uni03DD</string>
           <key>unicodes</key>
           <array>
           </array>

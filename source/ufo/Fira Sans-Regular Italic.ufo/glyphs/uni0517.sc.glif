@@ -3,6 +3,15 @@
   <advance width="672"/>
   <outline>
     <contour>
+      <point x="624" y="0" type="line"/>
+      <point x="490" y="285" type="line"/>
+      <point x="704" y="564" type="line"/>
+      <point x="610" y="564" type="line"/>
+      <point x="418" y="300" type="line"/>
+      <point x="401" y="269" type="line"/>
+      <point x="529" y="0" type="line"/>
+    </contour>
+    <contour>
       <point x="153" y="0" type="line"/>
       <point x="223" y="494" type="line"/>
       <point x="295" y="494" type="line" smooth="yes"/>
@@ -25,15 +34,6 @@
       <point x="62" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="624" y="0" type="line"/>
-      <point x="490" y="285" type="line"/>
-      <point x="704" y="564" type="line"/>
-      <point x="610" y="564" type="line"/>
-      <point x="418" y="300" type="line"/>
-      <point x="401" y="269" type="line"/>
-      <point x="529" y="0" type="line"/>
-    </contour>
-    <contour>
       <point x="378" y="564" type="move" name="top"/>
     </contour>
     <contour>
@@ -44,6 +44,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>H</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -329,7 +331,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>rha-cy.sc</string>
+          <string>uni0517.sc</string>
           <key>unicodes</key>
           <array>
           </array>

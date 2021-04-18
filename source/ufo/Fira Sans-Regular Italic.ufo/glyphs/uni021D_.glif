@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni021D" format="1">
-  <advance width="482"/>
+  <advance width="481"/>
   <unicode hex="021D"/>
   <outline>
     <contour>
@@ -15,8 +15,8 @@
       <point x="329" y="449"/>
       <point x="329" y="399" type="curve" smooth="yes"/>
       <point x="329" y="333"/>
-      <point x="266" y="301"/>
-      <point x="190" y="301" type="curve" smooth="yes"/>
+      <point x="274" y="301"/>
+      <point x="200" y="301" type="curve" smooth="yes"/>
       <point x="149" y="301" type="line"/>
       <point x="133" y="229" type="line"/>
       <point x="234" y="229" type="line" smooth="yes"/>
@@ -48,6 +48,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>ze-cy</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -384,12 +386,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>yogh</string>
+          <string>uni021D</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>482</integer>
+          <integer>481</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

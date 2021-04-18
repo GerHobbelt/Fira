@@ -23,12 +23,12 @@
       <point x="214" y="500"/>
       <point x="357" y="500" type="curve" smooth="yes"/>
       <point x="404" y="500"/>
-      <point x="437" y="491"/>
-      <point x="480" y="461" type="curve"/>
+      <point x="437" y="492"/>
+      <point x="481" y="461" type="curve"/>
       <point x="531" y="516" type="line"/>
-      <point x="481" y="553"/>
+      <point x="481" y="554"/>
       <point x="438" y="574"/>
-      <point x="355" y="574" type="curve" smooth="yes"/>
+      <point x="359" y="574" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="340" y="286" type="move" name="center"/>
@@ -38,6 +38,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>O</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -292,7 +294,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>sigmaLunateSymbol.sc</string>
+          <string>uni03F2.sc</string>
           <key>unicodes</key>
           <array>
           </array>

@@ -1,37 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni03DE" format="1">
-  <advance width="448"/>
+  <advance width="443"/>
   <unicode hex="03DE"/>
   <outline>
     <contour>
-      <point x="189" y="0" type="line"/>
-      <point x="428" y="330" type="line"/>
-      <point x="396" y="336" type="line"/>
-      <point x="152" y="0" type="line"/>
+      <point x="184" y="0" type="line"/>
+      <point x="423" y="330" type="line"/>
+      <point x="391" y="336" type="line"/>
+      <point x="147" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="428" y="330" type="line"/>
-      <point x="418" y="360" type="line"/>
-      <point x="49" y="360" type="line"/>
-      <point x="59" y="330" type="line"/>
+      <point x="423" y="330" type="line"/>
+      <point x="413" y="360" type="line"/>
+      <point x="44" y="360" type="line"/>
+      <point x="54" y="330" type="line"/>
     </contour>
     <contour>
-      <point x="321" y="682" type="line"/>
-      <point x="284" y="682" type="line"/>
-      <point x="49" y="360" type="line"/>
-      <point x="81" y="354" type="line"/>
+      <point x="316" y="682" type="line"/>
+      <point x="279" y="682" type="line"/>
+      <point x="44" y="360" type="line"/>
+      <point x="76" y="354" type="line"/>
     </contour>
     <contour>
-      <point x="283" y="682" type="move" name="top"/>
+      <point x="278" y="682" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="187" y="0" type="move" name="bottom"/>
+      <point x="182" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -53,7 +55,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>424</integer>
+                  <integer>419</integer>
                   <key>y</key>
                   <integer>330</integer>
                 </dict>
@@ -63,7 +65,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>414</integer>
+                  <integer>409</integer>
                   <key>y</key>
                   <integer>360</integer>
                 </dict>
@@ -73,7 +75,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>47</integer>
+                  <integer>42</integer>
                   <key>y</key>
                   <integer>360</integer>
                 </dict>
@@ -83,7 +85,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>57</integer>
+                  <integer>52</integer>
                   <key>y</key>
                   <integer>330</integer>
                 </dict>
@@ -94,12 +96,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Koppa</string>
+          <string>uni03DE</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>448</integer>
+          <integer>443</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

@@ -12,6 +12,12 @@
       <point x="352" y="78" type="line"/>
     </contour>
     <contour>
+      <point x="417" y="689" type="line"/>
+      <point x="417" y="0" type="line"/>
+      <point x="512" y="0" type="line"/>
+      <point x="512" y="689" type="line"/>
+    </contour>
+    <contour>
       <point x="40" y="689" type="line"/>
       <point x="40" y="424" type="line" smooth="yes"/>
       <point x="40" y="297"/>
@@ -30,12 +36,6 @@
       <point x="135" y="689" type="line"/>
     </contour>
     <contour>
-      <point x="417" y="689" type="line"/>
-      <point x="417" y="0" type="line"/>
-      <point x="512" y="0" type="line"/>
-      <point x="512" y="689" type="line"/>
-    </contour>
-    <contour>
       <point x="276" y="689" type="move" name="top"/>
     </contour>
     <contour>
@@ -52,8 +52,10 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:35:10 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>Che</string>
+      <string>Che-cy</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>H</string>
       <key>public.markColor</key>

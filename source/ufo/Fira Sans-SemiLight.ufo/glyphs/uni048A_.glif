@@ -4,13 +4,15 @@
   <unicode hex="048A"/>
   <outline>
     <component base="uni0418"/>
-    <component base="descTail-cy.case" xOffset="513"/>
-    <component base="breve-cy.case" xOffset="190"/>
+    <component base="descTailcy.case" xOffset="513"/>
+    <component base="brevecy.case" xOffset="189"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:10:59 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>H</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

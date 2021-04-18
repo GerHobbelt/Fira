@@ -3,6 +3,24 @@
   <advance width="670"/>
   <outline>
     <contour>
+      <point x="168" y="241" type="line"/>
+      <point x="179" y="316" type="line"/>
+      <point x="141" y="316" type="line" smooth="yes"/>
+      <point x="108" y="316"/>
+      <point x="94" y="329"/>
+      <point x="94" y="351" type="curve" smooth="yes"/>
+      <point x="94" y="387"/>
+      <point x="110" y="410"/>
+      <point x="125" y="437" type="curve"/>
+      <point x="68" y="473" type="line"/>
+      <point x="42" y="440"/>
+      <point x="13" y="401"/>
+      <point x="13" y="347" type="curve" smooth="yes"/>
+      <point x="13" y="286"/>
+      <point x="53" y="241"/>
+      <point x="140" y="241" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
       <point x="437" y="-11"/>
       <point x="503" y="12"/>
       <point x="566" y="58" type="curve"/>
@@ -39,24 +57,6 @@
       <point x="356" y="-11" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="168" y="241" type="line"/>
-      <point x="179" y="316" type="line"/>
-      <point x="141" y="316" type="line" smooth="yes"/>
-      <point x="108" y="316"/>
-      <point x="94" y="329"/>
-      <point x="94" y="351" type="curve" smooth="yes"/>
-      <point x="94" y="387"/>
-      <point x="110" y="410"/>
-      <point x="125" y="437" type="curve"/>
-      <point x="68" y="473" type="line"/>
-      <point x="42" y="440"/>
-      <point x="13" y="401"/>
-      <point x="13" y="347" type="curve" smooth="yes"/>
-      <point x="13" y="286"/>
-      <point x="53" y="241"/>
-      <point x="140" y="241" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
       <point x="453" y="0" type="move" name="ogonek"/>
     </contour>
     <contour>
@@ -70,6 +70,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:33:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>Cheabkhasian-cy</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -529,7 +531,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>cheabkhasian-cy.sc</string>
+          <string>uni04BD.sc</string>
           <key>unicodes</key>
           <array>
           </array>

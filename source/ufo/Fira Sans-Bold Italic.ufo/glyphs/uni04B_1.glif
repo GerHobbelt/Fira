@@ -4,27 +4,21 @@
   <unicode hex="04B1"/>
   <outline>
     <contour>
-      <point x="567" y="534" type="line"/>
-      <point x="369" y="534" type="line"/>
-      <point x="245" y="170" type="line"/>
-      <point x="234" y="534" type="line"/>
-      <point x="21" y="534" type="line"/>
-      <point x="128" y="90" type="line"/>
       <point x="49" y="90" type="line"/>
       <point x="35" y="-10" type="line"/>
       <point x="125" y="-10" type="line"/>
-      <point x="94" y="-227" type="line"/>
-      <point x="284" y="-207" type="line"/>
-      <point x="313" y="-10" type="line"/>
-      <point x="403" y="-10" type="line"/>
-      <point x="417" y="90" type="line"/>
-      <point x="337" y="90" type="line"/>
+      <point x="406" y="-10" type="line"/>
+      <point x="420" y="90" type="line"/>
+      <point x="354" y="90" type="line"/>
     </contour>
+    <component base="uni04AF"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-12 11:23:21 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>ustrait-cy</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -211,7 +205,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>ustraitstroke-cy</string>
+          <string>uni04B1</string>
           <key>unicodes</key>
           <array>
           </array>

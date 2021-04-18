@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gravecomb.case" format="1">
-  <advance width="374"/>
+  <advance width="364"/>
   <outline>
     <contour>
       <point x="30" y="840" type="line"/>
       <point x="284" y="749" type="line"/>
       <point x="334" y="848" type="line"/>
-      <point x="103" y="984" type="line"/>
+      <point x="101" y="984" type="line"/>
     </contour>
     <contour>
       <point x="184" y="984" type="move" name="top"/>
@@ -18,7 +18,9 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-05 19:35:10 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -86,11 +88,11 @@
           <array>
           </array>
           <key>width</key>
-          <integer>374</integer>
+          <integer>364</integer>
         </dict>
       </dict>
       <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>
