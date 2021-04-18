@@ -1,24 +1,24 @@
-We've Moved!
-============
-
-Development of Fira has moved to the [Carrois repository](https://github.com/carrois/Fira), please submit contributions there.
-
 # Mozilla's Fira Type Family
+
+Development of Fira now happens at the [Carrois repository](https://github.com/carrois/Fira).
+
+## Older infos
+
 https://mozilla.github.io/Fira/
 
-## Download Fira
+### Download Fira
 <a href="https://github.com/mozilla/Fira/releases/latest">Latest Release</a><br>
 <a href="https://github.com/mozilla/Fira/releases">All Releases</a>
 
-## Fira Roadmap
+### Fira Roadmap
 See the  <a href="https://docs.google.com/document/d/1fLxzQsULTv43umIhpB9Gv3Gi7aOBONHbqEbwZIipmxw/edit">Fira Road Map</a> for further information on upcoming releases. Please add your comments or questions within the document.
 
 
-## How to Contribute to Fira
+### How to Contribute to Fira
 If you're interested in contributing, see our  <a href="https://docs.google.com/document/d/1QfxweGktJEdBvbd94y-5hiyqu32U9-h_ICPVs76Niyw/edit">Fira Contribution Documentation</a>. Please add your comments or questions within the document.
 
 
-## Usage
+### Usage
 Use this font on your website!
 
 ```html
