@@ -1,51 +1,48 @@
-### Fira Sans web subset * NEW *
+# Fira Sans 4.3 * NEW *
+## Fira Code 3.2
+## Fira Mono 3.2
 
-### Fira Sans 4.2 
-### Fira Code 3.2
-### Fira Mono 3.2
+- Fira is a trademark of The Mozilla Corporation.
 
-Fira is a trademark of The Mozilla Corporation.<br>
-Digitized data copyright © 2012-2016, The Mozilla Foundation and Telefonica S.A.
+- Digitized data copyright 2012-2018, The Mozilla Foundation and Telefonica S.A., bBox Type GmbH and Carrois Corporate GbR, with Reserved Font Name "Fira" 
 
-Design 2012-2015: Carrois Corporate GbR & Edenspiekermann AG<br>
-Design 2016 and later: Carrois Corporate GbR
+- Design 2012-2015: Carrois Corporate GbR & Edenspiekermann AG
+- Design 2016 and later: bBox Type GmbH
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
-### Note:
+
+### FIRA SANS font weights:
+
+- Two 			(2 units / CSS 100)
+- Four 			(4 units / CSS 100)
+- Six  			(6 units / CSS 100)
+- Eight			(8 units / CSS 100)
+- Hair 			(14 units / CSS 100)
+- Thin 			(22 units / CSS 100)
+- UltraLight 	(34 units / CSS 200)
+- ExtraLight 	(46 units / CSS 250)
+- Light 		(58 units / CSS 300)
+- Book 			(84 units / CSS 350)
+- Regular 		(92 units / CSS 400)
+- Medium 		(128 units / CSS 500)
+- SemiBold 		(142 units / CSS 600)
+- Bold 			(158 units / CSS 700)
+- ExtraBold 	(178 units / CSS 800)
+- Heavy 		(198 units / CSS 900)
+
+__* Note on thin weight fractional coordinates__
 
 All weights below “Thin” use fractional coordinates which is an optical decision. Rendering engines might not be able to deal with that correctly. As for that, these weights should be seen as an experiment by now. If you notice any problems in smaller sizes please consider to use weights from Thin.
 
-Weight “Ultra” is intended for extreme display usage. It is the result of an extrapolation (198 to 222) which is not optimized in typographical details. Please consider to use “Heavy” instead if problems occur.
-
-### FIRA font weights:
-
-- Two 			(2em / CSS 100)
-- Four 			(4em / CSS 100)
-- Six  			(6em / CSS 100)
-- Eight			(8em / CSS 100)
-- Hair 			(14em / CSS 100)
-* Thin 			(22em / CSS 100)
-* UltraLight 	(34em / CSS 200)
-* ExtraLight 	(46em / CSS 250)
-* Light 		(58em / CSS 300)
-* Book 			(84em / CSS 350)
-* Regular 		(92em / CSS 400)
-* Medium 		(128em / CSS 500)
-* SemiBold 		(142em / CSS 600)
-* Bold 			(158em / CSS 700)
-* ExtraBold 	(178em / CSS 800)
-* Heavy 		(198em / CSS 900)
-- Ultra 		(222em / CSS 950)
-
 ### FIRA MONO font weights:
 
-* Regular 	(84em / CSS 400)
+* Regular 		(84em / CSS 400)
 * Medium 		(112em / CSS 500)
 * Bold  		(158em / CSS 700)
 
 
-### ! THANK YOU ! MERCI ! DANKE ! Dziękuję !  Gracias ! Kiitos ! Obrigado ! Спасибо !
+### !!! THANK YOU !!! MERCI !!! DANKE !!! Dziękuję !!!  Gracias !!! Kiitos !!! Obrigado !!! Спасибо !!!
 
 - Patryk Adamczyk and his colleagues at Mozilla Foundation and Mozilla Corporation for trust and huge support over the last years
 - Christine Sunkel at EdenSpiekermann for project management, organization and her patience.
@@ -55,21 +52,32 @@ Weight “Ultra” is intended for extreme display usage. It is the result of an
 - Georg Seifert, Andreas Eigendorf and Adam Twardoch for all-time technical support and advice
 - Finally: the whole community who helped improving Fira via Mail, GitHub and FireBug!
 
-### NEXT STEPS 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
-- Arabic _ in progress
-- Hebrew _ in progress
-- Thai _ in progress
-- Georgian _ in progress
-- Devanagari _ in progress
+### Future prospect
 
-- Mono 4.1 (Latin Extension) on pause
+- This will be the last version of Fira Sans. Development will continue with FiraGO. See FiraGO for plenty of new scripts (Arabic, Hebrew, Devanagari, Thai, Georgian) and manual TT hinting.
 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 
 
-## FIRA VERSION LOG
+## CHANGE LOG Fira Sans
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+
+### version/build 4.301 (Sans only), 19.03.2018
+
+- issue #25: change be.loclBGR to ve.loclBGR, thanks StefanPeev 
+- introduce clear names for stylistic sets
+- separate stylistic variant a and g (a=ss04, g=ss05), for R.Trinler
+- issue #12: change shape of /longs according to /f and /germandbls, thanks thlinard 
+- optimize anchor position of /zeta
+- add rfn-notice to copyright: with Reserved Font Name "Fira“
+- issue #26: Moved ligatures f_f, f_f_i, f_f_j, f_j, f_f_l to liga-feature. Thanks Ray.
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
@@ -78,31 +86,31 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 LOCL FEATURES
 
-_ loclHUN / hungarianumlaut (thanks, Thorsten)
-_ loclBGR (also available via stylistic set 01) for Cy-EXT range in cooperation with Bulgarian Type Designers Botio Nikoltchev and Vassil Kateliev
-_ ДЛФЉҔҦԪԬԮӅӺӼԈԒԔԠбгѓджийҋѝкќлптцшщџљюғҕҗқҝҥҧԥҭҵԫԭԯӂӄӆӣӥӷӻӽԉԏԓԕԡ + their .sc
-_ loclSRB, loclMKD
+- loclHUN / hungarianumlaut (thanks, Thorsten)
+- loclBGR (also available via stylistic set 01) for Cy-EXT range in cooperation with Bulgarian Type Designers Botio Nikoltchev and Vassil Kateliev
+- ДЛФЉҔҦԪԬԮӅӺӼԈԒԔԠбгѓджийҋѝкќлптцшщџљюғҕҗқҝҥҧԥҭҵԫԭԯӂӄӆӣӥӷӻӽԉԏԓԕԡ + their .sc
+- loclSRB, loclMKD
 
 ISSUES/FIXES
 
-_ Optimize position or insert anchors for greek polytonic > ζ, ξ, ς, ψ (thanks, disk0x)
-_ Italic: /pe-cy now has a real Italic shape
-_ Italic: moved descender of /gedescender-cy (uni04F7) to the right
-_ fixed an anchor issue with ɨ́  (thanks, Denis)
-_ fixed an anchor issue with 031A COMBINING LEFT ANGLE ABOVE (thanks, Denis)
-_ Moved ligatures f_f, f_f_i, f_f_j, f_j, f_f_l to liga-feature. They are standard now.
-_ Removed f_t ligature (see next point)
-_ introduced stylistic alternative short_f in combination with ascender letters (like h, t, k, …). Replacement via calt-feature
-_ few optimized kerning pairs (thanks, Thorsten)
-_ added uni1D7B /idotlessstroke (thanks, Ray)
-added uni0305 /overlinecomb (thanks, Ray)
-_ added uni25BA and uni25C4
-_ changed descender of zedescender-cy.sc to match the according uppercase and lowercase letters
-_ re-structured calt-feature for Greek (disappearing accents in all cap use)
-_ deleted acute in /UpsilonacutehookSymbol.sc (disappearing accents in all cap use)
-_ little changes of overall Metrics of Regular Master (text might wrap differently)
-_ added some glyphs for Mac OSX system requirements (thanks, Jens)
-_ plenty of smaller fixes
+- Optimize position or insert anchors for greek polytonic > ζ, ξ, ς, ψ (thanks, disk0x)
+- Italic: /pe-cy now has a real Italic shape
+- Italic: moved descender of /gedescender-cy (uni04F7) to the right
+- fixed an anchor issue with ɨ́  (thanks, Denis)
+- fixed an anchor issue with 031A COMBINING LEFT ANGLE ABOVE (thanks, Denis)
+- Moved ligatures f_f, f_f_i, f_f_j, f_j, f_f_l to liga-feature. They are standard now.
+- Removed f_t ligature (see next point)
+- introduced stylistic alternative short_f in combination with ascender letters (like h, t, k, …). Replacement via calt-feature
+- few optimized kerning pairs (thanks, Thorsten)
+- added uni1D7B /idotlessstroke (thanks, Ray)
+- added uni0305 /overlinecomb (thanks, Ray)
+- added uni25BA and uni25C4
+- changed descender of zedescender-cy.sc to match the according uppercase and lowercase letters
+- re-structured calt-feature for Greek (disappearing accents in all cap use)
+- deleted acute in /UpsilonacutehookSymbol.sc (disappearing accents in all cap use)
+- little changes of overall Metrics of Regular Master (text might wrap differently)
+- added some glyphs for Mac OSX system requirements (thanks, Jens)
+- plenty of smaller fixes
 
 
 ## version/build 4.203 (Sans only)
