@@ -2407,11 +2407,6 @@ sub dotmacroncomb by dotmacroncomb.case;
 sub tildemacroncomb by tildemacroncomb.case;
 } case;
 
-feature liga {
-sub f i by fi;
-sub f l by fl;
-} liga;
-
 feature dlig {
 sub f f l by f_f_l;
 sub f f i by f_f_i;
@@ -2423,6 +2418,11 @@ sub f j by f_j;
 sub f l by f_l;
 sub f t by f_t;
 } dlig;
+
+feature liga {
+sub f i by fi;
+sub f l by fl;
+} liga;
 
 feature zero {
 # automatic
